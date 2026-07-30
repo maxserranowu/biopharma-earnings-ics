@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//biopharma-earnings-ics//Earnings Calendar 1.0//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Biopharma Earnings (2/3)
+NAME:Biopharma Earnings (2/3)
+X-WR-CALDESC:Earnings calls for US-listed biotech\, pharma\, specialty phar
+ ma and life-sciences issuers. Auto-updated.
+DESCRIPTION:Earnings calls for US-listed biotech\, pharma\, specialty pharm
+ a and life-sciences issuers. Auto-updated.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT120M
+X-PUBLISHED-TTL:PT120M
+COLOR:seagreen
+END:VCALENDAR

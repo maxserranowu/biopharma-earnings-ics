@@ -1,0 +1,83 @@
+name: Build earnings calendar
+
+on:
+  schedule:
+    # Every 2 hours. Outlook pulls a subscribed calendar roughly every 3 hours
+    # (Microsoft's documented target; it can stretch past 24h). Building more
+    # often than Outlook reads costs nothing and guarantees the feed is already
+    # fresh whenever Outlook happens to look.
+    - cron: "17 */2 * * *"
+  workflow_dispatch:
+    inputs:
+      refresh_universe:
+        description: "Force full SEC universe rebuild"
+        type: boolean
+        default: false
+
+concurrency:
+  group: build-calendar
+  cancel-in-progress: false     # never interrupt a run mid-write
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      # HTTP cache only; the state file is committed, never cached.
+      - uses: actions/cache@v4
+        with:
+          path: .cache
+          key: http-cache-${{ github.run_id }}
+          restore-keys: http-cache-
+
+      - name: Build feeds
+        env:
+          CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+        run: |
+          python -m src.build --config config.yaml \
+            ${{ inputs.refresh_universe && '--refresh-universe' || '' }}
+
+      - name: Validate ICS output
+        run: python -m tests.validate docs/*.ics
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "earnings-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs state
+          if git diff --cached --quiet; then
+            echo "No changes this run."
+          else
+            git commit -m "calendar: refresh $(date -u +'%Y-%m-%dT%H:%MZ')"
+            # Another scheduled run may have landed while this one was working.
+            git pull --rebase --autostash origin ${{ github.ref_name }}
+            git push
+          fi
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "### Feed status" >> $GITHUB_STEP_SUMMARY
+          if [ -f docs/status.json ]; then
+            python -c "
+          import json;d=json.load(open('docs/status.json'))
+          print('| Feed | Events | Size |'); print('|---|---:|---:|')
+          [print(f\"| {f['name']} | {f['events']} | {f['bytes']/1024:.0f} KB |\") for f in d['feeds']]
+          print(); print(f\"Universe: {d['universe_size']} tickers - new: {d['new']} - updated: {d['updated']}\")
+          " >> $GITHUB_STEP_SUMMARY
+          fi

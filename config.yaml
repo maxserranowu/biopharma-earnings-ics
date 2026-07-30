@@ -1,0 +1,170 @@
+# =============================================================================
+# biopharma-earnings-ics  --  configuration
+# Every value here is safe to edit; nothing else needs to change to retune the
+# system. Secrets come from environment variables via ${VAR} expansion.
+# =============================================================================
+
+# The SEC requires a descriptive User-Agent with a real contact address on all
+# automated EDGAR traffic. Requests without one get blocked.
+user_agent: "biopharma-earnings-ics/1.0 (${CONTACT_EMAIL})"
+
+# Becomes the right-hand side of every ICS UID. Must NEVER change once you have
+# subscribed -- changing it re-issues every event as a new one and duplicates
+# your entire calendar.
+uid_domain: "biopharma-earnings.feeds"
+
+# Where the feeds are published. Used only for logging and status.json.
+public_base_url: "https://YOURNAME.github.io/biopharma-earnings-ics"
+
+paths:
+  output_dir: docs      # GitHub Pages serves from /docs on the default branch
+  state_dir: state
+  cache_dir: .cache
+
+http:
+  cache_ttl_seconds: 3600   # applies to IR pages and SEC submissions, not vendor calendars
+
+# -----------------------------------------------------------------------------
+window:
+  days_back: 30           # keep recent calls visible (replay links land after the call)
+  days_forward: 200       # ~2 quarters of forward visibility
+  cancel_grace_days: 30   # how long a cancelled event stays visible, struck through
+  purge_after_days: 45    # drop from state entirely once this far past
+
+behaviour:
+  default_duration_minutes: 60
+  bmo_time_et: "08:00"    # assumed time for "before market open"
+  amc_time_et: "16:30"    # assumed time for "after market close"
+  # When no source publishes a time, emit an all-day event rather than guessing.
+  treat_unknown_time_as_all_day: true
+  # A candidate this many days from an existing event is treated as the SAME
+  # call rescheduled, not a new one. Keeps UIDs stable.
+  reschedule_match_days: 45
+  # Consecutive runs an event must be absent from every provider before we call
+  # it cancelled. Guards against a single vendor outage nuking the calendar.
+  cancel_after_missing_runs: 3
+  ttl_minutes: 120        # advertised REFRESH-INTERVAL / X-PUBLISHED-TTL
+
+# -----------------------------------------------------------------------------
+# UNIVERSE -- who counts as biopharma
+# Sourced from SEC EDGAR SIC classification (Office of Life Sciences).
+# -----------------------------------------------------------------------------
+universe:
+  sic_codes:
+    - "2833"   # Medicinal chemicals & botanical products
+    - "2834"   # Pharmaceutical preparations   (large-cap pharma, specialty pharma)
+    - "2835"   # In-vitro & in-vivo diagnostic substances
+    - "2836"   # Biological products           (most biotech)
+    - "8731"   # Commercial physical & biological research (clinical-stage biotech)
+  exchanges: ["Nasdaq", "NYSE", "NYSE American", "CBOE"]
+  refresh_days: 7
+  workers: 8
+
+  # SIC assignment is imperfect. Force-add anything it misses.
+  include:
+    - ticker: "TMO"
+      name: "Thermo Fisher Scientific Inc."
+    - ticker: "DHR"
+      name: "Danaher Corporation"
+    - ticker: "A"
+      name: "Agilent Technologies, Inc."
+    - ticker: "IQV"
+      name: "IQVIA Holdings Inc."
+
+  # ... and force-remove shells, SPACs, or anything noisy.
+  exclude: []
+
+# -----------------------------------------------------------------------------
+# PROVIDERS -- forward-looking dates
+# -----------------------------------------------------------------------------
+providers:
+  fmp:
+    enabled: true
+    api_key: "${FMP_API_KEY}"
+    use_confirmed: true      # company-confirmed feed carries exact times + release URLs
+
+  finnhub:
+    enabled: true
+    api_key: "${FINNHUB_API_KEY}"
+
+  nasdaq:
+    enabled: true            # free, no key; the safety net if a paid key lapses
+    max_days: 120
+
+  sec_8k:
+    enabled: true            # official confirmation + permanent release URL
+    lookback_days: 21
+    workers: 6
+
+# -----------------------------------------------------------------------------
+# ENRICHMENT -- webcast / deck / replay / dial-in from company IR sites
+# -----------------------------------------------------------------------------
+enrichment:
+  enabled: true
+  workers: 4
+  days_ahead: 45            # only scrape near-term events; keeps runtime bounded
+  days_behind: 14           # revisit after the call to pick up replay links
+  date_tolerance_days: 1
+
+  # Pin an IR events page where autodiscovery misses. Highest-value manual knob
+  # in the whole system -- a few dozen entries covers most of what you care about.
+  ir_urls:
+    LLY: "https://investor.lilly.com"
+    PFE: "https://investors.pfizer.com"
+    MRK: "https://www.merck.com/investor-relations"
+    ABBV: "https://investors.abbvie.com"
+    AMGN: "https://investors.amgen.com"
+    GILD: "https://investors.gilead.com"
+    VRTX: "https://investors.vrtx.com"
+    REGN: "https://investor.regeneron.com"
+    BIIB: "https://investors.biogen.com"
+    MRNA: "https://investors.modernatx.com"
+
+# -----------------------------------------------------------------------------
+# OVERRIDES -- manual truth, beats every provider.
+# Keyed by event key (TICKER-FY####Q#) or by bare ticker.
+# -----------------------------------------------------------------------------
+overrides: {}
+  # LLY-FY2026Q3:
+  #   status: CONFIRMED
+  #   links:
+  #     webcast: "https://investor.lilly.com/events/q3-2026"
+
+# -----------------------------------------------------------------------------
+# FEEDS -- each becomes one .ics file, i.e. one subscribable URL.
+# Start with "all". Add narrower feeds only if the full one is unwieldy.
+# -----------------------------------------------------------------------------
+# The full universe is ~987 tickers, which over a 230-day window is ~2,500
+# events -- about 6 MB as one file. Outlook does not publish a hard size limit,
+# but very large subscribed calendars sync unreliably, so the full feed is
+# published as 3 shards of ~630 KB. Shard assignment is a hash of the ticker and
+# is PERMANENT, so a symbol never migrates between files.
+#
+# Subscribe to the watchlist plus all three shards: four URLs, pasted once.
+feeds:
+  - name: all
+    filename: biopharma-earnings.ics
+    calname: "Biopharma Earnings"
+    caldesc: "Earnings calls for US-listed biotech, pharma, specialty pharma and life-sciences issuers. Auto-updated."
+    split: 3          # -> biopharma-earnings-1.ics, -2.ics, -3.ics
+    compact: true     # omit blank rows + HTML body; ~3x smaller
+
+  - name: watchlist
+    filename: biopharma-earnings-watchlist.ics
+    calname: "Biopharma Earnings - Watchlist"
+    caldesc: "Curated subset. Full detail, clickable links, 15-minute reminder."
+    alarm_minutes: 15
+    # No split, no compact: this one is small enough to carry everything.
+    tickers:
+      - LLY
+      - PFE
+      - MRK
+      - ABBV
+      - AMGN
+      - GILD
+      - VRTX
+      - REGN
+      - BIIB
+      - MRNA
+      - BMY
+      - JNJ
