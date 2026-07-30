@@ -1,0 +1,7162 @@
+{
+ "built_at": "2026-07-30T22:11:55.833987+00:00",
+ "companies": {
+  "AAPG": {
+   "cik": "0002023311",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ASCENTAGE PHARMA GROUP INTERNATIONAL",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AAPG"
+  },
+  "AARD": {
+   "cik": "0001774857",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Aardvark Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AARD"
+  },
+  "ABBV": {
+   "cik": "0001551152",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "AbbVie Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ABBV"
+  },
+  "ABCL": {
+   "cik": "0001703057",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "AbCellera Biologics Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ABCL"
+  },
+  "ABEO": {
+   "cik": "0000318306",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ABEONA THERAPEUTICS INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ABEO"
+  },
+  "ABOS": {
+   "cik": "0001576885",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Acumen Pharmaceuticals, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "ABOS"
+  },
+  "ABSI": {
+   "cik": "0001672688",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Absci Corp",
+   "sic": "8731",
+   "sic_description": "Services-Commercial Physical & Biological Research",
+   "ticker": "ABSI"
+  },
+  "ABT": {
+   "cik": "0000001800",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ABBOTT LABORATORIES",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ABT"
+  },
+  "ABUS": {
+   "cik": "0001447028",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Arbutus Biopharma Corp",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ABUS"
+  },
+  "ABVC": {
+   "cik": "0001173313",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ABVC BIOPHARMA, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ABVC"
+  },
+  "ABVX": {
+   "cik": "0001956827",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Abivax S.A.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ABVX"
+  },
+  "ACAD": {
+   "cik": "0001070494",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ACADIA PHARMACEUTICALS INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ACAD"
+  },
+  "ACB": {
+   "cik": "0001683541",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "AURORA CANNABIS INC",
+   "sic": "2833",
+   "sic_description": "Medicinal Chemicals & Botanical Products",
+   "ticker": "ACB"
+  },
+  "ACET": {
+   "cik": "0001720580",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Adicet Bio, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ACET"
+  },
+  "ACHV": {
+   "cik": "0000949858",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ACHIEVE LIFE SCIENCES, INC.",
+   "sic": "2835",
+   "sic_description": "In Vitro & In Vivo Diagnostic Substances",
+   "ticker": "ACHV"
+  },
+  "ACIU": {
+   "cik": "0001651625",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "AC Immune SA",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ACIU"
+  },
+  "ACOG": {
+   "cik": "0001655923",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Alpha Cognition Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "ACOG"
+  },
+  "ACRS": {
+   "cik": "0001557746",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Aclaris Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ACRS"
+  },
+  "ACRV": {
+   "cik": "0001781174",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Acrivon Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ACRV"
+  },
+  "ACTU": {
+   "cik": "0001652935",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ACTUATE THERAPEUTICS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ACTU"
+  },
+  "ACXP": {
+   "cik": "0001736243",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Acurx Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ACXP"
+  },
+  "ADAG": {
+   "cik": "0001818838",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Adagene Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ADAG"
+  },
+  "ADCT": {
+   "cik": "0001771910",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ADC Therapeutics SA",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ADCT"
+  },
+  "ADIL": {
+   "cik": "0001513525",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ADIAL PHARMACEUTICALS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ADIL"
+  },
+  "ADMA": {
+   "cik": "0001368514",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ADMA BIOLOGICS, INC.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "ADMA"
+  },
+  "ADPT": {
+   "cik": "0001478320",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Adaptive Biotechnologies Corp",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "ADPT"
+  },
+  "ADXN": {
+   "cik": "0001574232",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Addex Therapeutics Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ADXN"
+  },
+  "AEON": {
+   "cik": "0001837607",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "AEON Biopharma, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AEON"
+  },
+  "AGEN": {
+   "cik": "0001098972",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "AGENUS INC",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "AGEN"
+  },
+  "AGIO": {
+   "cik": "0001439222",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "AGIOS PHARMACEUTICALS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AGIO"
+  },
+  "AGMB": {
+   "cik": "0002020932",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Agomab Therapeutics NV",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "AGMB"
+  },
+  "AIM": {
+   "cik": "0000946644",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "AIM ImmunoTech Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "AIM"
+  },
+  "AKAN": {
+   "cik": "0001888014",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "AKANDA CORP.",
+   "sic": "2833",
+   "sic_description": "Medicinal Chemicals & Botanical Products",
+   "ticker": "AKAN"
+  },
+  "AKBA": {
+   "cik": "0001517022",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Akebia Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AKBA"
+  },
+  "AKTS": {
+   "cik": "0002035832",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Aktis Oncology, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AKTS"
+  },
+  "AKTX": {
+   "cik": "0001541157",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Akari Therapeutics Plc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AKTX"
+  },
+  "ALDX": {
+   "cik": "0001341235",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Aldeyra Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ALDX"
+  },
+  "ALEC": {
+   "cik": "0001653087",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Alector, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "ALEC"
+  },
+  "ALGS": {
+   "cik": "0001799448",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Aligos Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "ALGS"
+  },
+  "ALKS": {
+   "cik": "0001520262",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Alkermes plc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ALKS"
+  },
+  "ALLO": {
+   "cik": "0001737287",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Allogene Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "ALLO"
+  },
+  "ALLR": {
+   "cik": "0001860657",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Allarity Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ALLR"
+  },
+  "ALMS": {
+   "cik": "0001847367",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ALUMIS INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ALMS"
+  },
+  "ALNY": {
+   "cik": "0001178670",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ALNYLAM PHARMACEUTICALS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ALNY"
+  },
+  "ALT": {
+   "cik": "0001326190",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Altimmune, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ALT"
+  },
+  "ALVO": {
+   "cik": "0001898416",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Alvotech",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "ALVO"
+  },
+  "ALXO": {
+   "cik": "0001810182",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ALX ONCOLOGY HOLDINGS INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ALXO"
+  },
+  "ALZN": {
+   "cik": "0001677077",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Alzamend Neuro, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ALZN"
+  },
+  "AMGN": {
+   "cik": "0000318154",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "AMGEN INC",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "AMGN"
+  },
+  "AMLX": {
+   "cik": "0001658551",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Amylyx Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AMLX"
+  },
+  "AMPH": {
+   "cik": "0001297184",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Amphastar Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AMPH"
+  },
+  "AMRN": {
+   "cik": "0000897448",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "AMARIN CORP PLC\\UK",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AMRN"
+  },
+  "AMRX": {
+   "cik": "0001723128",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Amneal Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AMRX"
+  },
+  "ANAB": {
+   "cik": "0001370053",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ANAPTYSBIO, INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ANAB"
+  },
+  "ANIP": {
+   "cik": "0001023024",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ANI PHARMACEUTICALS INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ANIP"
+  },
+  "ANIX": {
+   "cik": "0000715446",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Anixa Biosciences Inc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ANIX"
+  },
+  "ANL": {
+   "cik": "0001944552",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Adlai Nortye Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ANL"
+  },
+  "ANNX": {
+   "cik": "0001528115",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Annexon, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ANNX"
+  },
+  "ANRO": {
+   "cik": "0001999480",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Alto Neuroscience, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ANRO"
+  },
+  "ANTX": {
+   "cik": "0001880438",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "AN2 Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ANTX"
+  },
+  "ANVS": {
+   "cik": "0001477845",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Annovis Bio, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ANVS"
+  },
+  "APGE": {
+   "cik": "0001974640",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Apogee Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "APGE"
+  },
+  "APLM": {
+   "cik": "0001944885",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Apollomics Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "APLM"
+  },
+  "APRE": {
+   "cik": "0001781983",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Aprea Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "APRE"
+  },
+  "APUS": {
+   "cik": "0001894525",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Apimeds Pharmaceuticals US, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "APUS"
+  },
+  "APVO": {
+   "cik": "0001671584",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Aptevo Therapeutics Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "APVO"
+  },
+  "AQST": {
+   "cik": "0001398733",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Aquestive Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AQST"
+  },
+  "ARCT": {
+   "cik": "0001768224",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Arcturus Therapeutics Holdings Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ARCT"
+  },
+  "ARDX": {
+   "cik": "0001437402",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ARDELYX, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ARDX"
+  },
+  "ARGX": {
+   "cik": "0001697862",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ARGENX SE",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "ARGX"
+  },
+  "ARMP": {
+   "cik": "0000921114",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Armata Pharmaceuticals, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "ARMP"
+  },
+  "ARQT": {
+   "cik": "0001787306",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Arcutis Biotherapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ARQT"
+  },
+  "ARTL": {
+   "cik": "0001621221",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ARTELO BIOSCIENCES, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ARTL"
+  },
+  "ARTV": {
+   "cik": "0001817241",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Artiva Biotherapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "ARTV"
+  },
+  "ARVN": {
+   "cik": "0001655759",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ARVINAS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ARVN"
+  },
+  "ARWR": {
+   "cik": "0000879407",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ARROWHEAD PHARMACEUTICALS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ARWR"
+  },
+  "ASBP": {
+   "cik": "0001847345",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Aspire Biopharma Holdings, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ASBP"
+  },
+  "ASMB": {
+   "cik": "0001426800",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ASSEMBLY BIOSCIENCES, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ASMB"
+  },
+  "ASND": {
+   "cik": "0001612042",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Ascendis Pharma A/S",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ASND"
+  },
+  "ATAI": {
+   "cik": "0002081043",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "AtaiBeckley Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ATAI"
+  },
+  "ATHE": {
+   "cik": "0001131343",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ALTERITY THERAPEUTICS LTD",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ATHE"
+  },
+  "ATNM": {
+   "cik": "0001388320",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Actinium Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ATNM"
+  },
+  "ATOS": {
+   "cik": "0001488039",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ATOSSA THERAPEUTICS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ATOS"
+  },
+  "ATRA": {
+   "cik": "0001604464",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Atara Biotherapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "ATRA"
+  },
+  "ATYR": {
+   "cik": "0001339970",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "aTYR PHARMA INC",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "ATYR"
+  },
+  "AUPH": {
+   "cik": "0001600620",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Aurinia Pharmaceuticals Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AUPH"
+  },
+  "AURA": {
+   "cik": "0001501796",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Aura Biosciences, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "AURA"
+  },
+  "AUTL": {
+   "cik": "0001730463",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Autolus Therapeutics plc",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "AUTL"
+  },
+  "AVBP": {
+   "cik": "0001868279",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ArriVent BioPharma, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AVBP"
+  },
+  "AVIR": {
+   "cik": "0001593899",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Atea Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AVIR"
+  },
+  "AVLN": {
+   "cik": "0001540171",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Avalyn Pharma Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AVLN"
+  },
+  "AVTX": {
+   "cik": "0001534120",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Avalo Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AVTX"
+  },
+  "AVXL": {
+   "cik": "0001314052",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ANAVEX LIFE SCIENCES CORP.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "AVXL"
+  },
+  "AXSM": {
+   "cik": "0001579428",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Axsome Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AXSM"
+  },
+  "AYTU": {
+   "cik": "0001385818",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "AYTU BIOPHARMA, INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AYTU"
+  },
+  "AZN": {
+   "cik": "0000901832",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ASTRAZENECA PLC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AZN"
+  },
+  "AZTR": {
+   "cik": "0001701478",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Azitra, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AZTR"
+  },
+  "BBIO": {
+   "cik": "0001743881",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BridgeBio Pharma, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BBIO"
+  },
+  "BBOT": {
+   "cik": "0001869105",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BridgeBio Oncology Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BBOT"
+  },
+  "BCAB": {
+   "cik": "0001826892",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BioAtla, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "BCAB"
+  },
+  "BCAX": {
+   "cik": "0002023658",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Bicara Therapeutics Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BCAX"
+  },
+  "BCDA": {
+   "cik": "0000925741",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BioCardia, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "BCDA"
+  },
+  "BCRX": {
+   "cik": "0000882796",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BIOCRYST PHARMACEUTICALS INC",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "BCRX"
+  },
+  "BCTX": {
+   "cik": "0001610820",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BriaCell Therapeutics Corp.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BCTX"
+  },
+  "BCYC": {
+   "cik": "0001761612",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BICYCLE THERAPEUTICS PLC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BCYC"
+  },
+  "BDRX": {
+   "cik": "0001643918",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Biodexa Pharmaceuticals Plc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BDRX"
+  },
+  "BDTX": {
+   "cik": "0001701541",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Black Diamond Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "BDTX"
+  },
+  "BEAM": {
+   "cik": "0001745999",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Beam Therapeutics Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "BEAM"
+  },
+  "BFRG": {
+   "cik": "0001829247",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BullFrog AI Holdings, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BFRG"
+  },
+  "BFRI": {
+   "cik": "0001858685",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Biofrontera Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BFRI"
+  },
+  "BGM": {
+   "cik": "0001779578",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BGM Group Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BGM"
+  },
+  "BHC": {
+   "cik": "0000885590",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Bausch Health Companies Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BHC"
+  },
+  "BHST": {
+   "cik": "0001723464",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BIOHARVEST SCIENCES INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BHST"
+  },
+  "BHVN": {
+   "cik": "0001935979",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Biohaven Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BHVN"
+  },
+  "BIAF": {
+   "cik": "0001712762",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "bioAffinity Technologies, Inc.",
+   "sic": "8731",
+   "sic_description": "Services-Commercial Physical & Biological Research",
+   "ticker": "BIAF"
+  },
+  "BIIB": {
+   "cik": "0000875045",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BIOGEN INC.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "BIIB"
+  },
+  "BIOA": {
+   "cik": "0001709941",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BioAge Labs, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BIOA"
+  },
+  "BIVI": {
+   "cik": "0001580149",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BIOVIE INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BIVI"
+  },
+  "BKHA": {
+   "cik": "0002000775",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Black Hawk Acquisition Corp",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "BKHA"
+  },
+  "BLRX": {
+   "cik": "0001498403",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BioLineRx Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BLRX"
+  },
+  "BLTE": {
+   "cik": "0001889109",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BELITE BIO, INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BLTE"
+  },
+  "BMEA": {
+   "cik": "0001840439",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Biomea Fusion, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BMEA"
+  },
+  "BMRA": {
+   "cik": "0000073290",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BIOMERICA INC",
+   "sic": "2835",
+   "sic_description": "In Vitro & In Vivo Diagnostic Substances",
+   "ticker": "BMRA"
+  },
+  "BMRN": {
+   "cik": "0001048477",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BIOMARIN PHARMACEUTICAL INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BMRN"
+  },
+  "BMY": {
+   "cik": "0000014272",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BRISTOL MYERS SQUIBB CO",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BMY"
+  },
+  "BNTC": {
+   "cik": "0001808898",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Benitec Biopharma Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BNTC"
+  },
+  "BNTX": {
+   "cik": "0001776985",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BioNTech SE",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "BNTX"
+  },
+  "BOLD": {
+   "cik": "0001782303",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Boundless Bio, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BOLD"
+  },
+  "BOLT": {
+   "cik": "0001641281",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Bolt Biotherapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BOLT"
+  },
+  "BON": {
+   "cik": "0001816815",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Bon Natural Life Ltd",
+   "sic": "2833",
+   "sic_description": "Medicinal Chemicals & Botanical Products",
+   "ticker": "BON"
+  },
+  "BRNS": {
+   "cik": "0001828185",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Barinthus Biotherapeutics plc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BRNS"
+  },
+  "BTAI": {
+   "cik": "0001720893",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BioXcel Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BTAI"
+  },
+  "BTMD": {
+   "cik": "0001819253",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "biote Corp.",
+   "sic": "2833",
+   "sic_description": "Medicinal Chemicals & Botanical Products",
+   "ticker": "BTMD"
+  },
+  "BYSI": {
+   "cik": "0001677940",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BeyondSpring Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BYSI"
+  },
+  "CABA": {
+   "cik": "0001759138",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Cabaletta Bio, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "CABA"
+  },
+  "CADL": {
+   "cik": "0001841387",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Candel Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "CADL"
+  },
+  "CALC": {
+   "cik": "0001534133",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CalciMedica, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CALC"
+  },
+  "CAMP": {
+   "cik": "0001736730",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Camp4 Therapeutics Corp",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CAMP"
+  },
+  "CANF": {
+   "cik": "0001536196",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Can-Fite BioPharma Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CANF"
+  },
+  "CAPR": {
+   "cik": "0001133869",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CAPRICOR THERAPEUTICS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CAPR"
+  },
+  "CATX": {
+   "cik": "0000728387",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Perspective Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CATX"
+  },
+  "CBIO": {
+   "cik": "0001253689",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CRESCENT BIOPHARMA, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CBIO"
+  },
+  "CCCC": {
+   "cik": "0001662579",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "C4 Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "CCCC"
+  },
+  "CDIO": {
+   "cik": "0001870144",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Cardio Diagnostics Holdings, Inc.",
+   "sic": "2835",
+   "sic_description": "In Vitro & In Vivo Diagnostic Substances",
+   "ticker": "CDIO"
+  },
+  "CDT": {
+   "cik": "0001896212",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CDT Equity Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CDT"
+  },
+  "CELU": {
+   "cik": "0001752828",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Celularity Inc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CELU"
+  },
+  "CELZ": {
+   "cik": "0001187953",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "CELZ"
+  },
+  "CGC": {
+   "cik": "0001737927",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Canopy Growth Corp",
+   "sic": "2833",
+   "sic_description": "Medicinal Chemicals & Botanical Products",
+   "ticker": "CGC"
+  },
+  "CGEM": {
+   "cik": "0001789972",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Cullinan Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "CGEM"
+  },
+  "CGEN": {
+   "cik": "0001119774",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "COMPUGEN LTD",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "CGEN"
+  },
+  "CGON": {
+   "cik": "0001991792",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CG Oncology, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "CGON"
+  },
+  "CGTX": {
+   "cik": "0001455365",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "COGNITION THERAPEUTICS INC",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "CGTX"
+  },
+  "CHRS": {
+   "cik": "0001512762",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Coherus Oncology, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "CHRS"
+  },
+  "CING": {
+   "cik": "0001862150",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Cingulate Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CING"
+  },
+  "CLDI": {
+   "cik": "0001855485",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Calidi Biotherapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "CLDI"
+  },
+  "CLDX": {
+   "cik": "0000744218",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Celldex Therapeutics, Inc.",
+   "sic": "2835",
+   "sic_description": "In Vitro & In Vivo Diagnostic Substances",
+   "ticker": "CLDX"
+  },
+  "CLLS": {
+   "cik": "0001627281",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Cellectis S.A.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "CLLS"
+  },
+  "CLNN": {
+   "cik": "0001822791",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Clene Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CLNN"
+  },
+  "CLRB": {
+   "cik": "0001279704",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Cellectar Biosciences, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CLRB"
+  },
+  "CLYM": {
+   "cik": "0001768446",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Climb Bio, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CLYM"
+  },
+  "CMMB": {
+   "cik": "0001534248",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Chemomab Therapeutics Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CMMB"
+  },
+  "CMND": {
+   "cik": "0001892500",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Clearmind Medicine Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CMND"
+  },
+  "CMPS": {
+   "cik": "0001816590",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "COMPASS Pathways plc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CMPS"
+  },
+  "CMPX": {
+   "cik": "0001738021",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Compass Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "CMPX"
+  },
+  "CNSP": {
+   "cik": "0001729427",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CNS Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CNSP"
+  },
+  "CNTB": {
+   "cik": "0001835268",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Connect Biopharma Holdings Ltd",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CNTB"
+  },
+  "CNTX": {
+   "cik": "0001842952",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Context Therapeutics Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CNTX"
+  },
+  "COAG": {
+   "cik": "0002114044",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Hemab Therapeutics Holdings, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "COAG"
+  },
+  "COCP": {
+   "cik": "0001412486",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Cocrystal Pharma, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "COCP"
+  },
+  "COGT": {
+   "cik": "0001622229",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Cogent Biosciences, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "COGT"
+  },
+  "COLL": {
+   "cik": "0001267565",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "COLLEGIUM PHARMACEUTICAL, INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "COLL"
+  },
+  "CORT": {
+   "cik": "0001088856",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CORCEPT THERAPEUTICS INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CORT"
+  },
+  "COYA": {
+   "cik": "0001835022",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Coya Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "COYA"
+  },
+  "CPHI": {
+   "cik": "0001106644",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CHINA PHARMA HOLDINGS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CPHI"
+  },
+  "CPIX": {
+   "cik": "0001087294",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CUMBERLAND PHARMACEUTICALS INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CPIX"
+  },
+  "CPRX": {
+   "cik": "0001369568",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CATALYST PHARMACEUTICALS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CPRX"
+  },
+  "CRBP": {
+   "cik": "0001595097",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Corbus Pharmaceuticals Holdings, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CRBP"
+  },
+  "CRBU": {
+   "cik": "0001619856",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Caribou Biosciences, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "CRBU"
+  },
+  "CRDF": {
+   "cik": "0001213037",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Cardiff Oncology, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "CRDF"
+  },
+  "CRDL": {
+   "cik": "0001702123",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Cardiol Therapeutics Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "CRDL"
+  },
+  "CRIS": {
+   "cik": "0001108205",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CURIS INC",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "CRIS"
+  },
+  "CRL": {
+   "cik": "0001100682",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",
+   "sic": "8731",
+   "sic_description": "Services-Commercial Physical & Biological Research",
+   "ticker": "CRL"
+  },
+  "CRMD": {
+   "cik": "0001410098",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CorMedix Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CRMD"
+  },
+  "CRNX": {
+   "cik": "0001658247",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Crinetics Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CRNX"
+  },
+  "CRON": {
+   "cik": "0001656472",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Cronos Group Inc.",
+   "sic": "2833",
+   "sic_description": "Medicinal Chemicals & Botanical Products",
+   "ticker": "CRON"
+  },
+  "CRSP": {
+   "cik": "0001674416",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CRISPR Therapeutics AG",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "CRSP"
+  },
+  "CRVO": {
+   "cik": "0001053691",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CervoMed Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CRVO"
+  },
+  "CRVS": {
+   "cik": "0001626971",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Corvus Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CRVS"
+  },
+  "CSBR": {
+   "cik": "0000771856",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CHAMPIONS ONCOLOGY, INC.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "CSBR"
+  },
+  "CTMX": {
+   "cik": "0001501989",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CytomX Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CTMX"
+  },
+  "CTNM": {
+   "cik": "0001855175",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Contineum Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CTNM"
+  },
+  "CTOR": {
+   "cik": "0001851484",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CITIUS ONCOLOGY, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CTOR"
+  },
+  "CTXR": {
+   "cik": "0001506251",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Citius Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CTXR"
+  },
+  "CUE": {
+   "cik": "0001645460",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Cue Biopharma, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CUE"
+  },
+  "CURX": {
+   "cik": "0002025942",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Curanex Pharmaceuticals Inc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CURX"
+  },
+  "CVKD": {
+   "cik": "0001937993",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Cadrenal Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CVKD"
+  },
+  "CVM": {
+   "cik": "0000725363",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CEL SCI CORP",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "CVM"
+  },
+  "CYCN": {
+   "cik": "0001755237",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Cyclerion Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CYCN"
+  },
+  "CYPH": {
+   "cik": "0001509745",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CYPHERPUNK TECHNOLOGIES INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CYPH"
+  },
+  "CYRX": {
+   "cik": "0001124524",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Cryoport, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CYRX"
+  },
+  "CYTK": {
+   "cik": "0001061983",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CYTOKINETICS INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CYTK"
+  },
+  "DARE": {
+   "cik": "0001401914",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Dare Bioscience, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "DARE"
+  },
+  "DBVT": {
+   "cik": "0001613780",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "DBV Technologies S.A.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "DBVT"
+  },
+  "DCOY": {
+   "cik": "0001615219",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Decoy Therapeutics Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "DCOY"
+  },
+  "DERM": {
+   "cik": "0001867066",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Journey Medical Corp",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "DERM"
+  },
+  "DFTX": {
+   "cik": "0001813814",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Definium Therapeutics, Inc.",
+   "sic": "2833",
+   "sic_description": "Medicinal Chemicals & Botanical Products",
+   "ticker": "DFTX"
+  },
+  "DMAC": {
+   "cik": "0001401040",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "DiaMedica Therapeutics Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "DMAC"
+  },
+  "DMRA": {
+   "cik": "0001800315",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Damora Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "DMRA"
+  },
+  "DNA": {
+   "cik": "0001830214",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Ginkgo Bioworks Holdings, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "DNA"
+  },
+  "DNLI": {
+   "cik": "0001714899",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Denali Therapeutics Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "DNLI"
+  },
+  "DNTH": {
+   "cik": "0001690585",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Dianthus Therapeutics, Inc. /DE/",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "DNTH"
+  },
+  "DRMA": {
+   "cik": "0001853816",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Dermata Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "DRMA"
+  },
+  "DRUG": {
+   "cik": "0001827401",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BRIGHT MINDS BIOSCIENCES INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "DRUG"
+  },
+  "DSGN": {
+   "cik": "0001807120",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Design Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "DSGN"
+  },
+  "DTIL": {
+   "cik": "0001357874",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "PRECISION BIOSCIENCES INC",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "DTIL"
+  },
+  "DWTX": {
+   "cik": "0001818844",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Dogwood Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "DWTX"
+  },
+  "DYAI": {
+   "cik": "0001213809",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "DYADIC INTERNATIONAL INC",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "DYAI"
+  },
+  "DYN": {
+   "cik": "0001818794",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Dyne Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "DYN"
+  },
+  "EBS": {
+   "cik": "0001367644",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Emergent BioSolutions Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "EBS"
+  },
+  "EDIT": {
+   "cik": "0001650664",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Editas Medicine, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "EDIT"
+  },
+  "EDSA": {
+   "cik": "0001540159",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Edesa Biotech, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "EDSA"
+  },
+  "EIKN": {
+   "cik": "0001861123",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Eikon Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "EIKN"
+  },
+  "ELAB": {
+   "cik": "0001840563",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "PMGC Holdings Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ELAB"
+  },
+  "ELAN": {
+   "cik": "0001739104",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Elanco Animal Health Inc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ELAN"
+  },
+  "ELDN": {
+   "cik": "0001404281",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Eledon Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ELDN"
+  },
+  "ELOX": {
+   "cik": "0001035354",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Eloxx Pharmaceuticals, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "ELOX"
+  },
+  "ELTX": {
+   "cik": "0001601485",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Elicio Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ELTX"
+  },
+  "ELUT": {
+   "cik": "0001708527",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ELUTIA INC.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "ELUT"
+  },
+  "ELVN": {
+   "cik": "0001672619",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Enliven Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ELVN"
+  },
+  "ENGN": {
+   "cik": "0001980845",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "enGene Therapeutics Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "ENGN"
+  },
+  "ENLV": {
+   "cik": "0001596812",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Enlivex Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ENLV"
+  },
+  "ENSC": {
+   "cik": "0001716947",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Ensysce Biosciences, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ENSC"
+  },
+  "ENTA": {
+   "cik": "0001177648",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ENANTA PHARMACEUTICALS INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ENTA"
+  },
+  "ENTX": {
+   "cik": "0001638097",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Entera Bio Ltd.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "ENTX"
+  },
+  "ENVB": {
+   "cik": "0000890821",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Enveric Biosciences, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ENVB"
+  },
+  "EOLS": {
+   "cik": "0001570562",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Evolus, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "EOLS"
+  },
+  "EPRX": {
+   "cik": "0001581178",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "EUPRAXIA PHARMACEUTICALS INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "EPRX"
+  },
+  "EQ": {
+   "cik": "0001746466",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Equillium, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "EQ"
+  },
+  "ERAS": {
+   "cik": "0001761918",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Erasca, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ERAS"
+  },
+  "ERNA": {
+   "cik": "0000748592",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Ernexa Therapeutics Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ERNA"
+  },
+  "ESLA": {
+   "cik": "0001844417",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Estrella Immunopharma, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "ESLA"
+  },
+  "ETON": {
+   "cik": "0001710340",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Eton Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ETON"
+  },
+  "EVAX": {
+   "cik": "0001828253",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Evaxion A/S",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "EVAX"
+  },
+  "EVMN": {
+   "cik": "0002044725",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Evommune, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "EVMN"
+  },
+  "EVO": {
+   "cik": "0001412558",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Evotec SE",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "EVO"
+  },
+  "EWTX": {
+   "cik": "0001710072",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Edgewise Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "EWTX"
+  },
+  "EXEL": {
+   "cik": "0000939767",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "EXELIXIS, INC.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "EXEL"
+  },
+  "EXOZ": {
+   "cik": "0002010788",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "EXOZYMES INC.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "EXOZ"
+  },
+  "FATE": {
+   "cik": "0001434316",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "FATE THERAPEUTICS INC",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "FATE"
+  },
+  "FBIO": {
+   "cik": "0001429260",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Fortress Biotech, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "FBIO"
+  },
+  "FBLG": {
+   "cik": "0001958777",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "FibroBiologics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "FBLG"
+  },
+  "FBRX": {
+   "cik": "0001419041",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Forte Biosciences, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "FBRX"
+  },
+  "FDMT": {
+   "cik": "0001650648",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "4D Molecular Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "FDMT"
+  },
+  "FENC": {
+   "cik": "0001211583",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "FENNEC PHARMACEUTICALS INC.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "FENC"
+  },
+  "FHTX": {
+   "cik": "0001822462",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Foghorn Therapeutics Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "FHTX"
+  },
+  "FLNA": {
+   "cik": "0001069530",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "FILANA THERAPEUTICS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "FLNA"
+  },
+  "FTH": {
+   "cik": "0001829802",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Faeth Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "FTH"
+  },
+  "FTLF": {
+   "cik": "0001374328",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "FITLIFE BRANDS, INC.",
+   "sic": "2833",
+   "sic_description": "Medicinal Chemicals & Botanical Products",
+   "ticker": "FTLF"
+  },
+  "FULC": {
+   "cik": "0001680581",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Fulcrum Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "FULC"
+  },
+  "GALT": {
+   "cik": "0001133416",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "GALECTIN THERAPEUTICS INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "GALT"
+  },
+  "GANX": {
+   "cik": "0001819411",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Gain Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "GANX"
+  },
+  "GDTC": {
+   "cik": "0001873093",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CytoMed Therapeutics Ltd",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "GDTC"
+  },
+  "GELS": {
+   "cik": "0001920092",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Gelteq Ltd",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "GELS"
+  },
+  "GENB": {
+   "cik": "0002100782",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Generate Biomedicines, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "GENB"
+  },
+  "GERN": {
+   "cik": "0000886744",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "GERON CORP",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "GERN"
+  },
+  "GHRS": {
+   "cik": "0001855129",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "GH Research PLC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "GHRS"
+  },
+  "GILD": {
+   "cik": "0000882095",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "GILEAD SCIENCES, INC.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "GILD"
+  },
+  "GLAS": {
+   "cik": "0001848731",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Glass House Brands Inc.",
+   "sic": "2833",
+   "sic_description": "Medicinal Chemicals & Botanical Products",
+   "ticker": "GLAS"
+  },
+  "GLMD": {
+   "cik": "0001595353",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Galmed Pharmaceuticals Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "GLMD"
+  },
+  "GLSI": {
+   "cik": "0001799788",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Greenwich LifeSciences, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "GLSI"
+  },
+  "GLUE": {
+   "cik": "0001826457",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Monte Rosa Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "GLUE"
+  },
+  "GMAB": {
+   "cik": "0001434265",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "GENMAB A/S",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "GMAB"
+  },
+  "GNLX": {
+   "cik": "0001231457",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "GENELUX Corp",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "GNLX"
+  },
+  "GNPX": {
+   "cik": "0001595248",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Genprex, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "GNPX"
+  },
+  "GNTA": {
+   "cik": "0001838716",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Genenta Science S.p.A.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "GNTA"
+  },
+  "GOSS": {
+   "cik": "0001728117",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Gossamer Bio, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "GOSS"
+  },
+  "GOVX": {
+   "cik": "0000832489",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "GeoVax Labs, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "GOVX"
+  },
+  "GPCR": {
+   "cik": "0001888886",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Structure Therapeutics Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "GPCR"
+  },
+  "GRCE": {
+   "cik": "0001444192",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Grace Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "GRCE"
+  },
+  "GRFS": {
+   "cik": "0001438569",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Grifols SA",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "GRFS"
+  },
+  "GRI": {
+   "cik": "0001824293",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "GRI Bio, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "GRI"
+  },
+  "GRML": {
+   "cik": "0001907223",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Greenland Mines Ltd",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "GRML"
+  },
+  "GSK": {
+   "cik": "0001131399",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "GSK plc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "GSK"
+  },
+  "GTBP": {
+   "cik": "0000109657",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "GT Biopharma, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "GTBP"
+  },
+  "GYRE": {
+   "cik": "0001124105",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "GYRE THERAPEUTICS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "GYRE"
+  },
+  "HALO": {
+   "cik": "0001159036",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "HALOZYME THERAPEUTICS, INC.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "HALO"
+  },
+  "HCM": {
+   "cik": "0001648257",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "HUTCHMED (China) Ltd",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "HCM"
+  },
+  "HCWB": {
+   "cik": "0001828673",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "HCW Biologics Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "HCWB"
+  },
+  "HELP": {
+   "cik": "0001833141",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CYBIN INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "HELP"
+  },
+  "HIND": {
+   "cik": "0001427570",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Vyome Holdings, Inc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "HIND"
+  },
+  "HOWL": {
+   "cik": "0001785530",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Werewolf Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "HOWL"
+  },
+  "HRMY": {
+   "cik": "0001802665",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Harmony Biosciences Holdings, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "HRMY"
+  },
+  "HROW": {
+   "cik": "0001360214",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "HARROW, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "HROW"
+  },
+  "HRTX": {
+   "cik": "0000818033",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "HERON THERAPEUTICS, INC. /DE/",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "HRTX"
+  },
+  "HUMA": {
+   "cik": "0001818382",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Humacyte, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "HUMA"
+  },
+  "HURA": {
+   "cik": "0001498382",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "TuHURA Biosciences, Inc./NV",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "HURA"
+  },
+  "HYFT": {
+   "cik": "0001715925",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "MindWalk Holdings Corp.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "HYFT"
+  },
+  "HYPD": {
+   "cik": "0001682639",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "HYPERION DEFI, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "HYPD"
+  },
+  "IBIO": {
+   "cik": "0001420720",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "iBio, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "IBIO"
+  },
+  "IBO": {
+   "cik": "0001834105",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "IMPACT BIOMEDICAL INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "IBO"
+  },
+  "IBRX": {
+   "cik": "0001326110",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ImmunityBio, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "IBRX"
+  },
+  "ICCC": {
+   "cik": "0000811641",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "IMMUCELL CORP /DE/",
+   "sic": "2835",
+   "sic_description": "In Vitro & In Vivo Diagnostic Substances",
+   "ticker": "ICCC"
+  },
+  "ICLR": {
+   "cik": "0001060955",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ICON PLC",
+   "sic": "8731",
+   "sic_description": "Services-Commercial Physical & Biological Research",
+   "ticker": "ICLR"
+  },
+  "IDXX": {
+   "cik": "0000874716",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "IDEXX LABORATORIES INC /DE",
+   "sic": "2835",
+   "sic_description": "In Vitro & In Vivo Diagnostic Substances",
+   "ticker": "IDXX"
+  },
+  "IDYA": {
+   "cik": "0001676725",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "IDEAYA Biosciences, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "IDYA"
+  },
+  "IFRX": {
+   "cik": "0001708688",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "InflaRx N.V.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "IFRX"
+  },
+  "IGC": {
+   "cik": "0001326205",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "IGC Pharma, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "IGC"
+  },
+  "IKT": {
+   "cik": "0001750149",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Inhibikase Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "IKT"
+  },
+  "IMA": {
+   "cik": "0001835579",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ImageneBio, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "IMA"
+  },
+  "IMCC": {
+   "cik": "0001792030",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "IM Cannabis Corp.",
+   "sic": "2833",
+   "sic_description": "Medicinal Chemicals & Botanical Products",
+   "ticker": "IMCC"
+  },
+  "IMCR": {
+   "cik": "0001671927",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Immunocore Holdings plc",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "IMCR"
+  },
+  "IMDX": {
+   "cik": "0001642380",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Insight Molecular Diagnostics Inc.",
+   "sic": "2835",
+   "sic_description": "In Vitro & In Vivo Diagnostic Substances",
+   "ticker": "IMDX"
+  },
+  "IMMP": {
+   "cik": "0001506184",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "IMMUTEP Ltd",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "IMMP"
+  },
+  "IMMX": {
+   "cik": "0001873835",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Immix Biopharma, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "IMMX"
+  },
+  "IMNM": {
+   "cik": "0001472012",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Immunome Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "IMNM"
+  },
+  "IMNN": {
+   "cik": "0000749647",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Imunon, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "IMNN"
+  },
+  "IMRN": {
+   "cik": "0001660046",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Immuron Ltd",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "IMRN"
+  },
+  "IMRX": {
+   "cik": "0001790340",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Immuneering Corp",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "IMRX"
+  },
+  "IMTX": {
+   "cik": "0001809196",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Immatics N.V.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "IMTX"
+  },
+  "IMUX": {
+   "cik": "0001280776",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "IMMUNIC, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "IMUX"
+  },
+  "IMVT": {
+   "cik": "0001764013",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Immunovant, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "IMVT"
+  },
+  "INAB": {
+   "cik": "0001740279",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "IN8BIO, INC.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "INAB"
+  },
+  "INBX": {
+   "cik": "0002007919",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Inhibrx Biosciences, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "INBX"
+  },
+  "INCR": {
+   "cik": "0001857030",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Intercure Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "INCR"
+  },
+  "INCY": {
+   "cik": "0000879169",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "INCYTE CORP",
+   "sic": "8731",
+   "sic_description": "Services-Commercial Physical & Biological Research",
+   "ticker": "INCY"
+  },
+  "INDP": {
+   "cik": "0001857044",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Indaptus Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "INDP"
+  },
+  "INDV": {
+   "cik": "0001625297",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Indivior Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "INDV"
+  },
+  "INKT": {
+   "cik": "0001840229",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "MiNK Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "INKT"
+  },
+  "INM": {
+   "cik": "0001728328",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "InMed Pharmaceuticals Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "INM"
+  },
+  "INMB": {
+   "cik": "0001711754",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Inmune Bio, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "INMB"
+  },
+  "INO": {
+   "cik": "0001055726",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "INOVIO PHARMACEUTICALS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "INO"
+  },
+  "INSM": {
+   "cik": "0001104506",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "INSMED Inc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "INSM"
+  },
+  "INTS": {
+   "cik": "0001567264",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "INTENSITY THERAPEUTICS, INC.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "INTS"
+  },
+  "INVA": {
+   "cik": "0001080014",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Innoviva, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "INVA"
+  },
+  "IONS": {
+   "cik": "0000874015",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "IONIS PHARMACEUTICALS INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "IONS"
+  },
+  "IOVA": {
+   "cik": "0001425205",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "IOVANCE BIOTHERAPEUTICS, INC.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "IOVA"
+  },
+  "IPHA": {
+   "cik": "0001598599",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Innate Pharma SA",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "IPHA"
+  },
+  "IPSC": {
+   "cik": "0001850119",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Century Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "IPSC"
+  },
+  "IQV": {
+   "cik": "0001478242",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "IQVIA HOLDINGS INC.",
+   "sic": "8731",
+   "sic_description": "Services-Commercial Physical & Biological Research",
+   "ticker": "IQV"
+  },
+  "IRD": {
+   "cik": "0001228627",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Opus Genetics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "IRD"
+  },
+  "IRON": {
+   "cik": "0001816736",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Disc Medicine, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "IRON"
+  },
+  "IRWD": {
+   "cik": "0001446847",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "IRONWOOD PHARMACEUTICALS INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "IRWD"
+  },
+  "ISPC": {
+   "cik": "0001558569",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "iSpecimen Inc.",
+   "sic": "8731",
+   "sic_description": "Services-Commercial Physical & Biological Research",
+   "ticker": "ISPC"
+  },
+  "IVA": {
+   "cik": "0001756594",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Inventiva S.A.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "IVA"
+  },
+  "IVVD": {
+   "cik": "0001832038",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Invivyd, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "IVVD"
+  },
+  "IXHL": {
+   "cik": "0001873875",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Incannex Healthcare Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "IXHL"
+  },
+  "JAGX": {
+   "cik": "0001585608",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Jaguar Health, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "JAGX"
+  },
+  "JANX": {
+   "cik": "0001817713",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Janux Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "JANX"
+  },
+  "JAZZ": {
+   "cik": "0001232524",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Jazz Pharmaceuticals plc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "JAZZ"
+  },
+  "JBIO": {
+   "cik": "0001798749",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Jade Biosciences, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "JBIO"
+  },
+  "JNJ": {
+   "cik": "0000200406",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "JOHNSON & JOHNSON",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "JNJ"
+  },
+  "JSPR": {
+   "cik": "0001788028",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Jasper Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "JSPR"
+  },
+  "JUNS": {
+   "cik": "0001679628",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "JUPITER NEUROSCIENCES, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "JUNS"
+  },
+  "KALA": {
+   "cik": "0001479419",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "KALA BIO, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "KALA"
+  },
+  "KAPA": {
+   "cik": "0001962011",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Kairos Pharma, LTD.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "KAPA"
+  },
+  "KARD": {
+   "cik": "0002123613",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Kardigan, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "KARD"
+  },
+  "KLRA": {
+   "cik": "0002096997",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Kailera Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "KLRA"
+  },
+  "KLRS": {
+   "cik": "0001754068",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Kalaris Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "KLRS"
+  },
+  "KMDA": {
+   "cik": "0001567529",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "KAMADA LTD",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "KMDA"
+  },
+  "KNSA": {
+   "cik": "0001730430",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Kiniksa Pharmaceuticals International, plc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "KNSA"
+  },
+  "KOD": {
+   "cik": "0001468748",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Kodiak Sciences Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "KOD"
+  },
+  "KPRX": {
+   "cik": "0001372514",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "KIORA PHARMACEUTICALS INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "KPRX"
+  },
+  "KPTI": {
+   "cik": "0001503802",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Karyopharm Therapeutics Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "KPTI"
+  },
+  "KROS": {
+   "cik": "0001664710",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Keros Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "KROS"
+  },
+  "KRRO": {
+   "cik": "0001703647",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Korro Bio, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "KRRO"
+  },
+  "KRYS": {
+   "cik": "0001711279",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Krystal Biotech, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "KRYS"
+  },
+  "KTTA": {
+   "cik": "0001841330",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Pasithea Therapeutics Corp.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "KTTA"
+  },
+  "KURA": {
+   "cik": "0001422143",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Kura Oncology, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "KURA"
+  },
+  "KYMR": {
+   "cik": "0001815442",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Kymera Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "KYMR"
+  },
+  "KYNB": {
+   "cik": "0000921299",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "KYNTRA BIO, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "KYNB"
+  },
+  "KYTX": {
+   "cik": "0001994702",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Kyverna Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "KYTX"
+  },
+  "KZIA": {
+   "cik": "0001075880",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "KAZIA THERAPEUTICS LTD",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "KZIA"
+  },
+  "LAB": {
+   "cik": "0001162194",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "STANDARD BIOTOOLS INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "LAB"
+  },
+  "LABT": {
+   "cik": "0002079272",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Lakewood-Amedex Biotherapeutics Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "LABT"
+  },
+  "LBRX": {
+   "cik": "0001691082",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "LB PHARMACEUTICALS INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "LBRX"
+  },
+  "LCTX": {
+   "cik": "0000876343",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Lineage Cell Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "LCTX"
+  },
+  "LEGN": {
+   "cik": "0001801198",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Legend Biotech Corp",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "LEGN"
+  },
+  "LENZ": {
+   "cik": "0001815776",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "LENZ Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "LENZ"
+  },
+  "LEXX": {
+   "cik": "0001348362",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Lexaria Bioscience Corp.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "LEXX"
+  },
+  "LFCR": {
+   "cik": "0001005286",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "LIFECORE BIOMEDICAL, INC. \\DE\\",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "LFCR"
+  },
+  "LFVN": {
+   "cik": "0000849146",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Lifevantage Corp",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "LFVN"
+  },
+  "LGND": {
+   "cik": "0000886163",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "LIGAND PHARMACEUTICALS INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "LGND"
+  },
+  "LGVN": {
+   "cik": "0001721484",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Longeveron Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "LGVN"
+  },
+  "LIMN": {
+   "cik": "0001971387",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Liminatus Pharma, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "LIMN"
+  },
+  "LITS": {
+   "cik": "0001262104",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Lite Strategy, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "LITS"
+  },
+  "LKFT": {
+   "cik": "0001421876",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Lakefront Biotherapeutics NV",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "LKFT"
+  },
+  "LLY": {
+   "cik": "0000059478",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ELI LILLY & Co",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "LLY"
+  },
+  "LNAI": {
+   "cik": "0001527728",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Lunai Bioworks Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "LNAI"
+  },
+  "LNTH": {
+   "cik": "0001521036",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Lantheus Holdings, Inc.",
+   "sic": "2835",
+   "sic_description": "In Vitro & In Vivo Diagnostic Substances",
+   "ticker": "LNTH"
+  },
+  "LONA": {
+   "cik": "0001620463",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "LeonaBio, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "LONA"
+  },
+  "LPCN": {
+   "cik": "0001535955",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Lipocine Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "LPCN"
+  },
+  "LQDA": {
+   "cik": "0001819576",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Liquidia Corp",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "LQDA"
+  },
+  "LRMR": {
+   "cik": "0001374690",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Larimar Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "LRMR"
+  },
+  "LSTA": {
+   "cik": "0000320017",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "LISATA THERAPEUTICS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "LSTA"
+  },
+  "LTRN": {
+   "cik": "0001763950",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Lantern Pharma Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "LTRN"
+  },
+  "LXEO": {
+   "cik": "0001907108",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Lexeo Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "LXEO"
+  },
+  "LXRX": {
+   "cik": "0001062822",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "LEXICON PHARMACEUTICALS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "LXRX"
+  },
+  "LYEL": {
+   "cik": "0001806952",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Lyell Immunopharma, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "LYEL"
+  },
+  "MAIA": {
+   "cik": "0001878313",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "MAIA Biotechnology, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MAIA"
+  },
+  "MANE": {
+   "cik": "0001827635",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Veradermics, Inc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MANE"
+  },
+  "MAZE": {
+   "cik": "0001842295",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Maze Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "MAZE"
+  },
+  "MBIO": {
+   "cik": "0001680048",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "MUSTANG BIO, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MBIO"
+  },
+  "MBRX": {
+   "cik": "0001659617",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Moleculin Biotech, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MBRX"
+  },
+  "MBX": {
+   "cik": "0001776111",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "MBX Biosciences, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MBX"
+  },
+  "MCRB": {
+   "cik": "0001609809",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Seres Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MCRB"
+  },
+  "MDCX": {
+   "cik": "0001997296",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Medicus Pharma Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MDCX"
+  },
+  "MDGL": {
+   "cik": "0001157601",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "MADRIGAL PHARMACEUTICALS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MDGL"
+  },
+  "MDWD": {
+   "cik": "0001593984",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "MediWound Ltd.",
+   "sic": "2833",
+   "sic_description": "Medicinal Chemicals & Botanical Products",
+   "ticker": "MDWD"
+  },
+  "MEDP": {
+   "cik": "0001668397",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Medpace Holdings, Inc.",
+   "sic": "8731",
+   "sic_description": "Services-Commercial Physical & Biological Research",
+   "ticker": "MEDP"
+  },
+  "MENS": {
+   "cik": "0001954488",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Jyong Biotech Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MENS"
+  },
+  "MESO": {
+   "cik": "0001345099",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "MESOBLAST LTD",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "MESO"
+  },
+  "MGNX": {
+   "cik": "0001125345",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "MACROGENICS INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MGNX"
+  },
+  "MGTX": {
+   "cik": "0001735438",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "MeiraGTx Holdings plc",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "MGTX"
+  },
+  "MGX": {
+   "cik": "0001785279",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Metagenomi Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "MGX"
+  },
+  "MIRA": {
+   "cik": "0001904286",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "MIRA PHARMACEUTICALS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MIRA"
+  },
+  "MIRM": {
+   "cik": "0001759425",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Mirum Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MIRM"
+  },
+  "MIST": {
+   "cik": "0001408443",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Milestone Pharmaceuticals Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MIST"
+  },
+  "MLTX": {
+   "cik": "0001821586",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "MoonLake Immunotherapeutics",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MLTX"
+  },
+  "MLYS": {
+   "cik": "0001933414",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Mineralys Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MLYS"
+  },
+  "MNKD": {
+   "cik": "0000899460",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "MANNKIND CORP",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MNKD"
+  },
+  "MNOV": {
+   "cik": "0001226616",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "MEDICINOVA INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MNOV"
+  },
+  "MNPR": {
+   "cik": "0001645469",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Monopar Therapeutics",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MNPR"
+  },
+  "MOLN": {
+   "cik": "0001745114",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "MOLECULAR PARTNERS AG",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "MOLN"
+  },
+  "MPLT": {
+   "cik": "0001770069",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "MapLight Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MPLT"
+  },
+  "MREO": {
+   "cik": "0001719714",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Mereo BioPharma Group plc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MREO"
+  },
+  "MRK": {
+   "cik": "0000310158",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Merck & Co., Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MRK"
+  },
+  "MRKR": {
+   "cik": "0001094038",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Marker Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MRKR"
+  },
+  "MRNA": {
+   "cik": "0001682852",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Moderna, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "MRNA"
+  },
+  "MRVI": {
+   "cik": "0001823239",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "MARAVAI LIFESCIENCES HOLDINGS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MRVI"
+  },
+  "MSLE": {
+   "cik": "0001421642",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Satellos Bioscience Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MSLE"
+  },
+  "MTEX": {
+   "cik": "0001056358",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "MANNATECH INC",
+   "sic": "2833",
+   "sic_description": "Medicinal Chemicals & Botanical Products",
+   "ticker": "MTEX"
+  },
+  "MTNB": {
+   "cik": "0001582554",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Matinas BioPharma Holdings, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MTNB"
+  },
+  "MTVA": {
+   "cik": "0001638287",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "MetaVia Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MTVA"
+  },
+  "MXCT": {
+   "cik": "0001287098",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "MAXCYTE, INC.",
+   "sic": "8731",
+   "sic_description": "Services-Commercial Physical & Biological Research",
+   "ticker": "MXCT"
+  },
+  "MYGN": {
+   "cik": "0000899923",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "MYRIAD GENETICS INC",
+   "sic": "2835",
+   "sic_description": "In Vitro & In Vivo Diagnostic Substances",
+   "ticker": "MYGN"
+  },
+  "NAGE": {
+   "cik": "0001386570",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Niagen Bioscience, Inc.",
+   "sic": "2833",
+   "sic_description": "Medicinal Chemicals & Botanical Products",
+   "ticker": "NAGE"
+  },
+  "NAII": {
+   "cik": "0000787253",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "NATURAL ALTERNATIVES INTERNATIONAL INC",
+   "sic": "2833",
+   "sic_description": "Medicinal Chemicals & Botanical Products",
+   "ticker": "NAII"
+  },
+  "NAMS": {
+   "cik": "0001936258",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "NewAmsterdam Pharma Co N.V.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NAMS"
+  },
+  "NATR": {
+   "cik": "0000275053",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "NATURES SUNSHINE PRODUCTS INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NATR"
+  },
+  "NBIX": {
+   "cik": "0000914475",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "NEUROCRINE BIOSCIENCES INC",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "NBIX"
+  },
+  "NBP": {
+   "cik": "0001778016",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "NovaBridge Biosciences",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NBP"
+  },
+  "NBTX": {
+   "cik": "0001760854",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Nanobiotix S.A.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NBTX"
+  },
+  "NCEL": {
+   "cik": "0001783036",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "NewcelX Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NCEL"
+  },
+  "NCNA": {
+   "cik": "0001709626",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "NuCana plc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NCNA"
+  },
+  "NEOG": {
+   "cik": "0000711377",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "NEOGEN CORP",
+   "sic": "2835",
+   "sic_description": "In Vitro & In Vivo Diagnostic Substances",
+   "ticker": "NEOG"
+  },
+  "NERV": {
+   "cik": "0001598646",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Minerva Neurosciences, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NERV"
+  },
+  "NEUP": {
+   "cik": "0001191070",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Neuphoria Therapeutics Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NEUP"
+  },
+  "NGEN": {
+   "cik": "0001751912",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "NERVGEN PHARMA CORP.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NGEN"
+  },
+  "NGNE": {
+   "cik": "0001404644",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Neurogene Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NGNE"
+  },
+  "NKTR": {
+   "cik": "0000906709",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "NEKTAR THERAPEUTICS",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NKTR"
+  },
+  "NKTX": {
+   "cik": "0001787400",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Nkarta, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NKTX"
+  },
+  "NMAD": {
+   "cik": "0001335105",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "NOMAD POWER SOLUTIONS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NMAD"
+  },
+  "NMRA": {
+   "cik": "0001885522",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Neumora Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "NMRA"
+  },
+  "NNNN": {
+   "cik": "0001982708",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Anbio Biotechnology",
+   "sic": "2835",
+   "sic_description": "In Vitro & In Vivo Diagnostic Substances",
+   "ticker": "NNNN"
+  },
+  "NNVC": {
+   "cik": "0001379006",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "NANOVIRICIDES, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NNVC"
+  },
+  "NRC": {
+   "cik": "0000070487",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "NRC HEALTH",
+   "sic": "8731",
+   "sic_description": "Services-Commercial Physical & Biological Research",
+   "ticker": "NRC"
+  },
+  "NRIX": {
+   "cik": "0001549595",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Nurix Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NRIX"
+  },
+  "NRSN": {
+   "cik": "0001875091",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "NeuroSense Therapeutics Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NRSN"
+  },
+  "NRXP": {
+   "cik": "0001719406",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "NRX Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NRXP"
+  },
+  "NSRX": {
+   "cik": "0002029039",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Nasus Pharma Ltd",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NSRX"
+  },
+  "NTHI": {
+   "cik": "0001979414",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "NEONC TECHNOLOGIES HOLDINGS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NTHI"
+  },
+  "NTLA": {
+   "cik": "0001652130",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Intellia Therapeutics, Inc.",
+   "sic": "2835",
+   "sic_description": "In Vitro & In Vivo Diagnostic Substances",
+   "ticker": "NTLA"
+  },
+  "NUVB": {
+   "cik": "0001811063",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Nuvation Bio Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NUVB"
+  },
+  "NUVL": {
+   "cik": "0001861560",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Nuvalent, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NUVL"
+  },
+  "NVAX": {
+   "cik": "0001000694",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "NOVAVAX INC",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "NVAX"
+  },
+  "NVCT": {
+   "cik": "0001875558",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Nuvectis Pharma, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NVCT"
+  },
+  "NVO": {
+   "cik": "0000353278",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "NOVO NORDISK A S",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NVO"
+  },
+  "NVS": {
+   "cik": "0001114448",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "NOVARTIS AG",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NVS"
+  },
+  "NXTC": {
+   "cik": "0001661059",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "NextCure, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NXTC"
+  },
+  "NXTS": {
+   "cik": "0001789192",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Nexentis Technologies Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "NXTS"
+  },
+  "OABI": {
+   "cik": "0001846253",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "OmniAb, Inc.",
+   "sic": "8731",
+   "sic_description": "Services-Commercial Physical & Biological Research",
+   "ticker": "OABI"
+  },
+  "OCGN": {
+   "cik": "0001372299",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Ocugen, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "OCGN"
+  },
+  "OCS": {
+   "cik": "0001953530",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Oculis Holding AG",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "OCS"
+  },
+  "OCUL": {
+   "cik": "0001393434",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "OCULAR THERAPEUTIX, INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "OCUL"
+  },
+  "ODTX": {
+   "cik": "0001882782",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Odyssey Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "ODTX"
+  },
+  "OGEN": {
+   "cik": "0001174940",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ORAGENICS INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "OGEN"
+  },
+  "OGI": {
+   "cik": "0001620737",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ORGANIGRAM GLOBAL INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "OGI"
+  },
+  "OGN": {
+   "cik": "0001821825",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Organon & Co.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "OGN"
+  },
+  "OKUR": {
+   "cik": "0001637715",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "OnKure Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "OKUR"
+  },
+  "OKYO": {
+   "cik": "0001849296",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "OKYO Pharma Ltd",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "OKYO"
+  },
+  "OLMA": {
+   "cik": "0001750284",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Olema Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "OLMA"
+  },
+  "OMER": {
+   "cik": "0001285819",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "OMEROS CORP",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "OMER"
+  },
+  "ONC": {
+   "cik": "0001651308",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BeOne Medicines Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ONC"
+  },
+  "ONCO": {
+   "cik": "0001782107",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Onconetix, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ONCO"
+  },
+  "ONCY": {
+   "cik": "0001129928",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ONCOLYTICS BIOTECH INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ONCY"
+  },
+  "ONMD": {
+   "cik": "0001849380",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "OneMedNet Corp",
+   "sic": "8731",
+   "sic_description": "Services-Commercial Physical & Biological Research",
+   "ticker": "ONMD"
+  },
+  "OPK": {
+   "cik": "0000944809",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "OPKO HEALTH, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "OPK"
+  },
+  "OPTH": {
+   "cik": "0002027329",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Optimi Health Corp.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "OPTH"
+  },
+  "ORGO": {
+   "cik": "0001661181",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Organogenesis Holdings Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ORGO"
+  },
+  "ORIC": {
+   "cik": "0001796280",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Oric Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ORIC"
+  },
+  "ORKA": {
+   "cik": "0000907654",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Oruka Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ORKA"
+  },
+  "ORMP": {
+   "cik": "0001176309",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ORAMED PHARMACEUTICALS INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ORMP"
+  },
+  "OSTX": {
+   "cik": "0001795091",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "OS Therapies Inc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "OSTX"
+  },
+  "OTLK": {
+   "cik": "0001649989",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Outlook Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "OTLK"
+  },
+  "OVID": {
+   "cik": "0001636651",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Ovid Therapeutics Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "OVID"
+  },
+  "PAHC": {
+   "cik": "0001069899",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "PHIBRO ANIMAL HEALTH CORP",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PAHC"
+  },
+  "PALI": {
+   "cik": "0001357459",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "PALISADE BIO, INC.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "PALI"
+  },
+  "PASG": {
+   "cik": "0001787297",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Passage BIO, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "PASG"
+  },
+  "PBH": {
+   "cik": "0001295947",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Prestige Consumer Healthcare Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PBH"
+  },
+  "PBLS": {
+   "cik": "0001657677",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Parabilis Medicines, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PBLS"
+  },
+  "PBM": {
+   "cik": "0001985062",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "PSYENCE BIOMEDICAL LTD.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PBM"
+  },
+  "PBYI": {
+   "cik": "0001401667",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "PUMA BIOTECHNOLOGY, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PBYI"
+  },
+  "PCRX": {
+   "cik": "0001396814",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Pacira BioSciences, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PCRX"
+  },
+  "PCSA": {
+   "cik": "0001533743",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Processa Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PCSA"
+  },
+  "PCVX": {
+   "cik": "0001649094",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Vaxcyte, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "PCVX"
+  },
+  "PDSB": {
+   "cik": "0001472091",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "PDS Biotechnology Corp",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PDSB"
+  },
+  "PEPG": {
+   "cik": "0001835597",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "PepGen Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PEPG"
+  },
+  "PFE": {
+   "cik": "0000078003",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "PFIZER INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PFE"
+  },
+  "PGEN": {
+   "cik": "0001356090",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "PRECIGEN, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PGEN"
+  },
+  "PHAR": {
+   "cik": "0001828316",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Pharming Group N.V.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PHAR"
+  },
+  "PHAT": {
+   "cik": "0001783183",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Phathom Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PHAT"
+  },
+  "PHGE": {
+   "cik": "0001739174",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BiomX Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "PHGE"
+  },
+  "PHIO": {
+   "cik": "0001533040",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Phio Pharmaceuticals Corp.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PHIO"
+  },
+  "PHVS": {
+   "cik": "0001830487",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Pharvaris N.V.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PHVS"
+  },
+  "PLRX": {
+   "cik": "0001746473",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "PLIANT THERAPEUTICS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PLRX"
+  },
+  "PLUR": {
+   "cik": "0001158780",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Pluri Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "PLUR"
+  },
+  "PLX": {
+   "cik": "0001006281",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Protalix BioTherapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "PLX"
+  },
+  "PLYX": {
+   "cik": "0002075320",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Polaryx Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PLYX"
+  },
+  "PMCB": {
+   "cik": "0001157075",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "PharmaCyte Biotech, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "PMCB"
+  },
+  "PMN": {
+   "cik": "0001374339",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ProMIS Neurosciences Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PMN"
+  },
+  "PMVP": {
+   "cik": "0001699382",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "PMV Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PMVP"
+  },
+  "PPBT": {
+   "cik": "0001614744",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "PURPLE BIOTECH LTD.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PPBT"
+  },
+  "PPCB": {
+   "cik": "0001517681",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Propanc Biopharma, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PPCB"
+  },
+  "PRAX": {
+   "cik": "0001689548",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Praxis Precision Medicines, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PRAX"
+  },
+  "PRE": {
+   "cik": "0001876431",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Prenetics Global Ltd",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PRE"
+  },
+  "PRFX": {
+   "cik": "0001801834",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "PRF Technologies Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PRFX"
+  },
+  "PRGO": {
+   "cik": "0001585364",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "PERRIGO Co plc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PRGO"
+  },
+  "PRLD": {
+   "cik": "0001678660",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Prelude Therapeutics Inc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PRLD"
+  },
+  "PRME": {
+   "cik": "0001894562",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Prime Medicine, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "PRME"
+  },
+  "PROK": {
+   "cik": "0001850270",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "PROKIDNEY CORP.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "PROK"
+  },
+  "PRQR": {
+   "cik": "0001612940",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ProQR Therapeutics N.V.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PRQR"
+  },
+  "PRTA": {
+   "cik": "0001559053",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "PROTHENA CORP PUBLIC LTD CO",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PRTA"
+  },
+  "PTCT": {
+   "cik": "0001070081",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "PTC THERAPEUTICS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PTCT"
+  },
+  "PTGX": {
+   "cik": "0001377121",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Protagonist Therapeutics, Inc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PTGX"
+  },
+  "PTHS": {
+   "cik": "0001919246",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Pelthos Therapeutics Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "PTHS"
+  },
+  "PTN": {
+   "cik": "0000911216",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "PALATIN TECHNOLOGIES INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PTN"
+  },
+  "PULM": {
+   "cik": "0001574235",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Pulmatrix, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PULM"
+  },
+  "PVLA": {
+   "cik": "0001583648",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "PALVELLA THERAPEUTICS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PVLA"
+  },
+  "PYXS": {
+   "cik": "0001782223",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Pyxis Oncology, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "PYXS"
+  },
+  "QCLS": {
+   "cik": "0001321834",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Q/C TECHNOLOGIES, INC.",
+   "sic": "2835",
+   "sic_description": "In Vitro & In Vivo Diagnostic Substances",
+   "ticker": "QCLS"
+  },
+  "QDEL": {
+   "cik": "0001906324",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "QuidelOrtho Corp",
+   "sic": "2835",
+   "sic_description": "In Vitro & In Vivo Diagnostic Substances",
+   "ticker": "QDEL"
+  },
+  "QGEN": {
+   "cik": "0001015820",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "QIAGEN N.V.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "QGEN"
+  },
+  "QNCX": {
+   "cik": "0001662774",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Quince Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "QNCX"
+  },
+  "QNRX": {
+   "cik": "0001671502",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Quoin Pharmaceuticals, Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "QNRX"
+  },
+  "QNTM": {
+   "cik": "0001771885",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Quantum Biopharma Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "QNTM"
+  },
+  "QTTB": {
+   "cik": "0001661998",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Q32 Bio Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "QTTB"
+  },
+  "QUCY": {
+   "cik": "0001874252",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Quantum Cyber N.V.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "QUCY"
+  },
+  "QURE": {
+   "cik": "0001590560",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "uniQure N.V.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "QURE"
+  },
+  "RADX": {
+   "cik": "0001949257",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Radiopharm Theranostics Ltd",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RADX"
+  },
+  "RANI": {
+   "cik": "0001856725",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Rani Therapeutics Holdings, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RANI"
+  },
+  "RAPP": {
+   "cik": "0002012593",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Rapport Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RAPP"
+  },
+  "RARE": {
+   "cik": "0001515673",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Ultragenyx Pharmaceutical Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RARE"
+  },
+  "RCKT": {
+   "cik": "0001281895",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ROCKET PHARMACEUTICALS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RCKT"
+  },
+  "RCUS": {
+   "cik": "0001724521",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Arcus Biosciences, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RCUS"
+  },
+  "RDHL": {
+   "cik": "0001553846",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "RedHill Biopharma Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RDHL"
+  },
+  "RDY": {
+   "cik": "0001135951",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "DR REDDYS LABORATORIES LTD",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RDY"
+  },
+  "REGN": {
+   "cik": "0000872589",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "REGENERON PHARMACEUTICALS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "REGN"
+  },
+  "REPL": {
+   "cik": "0001737953",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Replimune Group, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "REPL"
+  },
+  "REVB": {
+   "cik": "0001810560",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "REVELATION BIOSCIENCES, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "REVB"
+  },
+  "RFL": {
+   "cik": "0001713863",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Rafael Holdings, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RFL"
+  },
+  "RGC": {
+   "cik": "0001829667",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Regencell Bioscience Holdings Ltd",
+   "sic": "2833",
+   "sic_description": "Medicinal Chemicals & Botanical Products",
+   "ticker": "RGC"
+  },
+  "RGEN": {
+   "cik": "0000730272",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "REPLIGEN CORP",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "RGEN"
+  },
+  "RGNX": {
+   "cik": "0001590877",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "REGENXBIO Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "RGNX"
+  },
+  "RIGL": {
+   "cik": "0001034842",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "RIGEL PHARMACEUTICALS INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RIGL"
+  },
+  "RKTO": {
+   "cik": "0001711786",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Rocket One Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RKTO"
+  },
+  "RLAY": {
+   "cik": "0001812364",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Relay Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "RLAY"
+  },
+  "RLMD": {
+   "cik": "0001553643",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "RELMADA THERAPEUTICS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RLMD"
+  },
+  "RLYB": {
+   "cik": "0001739410",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Rallybio Corp",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RLYB"
+  },
+  "RMTI": {
+   "cik": "0001041024",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ROCKWELL MEDICAL, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RMTI"
+  },
+  "RNA": {
+   "cik": "0002093101",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Atrium Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RNA"
+  },
+  "RNAC": {
+   "cik": "0001453687",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Cartesian Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RNAC"
+  },
+  "RNAZ": {
+   "cik": "0001829635",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Transcode Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RNAZ"
+  },
+  "RNTX": {
+   "cik": "0001420565",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Rein Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RNTX"
+  },
+  "RNXT": {
+   "cik": "0001574094",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "RenovoRx, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RNXT"
+  },
+  "ROIV": {
+   "cik": "0001635088",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Roivant Sciences Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ROIV"
+  },
+  "RPRX": {
+   "cik": "0001802768",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Royalty Pharma plc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RPRX"
+  },
+  "RVMD": {
+   "cik": "0001628171",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Revolution Medicines, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "RVMD"
+  },
+  "RXRX": {
+   "cik": "0001601830",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "RECURSION PHARMACEUTICALS, INC.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "RXRX"
+  },
+  "RYTM": {
+   "cik": "0001649904",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "RHYTHM PHARMACEUTICALS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RYTM"
+  },
+  "RZLT": {
+   "cik": "0001509261",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Rezolute, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RZLT"
+  },
+  "SABS": {
+   "cik": "0001833214",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "SAB Biotherapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "SABS"
+  },
+  "SANA": {
+   "cik": "0001770121",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Sana Biotechnology, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "SANA"
+  },
+  "SBFM": {
+   "cik": "0001402328",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Sunshine Biopharma Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SBFM"
+  },
+  "SCLX": {
+   "cik": "0001820190",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Scilex Holding Co",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "SCLX"
+  },
+  "SCNI": {
+   "cik": "0001611747",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Scinai Immunotherapeutics Ltd.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "SCNI"
+  },
+  "SCNX": {
+   "cik": "0001382574",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Scienture Holdings, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SCNX"
+  },
+  "SCTX": {
+   "cik": "0001853921",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Scribe Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "SCTX"
+  },
+  "SCYX": {
+   "cik": "0001178253",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "SCYNEXIS INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SCYX"
+  },
+  "SDEV": {
+   "cik": "0001389545",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Stablecoin Development Corp",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SDEV"
+  },
+  "SDGR": {
+   "cik": "0001490978",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Schrodinger, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SDGR"
+  },
+  "SEPN": {
+   "cik": "0001984086",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Septerna, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SEPN"
+  },
+  "SER": {
+   "cik": "0001708599",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Serina Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SER"
+  },
+  "SGMT": {
+   "cik": "0001400118",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Sagimet Biosciences Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SGMT"
+  },
+  "SHPH": {
+   "cik": "0001757499",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Shuttle Pharmaceuticals Holdings, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SHPH"
+  },
+  "SIGA": {
+   "cik": "0001010086",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "SIGA TECHNOLOGIES INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SIGA"
+  },
+  "SILO": {
+   "cik": "0001514183",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Silo Pharma, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SILO"
+  },
+  "SION": {
+   "cik": "0002036042",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Sionna Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SION"
+  },
+  "SKYE": {
+   "cik": "0001516551",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Skye Bioscience, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SKYE"
+  },
+  "SLBT": {
+   "cik": "0002070534",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "SL Science Holding Ltd",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "SLBT"
+  },
+  "SLDB": {
+   "cik": "0001707502",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Solid Biosciences Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "SLDB"
+  },
+  "SLGL": {
+   "cik": "0001684693",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Sol-Gel Technologies Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SLGL"
+  },
+  "SLN": {
+   "cik": "0001479615",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Silence Therapeutics plc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SLN"
+  },
+  "SLS": {
+   "cik": "0001390478",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "SELLAS Life Sciences Group, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SLS"
+  },
+  "SLXN": {
+   "cik": "0002022416",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Silexion Therapeutics Corp",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "SLXN"
+  },
+  "SMMT": {
+   "cik": "0001599298",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Summit Therapeutics Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SMMT"
+  },
+  "SNDL": {
+   "cik": "0001766600",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "SNDL Inc.",
+   "sic": "2833",
+   "sic_description": "Medicinal Chemicals & Botanical Products",
+   "ticker": "SNDL"
+  },
+  "SNDX": {
+   "cik": "0001395937",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Syndax Pharmaceuticals Inc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SNDX"
+  },
+  "SNGX": {
+   "cik": "0000812796",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "SOLIGENIX, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SNGX"
+  },
+  "SNTI": {
+   "cik": "0001854270",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Senti Biosciences Holdings, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "SNTI"
+  },
+  "SNY": {
+   "cik": "0001121404",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Sanofi",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SNY"
+  },
+  "SNYR": {
+   "cik": "0001562733",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Synergy CHC Corp.",
+   "sic": "2833",
+   "sic_description": "Medicinal Chemicals & Botanical Products",
+   "ticker": "SNYR"
+  },
+  "SPRB": {
+   "cik": "0001683553",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "SPRUCE BIOSCIENCES, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SPRB"
+  },
+  "SPRC": {
+   "cik": "0001611746",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "SciSparc Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SPRC"
+  },
+  "SPRO": {
+   "cik": "0001701108",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Spero Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SPRO"
+  },
+  "SPRY": {
+   "cik": "0001671858",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ARS Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SPRY"
+  },
+  "SPTX": {
+   "cik": "0002042347",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Seaport Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SPTX"
+  },
+  "SRPT": {
+   "cik": "0000873303",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Sarepta Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SRPT"
+  },
+  "SRRK": {
+   "cik": "0001727196",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Scholar Rock Holding Corp",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "SRRK"
+  },
+  "SRZN": {
+   "cik": "0001824893",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Surrozen, Inc./DE",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "SRZN"
+  },
+  "STOK": {
+   "cik": "0001623526",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Stoke Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "STOK"
+  },
+  "STRO": {
+   "cik": "0001382101",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "SUTRO BIOPHARMA, INC.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "STRO"
+  },
+  "STTK": {
+   "cik": "0001680367",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Shattuck Labs, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "STTK"
+  },
+  "SUPN": {
+   "cik": "0001356576",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "SUPERNUS PHARMACEUTICALS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SUPN"
+  },
+  "SVA": {
+   "cik": "0001084201",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "SINOVAC BIOTECH LTD",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SVA"
+  },
+  "SVRA": {
+   "cik": "0001160308",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Savara Inc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SVRA"
+  },
+  "SXTC": {
+   "cik": "0001723980",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "China SXT Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SXTC"
+  },
+  "SXTP": {
+   "cik": "0001946563",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "60 DEGREES PHARMACEUTICALS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SXTP"
+  },
+  "SYRE": {
+   "cik": "0001636282",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Spyre Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SYRE"
+  },
+  "TAK": {
+   "cik": "0001395064",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "TAKEDA PHARMACEUTICAL CO LTD",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TAK"
+  },
+  "TARA": {
+   "cik": "0001359931",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Protara Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "TARA"
+  },
+  "TARS": {
+   "cik": "0001819790",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Tarsus Pharmaceuticals, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "TARS"
+  },
+  "TBPH": {
+   "cik": "0001583107",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Theravance Biopharma, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TBPH"
+  },
+  "TCRT": {
+   "cik": "0001107421",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Alaunos Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TCRT"
+  },
+  "TCRX": {
+   "cik": "0001783328",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "TScan Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "TCRX"
+  },
+  "TECH": {
+   "cik": "0000842023",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BIO-TECHNE Corp",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "TECH"
+  },
+  "TECX": {
+   "cik": "0001681087",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Tectonic Therapeutic, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "TECX"
+  },
+  "TELO": {
+   "cik": "0001971532",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Telomir Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TELO"
+  },
+  "TENX": {
+   "cik": "0000034956",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "TENAX THERAPEUTICS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TENX"
+  },
+  "TEVA": {
+   "cik": "0000818686",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "TEVA PHARMACEUTICAL INDUSTRIES LTD",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TEVA"
+  },
+  "TGTX": {
+   "cik": "0001001316",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "TG THERAPEUTICS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TGTX"
+  },
+  "TIL": {
+   "cik": "0001789769",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Instil Bio, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "TIL"
+  },
+  "TKNO": {
+   "cik": "0001850902",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Alpha Teknova, Inc.",
+   "sic": "2835",
+   "sic_description": "In Vitro & In Vivo Diagnostic Substances",
+   "ticker": "TKNO"
+  },
+  "TLPH": {
+   "cik": "0001427925",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "TALPHERA, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TLPH"
+  },
+  "TLRY": {
+   "cik": "0001731348",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Tilray Brands, Inc.",
+   "sic": "2833",
+   "sic_description": "Medicinal Chemicals & Botanical Products",
+   "ticker": "TLRY"
+  },
+  "TLSA": {
+   "cik": "0001723069",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Tiziana Life Sciences Ltd",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TLSA"
+  },
+  "TLX": {
+   "cik": "0002007191",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Telix Pharmaceuticals Ltd",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TLX"
+  },
+  "TNGX": {
+   "cik": "0001819133",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Tango Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TNGX"
+  },
+  "TNXP": {
+   "cik": "0001430306",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Tonix Pharmaceuticals Holding Corp.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TNXP"
+  },
+  "TNYA": {
+   "cik": "0001858848",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Tenaya Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "TNYA"
+  },
+  "TOVX": {
+   "cik": "0000894158",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Theriva Biologics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TOVX"
+  },
+  "TPST": {
+   "cik": "0001544227",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Tempest Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TPST"
+  },
+  "TRAW": {
+   "cik": "0001130598",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Traws Pharma, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TRAW"
+  },
+  "TRAX": {
+   "cik": "0002091349",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "First Tracks Biotherapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TRAX"
+  },
+  "TRDA": {
+   "cik": "0001689375",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Entrada Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TRDA"
+  },
+  "TRIB": {
+   "cik": "0000888721",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "TRINITY BIOTECH PLC",
+   "sic": "2835",
+   "sic_description": "In Vitro & In Vivo Diagnostic Substances",
+   "ticker": "TRIB"
+  },
+  "TRLV": {
+   "cik": "0001754195",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Trulieve Cannabis Corp.",
+   "sic": "2833",
+   "sic_description": "Medicinal Chemicals & Botanical Products",
+   "ticker": "TRLV"
+  },
+  "TRVI": {
+   "cik": "0001563880",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Trevi Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TRVI"
+  },
+  "TSHA": {
+   "cik": "0001806310",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Taysha Gene Therapies, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "TSHA"
+  },
+  "TTRX": {
+   "cik": "0002023016",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Turn Therapeutics Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TTRX"
+  },
+  "TVGN": {
+   "cik": "0001860871",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Tevogen Bio Holdings Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "TVGN"
+  },
+  "TVRD": {
+   "cik": "0001346830",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Tvardi Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TVRD"
+  },
+  "TVTX": {
+   "cik": "0001438533",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Travere Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TVTX"
+  },
+  "TWST": {
+   "cik": "0001581280",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Twist Bioscience Corp",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "TWST"
+  },
+  "TXMD": {
+   "cik": "0000025743",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "TherapeuticsMD, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TXMD"
+  },
+  "TYRA": {
+   "cik": "0001863127",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Tyra Biosciences, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "TYRA"
+  },
+  "UNCY": {
+   "cik": "0001766140",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Unicycive Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "UNCY"
+  },
+  "UPB": {
+   "cik": "0002022626",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Upstream Bio, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "UPB"
+  },
+  "UPC": {
+   "cik": "0001809616",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Universe Pharmaceuticals INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "UPC"
+  },
+  "URGN": {
+   "cik": "0001668243",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "UroGen Pharma Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "URGN"
+  },
+  "USNA": {
+   "cik": "0000896264",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "USANA HEALTH SCIENCES INC",
+   "sic": "2833",
+   "sic_description": "Medicinal Chemicals & Botanical Products",
+   "ticker": "USNA"
+  },
+  "UTHR": {
+   "cik": "0001082554",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "UNITED THERAPEUTICS Corp",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "UTHR"
+  },
+  "VALN": {
+   "cik": "0001836564",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Valneva SE",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "VALN"
+  },
+  "VBIO": {
+   "cik": "0001787740",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Valion Bio, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "VBIO"
+  },
+  "VCEL": {
+   "cik": "0000887359",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Vericel Corp",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "VCEL"
+  },
+  "VCRE": {
+   "cik": "0002124403",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Vicore Pharma Holding AB",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "VCRE"
+  },
+  "VERA": {
+   "cik": "0001831828",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Vera Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "VERA"
+  },
+  "VERU": {
+   "cik": "0000863894",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "VERU INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "VERU"
+  },
+  "VIR": {
+   "cik": "0001706431",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Vir Biotechnology, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "VIR"
+  },
+  "VIVS": {
+   "cik": "0001497253",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "VivoSim Labs, INC.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "VIVS"
+  },
+  "VKTX": {
+   "cik": "0001607678",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Viking Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "VKTX"
+  },
+  "VNDA": {
+   "cik": "0001347178",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Vanda Pharmaceuticals Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "VNDA"
+  },
+  "VNRX": {
+   "cik": "0000093314",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "VOLITIONRX LTD",
+   "sic": "2835",
+   "sic_description": "In Vitro & In Vivo Diagnostic Substances",
+   "ticker": "VNRX"
+  },
+  "VOR": {
+   "cik": "0001817229",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Vor Biopharma Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "VOR"
+  },
+  "VRAX": {
+   "cik": "0001885827",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Virax Biolabs Group Ltd",
+   "sic": "2835",
+   "sic_description": "In Vitro & In Vivo Diagnostic Substances",
+   "ticker": "VRAX"
+  },
+  "VRCA": {
+   "cik": "0001660334",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Verrica Pharmaceuticals Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "VRCA"
+  },
+  "VRDN": {
+   "cik": "0001590750",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Viridian Therapeutics, Inc.\\DE",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "VRDN"
+  },
+  "VRTX": {
+   "cik": "0000875320",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "VERTEX PHARMACEUTICALS INC / MA",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "VRTX"
+  },
+  "VRXA": {
+   "cik": "0002079109",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Veraxa Biotech Holding AG",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "VRXA"
+  },
+  "VSTM": {
+   "cik": "0001526119",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Verastem, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "VSTM"
+  },
+  "VTGN": {
+   "cik": "0001411685",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Vistagen Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "VTGN"
+  },
+  "VTRS": {
+   "cik": "0001792044",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Viatris Inc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "VTRS"
+  },
+  "VTVT": {
+   "cik": "0001641489",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "vTv Therapeutics Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "VTVT"
+  },
+  "VYGR": {
+   "cik": "0001640266",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Voyager Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "VYGR"
+  },
+  "VYNE": {
+   "cik": "0001566044",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Yarrow Bioscience, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "VYNE"
+  },
+  "WHWK": {
+   "cik": "0001422142",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Whitehawk Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "WHWK"
+  },
+  "WVE": {
+   "cik": "0001631574",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Wave Life Sciences Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "WVE"
+  },
+  "XBIO": {
+   "cik": "0001534525",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Xenetic Biosciences, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "XBIO"
+  },
+  "XBIT": {
+   "cik": "0001626878",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "XBiotech Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "XBIT"
+  },
+  "XCUR": {
+   "cik": "0001698530",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "EXICURE, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "XCUR"
+  },
+  "XENE": {
+   "cik": "0001582313",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Xenon Pharmaceuticals Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "XENE"
+  },
+  "XERS": {
+   "cik": "0001867096",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Xeris Biopharma Holdings, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "XERS"
+  },
+  "XFOR": {
+   "cik": "0001501697",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "X4 Pharmaceuticals, Inc",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "XFOR"
+  },
+  "XLO": {
+   "cik": "0001840233",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Xilio Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "XLO"
+  },
+  "XNCR": {
+   "cik": "0001326732",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Xencor Inc",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "XNCR"
+  },
+  "XOMA": {
+   "cik": "0000791908",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "XOMA Royalty Corp",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "XOMA"
+  },
+  "XRTX": {
+   "cik": "0001729214",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "XORTX Therapeutics Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "XRTX"
+  },
+  "XTLB": {
+   "cik": "0001023549",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "XTL BIOPHARMACEUTICALS LTD",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "XTLB"
+  },
+  "ZBIO": {
+   "cik": "0001953926",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Zenas BioPharma, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ZBIO"
+  },
+  "ZLAB": {
+   "cik": "0001704292",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Zai Lab Ltd",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ZLAB"
+  },
+  "ZNTL": {
+   "cik": "0001725160",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Zentalis Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ZNTL"
+  },
+  "ZTS": {
+   "cik": "0001555280",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Zoetis Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ZTS"
+  },
+  "ZURA": {
+   "cik": "0001855644",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Zura Bio Ltd",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "ZURA"
+  },
+  "ZVRA": {
+   "cik": "0001434647",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ZEVRA THERAPEUTICS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ZVRA"
+  },
+  "ZYBT": {
+   "cik": "0001975641",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Zhengye Biotechnology Holding Ltd",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ZYBT"
+  },
+  "ZYME": {
+   "cik": "0001937653",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Zymeworks Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ZYME"
+  }
+ },
+ "sic_codes": [
+  "2833",
+  "2834",
+  "2835",
+  "2836",
+  "8731"
+ ]
+}
