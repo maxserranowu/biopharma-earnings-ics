@@ -100,7 +100,7 @@ providers:
 # ENRICHMENT -- webcast / deck / replay / dial-in from company IR sites
 # -----------------------------------------------------------------------------
 enrichment:
-  enabled: true
+  enabled: false
   workers: 4
   days_ahead: 45            # only scrape near-term events; keeps runtime bounded
   days_behind: 14           # revisit after the call to pick up replay links
