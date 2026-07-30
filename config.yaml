@@ -14,7 +14,7 @@ user_agent: "biopharma-earnings-ics/1.0 (${CONTACT_EMAIL})"
 uid_domain: "biopharma-earnings.feeds"
 
 # Where the feeds are published. Used only for logging and status.json.
-public_base_url: "https://YOURNAME.github.io/biopharma-earnings-ics"
+public_base_url: "https://maxserranowu.github.io/biopharma-earnings-ics/"
 
 paths:
   output_dir: docs      # GitHub Pages serves from /docs on the default branch
@@ -145,26 +145,74 @@ feeds:
   - name: all
     filename: biopharma-earnings.ics
     calname: "Biopharma Earnings"
-    caldesc: "Earnings calls for US-listed biotech, pharma, specialty pharma and life-sciences issuers. Auto-updated."
-    split: 3          # -> biopharma-earnings-1.ics, -2.ics, -3.ics
-    compact: true     # omit blank rows + HTML body; ~3x smaller
+    caldesc: "All US-listed biotech, pharma, specialty pharma and life-sciences issuers."
+    split: 3
+    compact: true
 
-  - name: watchlist
-    filename: biopharma-earnings-watchlist.ics
-    calname: "Biopharma Earnings - Watchlist"
-    caldesc: "Curated subset. Full detail, clickable links, 15-minute reminder."
+  # ---- HCRx counterparties: companies HCRx financed directly ----
+  - name: hcrx
+    filename: biopharma-earnings-hcrx.ics
+    calname: "HCRx Counterparties"
+    caldesc: "Earnings calls for HCRx portfolio counterparties."
     alarm_minutes: 15
-    # No split, no compact: this one is small enough to carry everything.
     tickers:
+      # Active / recent
+      - VNDA    # Vanda - Fanapt/Bysanti (your live deal)
+      - BBIO    # BridgeBio - Jul 2026 pref equity; BEYONTTRA Jun 2025
+      - APMD    # Apnimed - AD109, Apr 2026 (see note below)
+      - ESPR    # Esperion - Apr 2026 / Dec 2024
+      - NBTX    # Nanobiotix - JNJ-1900, Dec 2025
+      - RGNX    # REGENXBIO - royalty bond May 2025; Zolgensma Dec 2020
+      - GNFT    # Genfit - IQIRVO, Jan 2025
+      - LQDA    # Liquidia - YUTREPIA, multiple tranches
+      - TGTX    # TG Therapeutics - BRIUMVI, Aug 2024
+      - OPK     # OPKO Health - Genotropin/Ngenla, Jul 2024
+      - ZVRA    # Zevra - rare disease, Apr 2024
+      - KPTI    # Karyopharm - XPOVIO
+      # Established
+      - LNTH    # Lantheus - RELISTOR
+      - QURE    # uniQure - Hemgenix
+      - ATRA    # Atara - EBVALLO
+      - CLSD    # Clearside - XIPERE
+      - ARDX    # Ardelyx - tenapanor
+      - RYTM    # Rhythm - IMCIVREE
+      - SPRO    # Spero - tebipenem
+      - ADCT    # ADC Therapeutics - ZYNLONTA
+      - APVO    # Aptevo - Ruxience
+      - AKBA    # Akebia - VAFSEO
+      - NKTR    # Nektar - ADYNOVATE/MOVANTIK
+      - RDHL    # RedHill - Movantik/Talicia
+      - TBPH    # Theravance - Trelegy
+      - CHRS    # Coherus - UDENYCA
+      - AGEN    # Agenus - QS-21
+      - XOMA    # XOMA Royalty - TRUMENBA
+      - CRIS    # Curis - Erivedge
+      - INVA    # Innoviva - acquired La Jolla (GIAPREZA)
+      - VSTM    # Verastem - COPIKTRA
+
+  # ---- Marketers: large caps commercializing HCRx-monetized assets ----
+  - name: majors
+    filename: biopharma-earnings-majors.ics
+    calname: "Biopharma Majors"
+    caldesc: "Large caps commercializing HCRx-monetized products."
+    tickers:
+      - JAZZ    # Modeyso
+      - JNJ     # JNJ-1900 (NBTXR3)
+      - PFE     # Ruxience, Trumenba, Lyrica
+      - NVS     # Zolgensma
+      - SNY     # REZUROCK
+      - GSK     # Trelegy, Shingrix, Lexiva
+      - TAK     # ADYNOVATE
+      - BIIB    # FAMPYRA
+      - BHC     # RELISTOR
+      - BLCO    # Lumify, XIPERE
+      - ELAN    # Bexacat
+      - UTHR    # Orenitram
+      - ABBV    # Oracea (Allergan); ABBV-RGX-314 partner
       - LLY
-      - PFE
       - MRK
-      - ABBV
       - AMGN
+      - BMY
       - GILD
       - VRTX
       - REGN
-      - BIIB
-      - MRNA
-      - BMY
-      - JNJ
