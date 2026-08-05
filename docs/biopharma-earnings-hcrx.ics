@@ -13,7 +13,7 @@ X-PUBLISHED-TTL:PT120M
 COLOR:seagreen
 BEGIN:VEVENT
 UID:OPK-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260728
@@ -58,7 +58,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:QURE-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
@@ -103,7 +103,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:TGTX-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:2
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
@@ -148,7 +148,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:BBIO-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260805
@@ -186,7 +186,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:CRIS-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260805
@@ -224,7 +224,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:RYTM-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:2
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260805
@@ -269,40 +269,46 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:AKBA-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
-SEQUENCE:0
+DTSTAMP:20260805T213756Z
+SEQUENCE:1
 DTSTART:20260805T203000Z
 DTEND:20260805T213000Z
 SUMMARY:AKBA Q2 2026 Earnings Call (est. time)
 DESCRIPTION:Akebia Therapeutics\, Inc.\nTicker: AKBA\nQuarter: Q2 2026\nDat
- e/Time: Wednesday\, August 5\, 2026 at 4:30 PM ET  (estimated)\nStatus: Ex
- pected (date not yet company-confirmed)\n\nWebcast: Not yet published\nDia
- l-In: Not yet published\nInvestor Relations: Not yet published\nEarnings R
- elease: Not yet published\nPresentation: Not yet published\nReplay: Not ye
- t published\n\nSources: nasdaq\nLast updated: 2026-07-30T22:16:07Z  (revis
- ion 0)
+ e/Time: Wednesday\, August 5\, 2026 at 4:30 PM ET  (estimated)\nStatus: Co
+ nfirmed by company\n\nWebcast: Not yet published\nDial-In: Not yet publish
+ ed\nInvestor Relations: Not yet published\nEarnings Release: https://www.s
+ ec.gov/Archives/edgar/data/1517022/000151702226000050/akba-20260805.htm\nP
+ resentation: Not yet published\nReplay: Not yet published\n\nSources: nasd
+ aq\, sec_8k\nLast updated: 2026-08-05T21:37:56Z  (revision 1)
 X-ALT-DESC;FMTTYPE=text/html:<html><body style="font-family:Segoe UI\,Arial
  \,sans-serif\;font-size:11pt"><p><b>Akebia Therapeutics\, Inc.</b> (AKBA)<
  br>Q2 2026 &middot\; Wednesday\, August 5\, 2026 at 4:30 PM ET  (estimated
- )<br><span style='color:#666'>Expected (date not yet company-confirmed)</s
- pan></p><table cellspacing='0' cellpadding='0'><tr><td style='padding:2px 
- 12px 2px 0'><b>Webcast</b></td><td style='padding:2px 0'><i>Not yet publis
- hed</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Dial-In</b></td
- ><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style
- ='padding:2px 12px 2px 0'><b>Investor Relations</b></td><td style='padding
- :2px 0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 
- 2px 0'><b>Earnings Release</b></td><td style='padding:2px 0'><i>Not yet pu
- blished</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Presentatio
- n</b></td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr>
- <td style='padding:2px 12px 2px 0'><b>Replay</b></td><td style='padding:2p
- x 0'><i>Not yet published</i></td></tr></table><p style='color:#888\;font-
- size:9pt'>Sources: nasdaq &middot\; Last updated 2026-07-30T22:16:07Z (rev
-  0)</p></body></html>
-STATUS:TENTATIVE
+ )<br><span style='color:#666'>Confirmed by company</span></p><table cellsp
+ acing='0' cellpadding='0'><tr><td style='padding:2px 12px 2px 0'><b>Webcas
+ t</b></td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr>
+ <td style='padding:2px 12px 2px 0'><b>Dial-In</b></td><td style='padding:2
+ px 0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 2p
+ x 0'><b>Investor Relations</b></td><td style='padding:2px 0'><i>Not yet pu
+ blished</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Earnings Re
+ lease</b></td><td style='padding:2px 0'><a href="https://www.sec.gov/Archi
+ ves/edgar/data/1517022/000151702226000050/akba-20260805.htm">https://www.s
+ ec.gov/Archives/edgar/data/1517022/000151702226000050/akb&hellip\;</a></td
+ ></tr><tr><td style='padding:2px 12px 2px 0'><b>Presentation</b></td><td s
+ tyle='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style='padd
+ ing:2px 12px 2px 0'><b>Replay</b></td><td style='padding:2px 0'><i>Not yet
+  published</i></td></tr></table><p style='color:#888\;font-size:9pt'>Sourc
+ es: nasdaq\, sec_8k &middot\; Last updated 2026-08-05T21:37:56Z (rev 1)</p
+ ></body></html>
+URL;VALUE=URI:https://www.sec.gov/Archives/edgar/data/1517022/0001517022260
+ 00050/akba-20260805.htm
+LOCATION:https://www.sec.gov/Archives/edgar/data/1517022/000151702226000050
+ /akba-20260805.htm
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 CATEGORIES:Earnings,Biopharma
-LAST-MODIFIED:20260730T221607Z
+LAST-MODIFIED:20260805T213756Z
 CREATED:20260730T221607Z
 X-BIOPHARMA-TICKER:AKBA
 X-BIOPHARMA-CONFIDENCE:estimated
@@ -314,40 +320,46 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:CHRS-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
-SEQUENCE:0
+DTSTAMP:20260805T213756Z
+SEQUENCE:1
 DTSTART:20260805T203000Z
 DTEND:20260805T213000Z
 SUMMARY:CHRS Q2 2026 Earnings Call (est. time)
 DESCRIPTION:Coherus Oncology\, Inc.\nTicker: CHRS\nQuarter: Q2 2026\nDate/T
- ime: Wednesday\, August 5\, 2026 at 4:30 PM ET  (estimated)\nStatus: Expec
- ted (date not yet company-confirmed)\n\nWebcast: Not yet published\nDial-I
- n: Not yet published\nInvestor Relations: Not yet published\nEarnings Rele
- ase: Not yet published\nPresentation: Not yet published\nReplay: Not yet p
- ublished\n\nSources: nasdaq\nLast updated: 2026-07-30T22:16:07Z  (revision
-  0)
+ ime: Wednesday\, August 5\, 2026 at 4:30 PM ET  (estimated)\nStatus: Confi
+ rmed by company\n\nWebcast: Not yet published\nDial-In: Not yet published\
+ nInvestor Relations: Not yet published\nEarnings Release: https://www.sec.
+ gov/Archives/edgar/data/1512762/000110465926091188/chrs-20260805x8k.htm\nP
+ resentation: Not yet published\nReplay: Not yet published\n\nSources: nasd
+ aq\, sec_8k\nLast updated: 2026-08-05T21:37:56Z  (revision 1)
 X-ALT-DESC;FMTTYPE=text/html:<html><body style="font-family:Segoe UI\,Arial
  \,sans-serif\;font-size:11pt"><p><b>Coherus Oncology\, Inc.</b> (CHRS)<br>
  Q2 2026 &middot\; Wednesday\, August 5\, 2026 at 4:30 PM ET  (estimated)<b
- r><span style='color:#666'>Expected (date not yet company-confirmed)</span
- ></p><table cellspacing='0' cellpadding='0'><tr><td style='padding:2px 12p
- x 2px 0'><b>Webcast</b></td><td style='padding:2px 0'><i>Not yet published
- </i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Dial-In</b></td><t
- d style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style='p
- adding:2px 12px 2px 0'><b>Investor Relations</b></td><td style='padding:2p
- x 0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 2px
-  0'><b>Earnings Release</b></td><td style='padding:2px 0'><i>Not yet publi
- shed</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Presentation</
+ r><span style='color:#666'>Confirmed by company</span></p><table cellspaci
+ ng='0' cellpadding='0'><tr><td style='padding:2px 12px 2px 0'><b>Webcast</
  b></td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td
-  style='padding:2px 12px 2px 0'><b>Replay</b></td><td style='padding:2px 0
- '><i>Not yet published</i></td></tr></table><p style='color:#888\;font-siz
- e:9pt'>Sources: nasdaq &middot\; Last updated 2026-07-30T22:16:07Z (rev 0)
- </p></body></html>
-STATUS:TENTATIVE
+  style='padding:2px 12px 2px 0'><b>Dial-In</b></td><td style='padding:2px 
+ 0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 2px 0
+ '><b>Investor Relations</b></td><td style='padding:2px 0'><i>Not yet publi
+ shed</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Earnings Relea
+ se</b></td><td style='padding:2px 0'><a href="https://www.sec.gov/Archives
+ /edgar/data/1512762/000110465926091188/chrs-20260805x8k.htm">https://www.s
+ ec.gov/Archives/edgar/data/1512762/000110465926091188/chr&hellip\;</a></td
+ ></tr><tr><td style='padding:2px 12px 2px 0'><b>Presentation</b></td><td s
+ tyle='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style='padd
+ ing:2px 12px 2px 0'><b>Replay</b></td><td style='padding:2px 0'><i>Not yet
+  published</i></td></tr></table><p style='color:#888\;font-size:9pt'>Sourc
+ es: nasdaq\, sec_8k &middot\; Last updated 2026-08-05T21:37:56Z (rev 1)</p
+ ></body></html>
+URL;VALUE=URI:https://www.sec.gov/Archives/edgar/data/1512762/0001104659260
+ 91188/chrs-20260805x8k.htm
+LOCATION:https://www.sec.gov/Archives/edgar/data/1512762/000110465926091188
+ /chrs-20260805x8k.htm
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 CATEGORIES:Earnings,Biopharma
-LAST-MODIFIED:20260730T221607Z
+LAST-MODIFIED:20260805T213756Z
 CREATED:20260730T221607Z
 X-BIOPHARMA-TICKER:CHRS
 X-BIOPHARMA-CONFIDENCE:estimated
@@ -359,78 +371,91 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:INVA-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
-SEQUENCE:0
+DTSTAMP:20260805T213756Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
 SUMMARY:INVA Q2 2026 Earnings Call (time TBD)
 DESCRIPTION:Innoviva\, Inc.\nTicker: INVA\nQuarter: Q2 2026\nDate/Time: 202
- 6-08-05 - time to be announced\nStatus: Expected (date not yet company-con
- firmed)\n\nWebcast: Not yet published\nDial-In: Not yet published\nInvesto
- r Relations: Not yet published\nEarnings Release: Not yet published\nPrese
- ntation: Not yet published\nReplay: Not yet published\n\nSources: nasdaq\n
- Last updated: 2026-07-30T22:16:07Z  (revision 0)
+ 6-08-05 - time to be announced\nStatus: Confirmed by company\n\nWebcast: N
+ ot yet published\nDial-In: Not yet published\nInvestor Relations: Not yet 
+ published\nEarnings Release: https://www.sec.gov/Archives/edgar/data/10800
+ 14/000119312526335192/d228097d8k.htm\nPresentation: Not yet published\nRep
+ lay: Not yet published\n\nSources: nasdaq\, sec_8k\nLast updated: 2026-08-
+ 05T21:37:56Z  (revision 1)
 X-ALT-DESC;FMTTYPE=text/html:<html><body style="font-family:Segoe UI\,Arial
  \,sans-serif\;font-size:11pt"><p><b>Innoviva\, Inc.</b> (INVA)<br>Q2 2026 
- &middot\; 2026-08-05 - time to be announced<br><span style='color:#666'>Ex
- pected (date not yet company-confirmed)</span></p><table cellspacing='0' c
- ellpadding='0'><tr><td style='padding:2px 12px 2px 0'><b>Webcast</b></td><
- td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style='
- padding:2px 12px 2px 0'><b>Dial-In</b></td><td style='padding:2px 0'><i>No
- t yet published</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Inv
- estor Relations</b></td><td style='padding:2px 0'><i>Not yet published</i>
- </td></tr><tr><td style='padding:2px 12px 2px 0'><b>Earnings Release</b></
- td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td sty
- le='padding:2px 12px 2px 0'><b>Presentation</b></td><td style='padding:2px
+ &middot\; 2026-08-05 - time to be announced<br><span style='color:#666'>Co
+ nfirmed by company</span></p><table cellspacing='0' cellpadding='0'><tr><t
+ d style='padding:2px 12px 2px 0'><b>Webcast</b></td><td style='padding:2px
   0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 2px 
- 0'><b>Replay</b></td><td style='padding:2px 0'><i>Not yet published</i></t
- d></tr></table><p style='color:#888\;font-size:9pt'>Sources: nasdaq &middo
- t\; Last updated 2026-07-30T22:16:07Z (rev 0)</p></body></html>
-STATUS:TENTATIVE
+ 0'><b>Dial-In</b></td><td style='padding:2px 0'><i>Not yet published</i></
+ td></tr><tr><td style='padding:2px 12px 2px 0'><b>Investor Relations</b></
+ td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td sty
+ le='padding:2px 12px 2px 0'><b>Earnings Release</b></td><td style='padding
+ :2px 0'><a href="https://www.sec.gov/Archives/edgar/data/1080014/000119312
+ 526335192/d228097d8k.htm">https://www.sec.gov/Archives/edgar/data/1080014/
+ 000119312526335192/d22&hellip\;</a></td></tr><tr><td style='padding:2px 12
+ px 2px 0'><b>Presentation</b></td><td style='padding:2px 0'><i>Not yet pub
+ lished</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Replay</b></
+ td><td style='padding:2px 0'><i>Not yet published</i></td></tr></table><p 
+ style='color:#888\;font-size:9pt'>Sources: nasdaq\, sec_8k &middot\; Last 
+ updated 2026-08-05T21:37:56Z (rev 1)</p></body></html>
+URL;VALUE=URI:https://www.sec.gov/Archives/edgar/data/1080014/0001193125263
+ 35192/d228097d8k.htm
+LOCATION:https://www.sec.gov/Archives/edgar/data/1080014/000119312526335192
+ /d228097d8k.htm
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 CATEGORIES:Earnings,Biopharma
-LAST-MODIFIED:20260730T221607Z
+LAST-MODIFIED:20260805T213756Z
 CREATED:20260730T221607Z
 X-BIOPHARMA-TICKER:INVA
 X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:VNDA-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
-SEQUENCE:1
+DTSTAMP:20260805T213756Z
+SEQUENCE:2
 DTSTART:20260805T203000Z
 DTEND:20260805T213000Z
 SUMMARY:VNDA Q2 2026 Earnings Call (est. time)
 DESCRIPTION:Vanda Pharmaceuticals Inc.\nTicker: VNDA\nQuarter: Q2 2026\nDat
- e/Time: Wednesday\, August 5\, 2026 at 4:30 PM ET  (estimated)\nStatus: Ex
- pected (date not yet company-confirmed)\n\nWebcast: Not yet published\nDia
- l-In: Not yet published\nInvestor Relations: Not yet published\nEarnings R
- elease: Not yet published\nPresentation: Not yet published\nReplay: Not ye
- t published\n\nSources: nasdaq\nLast updated: 2026-07-31T14:40:10Z  (revis
- ion 1)
+ e/Time: Wednesday\, August 5\, 2026 at 4:30 PM ET  (estimated)\nStatus: Co
+ nfirmed by company\n\nWebcast: Not yet published\nDial-In: Not yet publish
+ ed\nInvestor Relations: Not yet published\nEarnings Release: https://www.s
+ ec.gov/Archives/edgar/data/1347178/000162828026053308/vnda-20260805.htm\nP
+ resentation: Not yet published\nReplay: Not yet published\n\nSources: nasd
+ aq\, sec_8k\nLast updated: 2026-08-05T21:37:56Z  (revision 2)
 X-ALT-DESC;FMTTYPE=text/html:<html><body style="font-family:Segoe UI\,Arial
  \,sans-serif\;font-size:11pt"><p><b>Vanda Pharmaceuticals Inc.</b> (VNDA)<
  br>Q2 2026 &middot\; Wednesday\, August 5\, 2026 at 4:30 PM ET  (estimated
- )<br><span style='color:#666'>Expected (date not yet company-confirmed)</s
- pan></p><table cellspacing='0' cellpadding='0'><tr><td style='padding:2px 
- 12px 2px 0'><b>Webcast</b></td><td style='padding:2px 0'><i>Not yet publis
- hed</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Dial-In</b></td
- ><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style
- ='padding:2px 12px 2px 0'><b>Investor Relations</b></td><td style='padding
- :2px 0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 
- 2px 0'><b>Earnings Release</b></td><td style='padding:2px 0'><i>Not yet pu
- blished</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Presentatio
- n</b></td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr>
- <td style='padding:2px 12px 2px 0'><b>Replay</b></td><td style='padding:2p
- x 0'><i>Not yet published</i></td></tr></table><p style='color:#888\;font-
- size:9pt'>Sources: nasdaq &middot\; Last updated 2026-07-31T14:40:10Z (rev
-  1)</p></body></html>
-STATUS:TENTATIVE
+ )<br><span style='color:#666'>Confirmed by company</span></p><table cellsp
+ acing='0' cellpadding='0'><tr><td style='padding:2px 12px 2px 0'><b>Webcas
+ t</b></td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr>
+ <td style='padding:2px 12px 2px 0'><b>Dial-In</b></td><td style='padding:2
+ px 0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 2p
+ x 0'><b>Investor Relations</b></td><td style='padding:2px 0'><i>Not yet pu
+ blished</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Earnings Re
+ lease</b></td><td style='padding:2px 0'><a href="https://www.sec.gov/Archi
+ ves/edgar/data/1347178/000162828026053308/vnda-20260805.htm">https://www.s
+ ec.gov/Archives/edgar/data/1347178/000162828026053308/vnd&hellip\;</a></td
+ ></tr><tr><td style='padding:2px 12px 2px 0'><b>Presentation</b></td><td s
+ tyle='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style='padd
+ ing:2px 12px 2px 0'><b>Replay</b></td><td style='padding:2px 0'><i>Not yet
+  published</i></td></tr></table><p style='color:#888\;font-size:9pt'>Sourc
+ es: nasdaq\, sec_8k &middot\; Last updated 2026-08-05T21:37:56Z (rev 2)</p
+ ></body></html>
+URL;VALUE=URI:https://www.sec.gov/Archives/edgar/data/1347178/0001628280260
+ 53308/vnda-20260805.htm
+LOCATION:https://www.sec.gov/Archives/edgar/data/1347178/000162828026053308
+ /vnda-20260805.htm
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 CATEGORIES:Earnings,Biopharma
-LAST-MODIFIED:20260731T144010Z
+LAST-MODIFIED:20260805T213756Z
 CREATED:20260730T221607Z
 X-BIOPHARMA-TICKER:VNDA
 X-BIOPHARMA-CONFIDENCE:estimated
@@ -442,40 +467,46 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ZVRA-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
-SEQUENCE:0
+DTSTAMP:20260805T213756Z
+SEQUENCE:1
 DTSTART:20260805T203000Z
 DTEND:20260805T213000Z
 SUMMARY:ZVRA Q2 2026 Earnings Call (est. time)
 DESCRIPTION:ZEVRA THERAPEUTICS\, INC.\nTicker: ZVRA\nQuarter: Q2 2026\nDate
- /Time: Wednesday\, August 5\, 2026 at 4:30 PM ET  (estimated)\nStatus: Exp
- ected (date not yet company-confirmed)\n\nWebcast: Not yet published\nDial
- -In: Not yet published\nInvestor Relations: Not yet published\nEarnings Re
- lease: Not yet published\nPresentation: Not yet published\nReplay: Not yet
-  published\n\nSources: nasdaq\nLast updated: 2026-07-30T22:16:07Z  (revisi
- on 0)
+ /Time: Wednesday\, August 5\, 2026 at 4:30 PM ET  (estimated)\nStatus: Con
+ firmed by company\n\nWebcast: Not yet published\nDial-In: Not yet publishe
+ d\nInvestor Relations: Not yet published\nEarnings Release: https://www.se
+ c.gov/Archives/edgar/data/1434647/000143464726000067/zvra-20260805.htm\nPr
+ esentation: Not yet published\nReplay: Not yet published\n\nSources: nasda
+ q\, sec_8k\nLast updated: 2026-08-05T21:37:56Z  (revision 1)
 X-ALT-DESC;FMTTYPE=text/html:<html><body style="font-family:Segoe UI\,Arial
  \,sans-serif\;font-size:11pt"><p><b>ZEVRA THERAPEUTICS\, INC.</b> (ZVRA)<b
  r>Q2 2026 &middot\; Wednesday\, August 5\, 2026 at 4:30 PM ET  (estimated)
- <br><span style='color:#666'>Expected (date not yet company-confirmed)</sp
- an></p><table cellspacing='0' cellpadding='0'><tr><td style='padding:2px 1
- 2px 2px 0'><b>Webcast</b></td><td style='padding:2px 0'><i>Not yet publish
- ed</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Dial-In</b></td>
- <td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style=
- 'padding:2px 12px 2px 0'><b>Investor Relations</b></td><td style='padding:
- 2px 0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 2
- px 0'><b>Earnings Release</b></td><td style='padding:2px 0'><i>Not yet pub
- lished</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Presentation
+ <br><span style='color:#666'>Confirmed by company</span></p><table cellspa
+ cing='0' cellpadding='0'><tr><td style='padding:2px 12px 2px 0'><b>Webcast
  </b></td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><
- td style='padding:2px 12px 2px 0'><b>Replay</b></td><td style='padding:2px
-  0'><i>Not yet published</i></td></tr></table><p style='color:#888\;font-s
- ize:9pt'>Sources: nasdaq &middot\; Last updated 2026-07-30T22:16:07Z (rev 
- 0)</p></body></html>
-STATUS:TENTATIVE
+ td style='padding:2px 12px 2px 0'><b>Dial-In</b></td><td style='padding:2p
+ x 0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 2px
+  0'><b>Investor Relations</b></td><td style='padding:2px 0'><i>Not yet pub
+ lished</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Earnings Rel
+ ease</b></td><td style='padding:2px 0'><a href="https://www.sec.gov/Archiv
+ es/edgar/data/1434647/000143464726000067/zvra-20260805.htm">https://www.se
+ c.gov/Archives/edgar/data/1434647/000143464726000067/zvr&hellip\;</a></td>
+ </tr><tr><td style='padding:2px 12px 2px 0'><b>Presentation</b></td><td st
+ yle='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style='paddi
+ ng:2px 12px 2px 0'><b>Replay</b></td><td style='padding:2px 0'><i>Not yet 
+ published</i></td></tr></table><p style='color:#888\;font-size:9pt'>Source
+ s: nasdaq\, sec_8k &middot\; Last updated 2026-08-05T21:37:56Z (rev 1)</p>
+ </body></html>
+URL;VALUE=URI:https://www.sec.gov/Archives/edgar/data/1434647/0001434647260
+ 00067/zvra-20260805.htm
+LOCATION:https://www.sec.gov/Archives/edgar/data/1434647/000143464726000067
+ /zvra-20260805.htm
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 CATEGORIES:Earnings,Biopharma
-LAST-MODIFIED:20260730T221607Z
+LAST-MODIFIED:20260805T213756Z
 CREATED:20260730T221607Z
 X-BIOPHARMA-TICKER:ZVRA
 X-BIOPHARMA-CONFIDENCE:estimated
@@ -487,7 +518,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:AGEN-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:0
 DTSTART:20260806T120000Z
 DTEND:20260806T130000Z
@@ -531,7 +562,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ARDX-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:0
 DTSTART:20260806T203000Z
 DTEND:20260806T213000Z
@@ -575,7 +606,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:LNTH-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:0
 DTSTART:20260806T120000Z
 DTEND:20260806T130000Z
@@ -620,7 +651,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:RGNX-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:1
 DTSTART:20260806T120000Z
 DTEND:20260806T130000Z
@@ -664,7 +695,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:VSTM-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:0
 DTSTART:20260806T203000Z
 DTEND:20260806T213000Z
@@ -708,7 +739,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:APVO-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
@@ -746,7 +777,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:ATRA-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
@@ -785,7 +816,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:KPTI-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
@@ -824,7 +855,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:ADCT-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
@@ -862,7 +893,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:TBPH-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
@@ -901,7 +932,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:LQDA-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:0
 DTSTART:20260812T120000Z
 DTEND:20260812T130000Z
@@ -946,7 +977,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:SPRO-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:8
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
@@ -985,7 +1016,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:NKTR-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:0
 DTSTART:20260813T203000Z
 DTEND:20260813T213000Z
@@ -1030,7 +1061,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ATRA-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
@@ -1069,7 +1100,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:SPRO-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
@@ -1107,7 +1138,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:VNDA-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:0
 DTSTART:20270209T213000Z
 DTEND:20270209T223000Z
@@ -1152,7 +1183,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:KPTI-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20260805T200009Z
+DTSTAMP:20260805T213756Z
 SEQUENCE:0
 DTSTART:20270210T213000Z
 DTEND:20270210T223000Z
