@@ -13,7 +13,7 @@ X-PUBLISHED-TTL:PT120M
 COLOR:seagreen
 BEGIN:VEVENT
 UID:OPK-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260728
@@ -58,7 +58,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:QURE-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
@@ -103,7 +103,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:TGTX-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:2
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
@@ -147,84 +147,8 @@ X-BIOPHARMA-TICKER:TGTX
 X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
-UID:BBIO-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260804
-DTEND;VALUE=DATE:20260805
-SUMMARY:BBIO Q2 2026 Earnings Call (time TBD)
-DESCRIPTION:BridgeBio Pharma\, Inc.\nTicker: BBIO\nQuarter: Q2 2026\nDate/T
- ime: 2026-08-04 - time to be announced\nStatus: Expected (date not yet com
- pany-confirmed)\n\nWebcast: Not yet published\nDial-In: Not yet published\
- nInvestor Relations: Not yet published\nEarnings Release: Not yet publishe
- d\nPresentation: Not yet published\nReplay: Not yet published\n\nSources: 
- nasdaq\nLast updated: 2026-07-30T22:16:07Z  (revision 0)
-X-ALT-DESC;FMTTYPE=text/html:<html><body style="font-family:Segoe UI\,Arial
- \,sans-serif\;font-size:11pt"><p><b>BridgeBio Pharma\, Inc.</b> (BBIO)<br>
- Q2 2026 &middot\; 2026-08-04 - time to be announced<br><span style='color:
- #666'>Expected (date not yet company-confirmed)</span></p><table cellspaci
- ng='0' cellpadding='0'><tr><td style='padding:2px 12px 2px 0'><b>Webcast</
- b></td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td
-  style='padding:2px 12px 2px 0'><b>Dial-In</b></td><td style='padding:2px 
- 0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 2px 0
- '><b>Investor Relations</b></td><td style='padding:2px 0'><i>Not yet publi
- shed</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Earnings Relea
- se</b></td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr
- ><td style='padding:2px 12px 2px 0'><b>Presentation</b></td><td style='pad
- ding:2px 0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 1
- 2px 2px 0'><b>Replay</b></td><td style='padding:2px 0'><i>Not yet publishe
- d</i></td></tr></table><p style='color:#888\;font-size:9pt'>Sources: nasda
- q &middot\; Last updated 2026-07-30T22:16:07Z (rev 0)</p></body></html>
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-CATEGORIES:Earnings,Biopharma
-LAST-MODIFIED:20260730T221607Z
-CREATED:20260730T221607Z
-X-BIOPHARMA-TICKER:BBIO
-X-BIOPHARMA-CONFIDENCE:unknown
-END:VEVENT
-BEGIN:VEVENT
-UID:CRIS-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20260804
-DTEND;VALUE=DATE:20260805
-SUMMARY:CRIS Q2 2026 Earnings Call (time TBD)
-DESCRIPTION:CURIS INC\nTicker: CRIS\nQuarter: Q2 2026\nDate/Time: 2026-08-0
- 4 - time to be announced\nStatus: Expected (date not yet company-confirmed
- )\n\nWebcast: Not yet published\nDial-In: Not yet published\nInvestor Rela
- tions: Not yet published\nEarnings Release: Not yet published\nPresentatio
- n: Not yet published\nReplay: Not yet published\n\nSources: nasdaq\nLast u
- pdated: 2026-07-30T22:16:07Z  (revision 0)
-X-ALT-DESC;FMTTYPE=text/html:<html><body style="font-family:Segoe UI\,Arial
- \,sans-serif\;font-size:11pt"><p><b>CURIS INC</b> (CRIS)<br>Q2 2026 &middo
- t\; 2026-08-04 - time to be announced<br><span style='color:#666'>Expected
-  (date not yet company-confirmed)</span></p><table cellspacing='0' cellpad
- ding='0'><tr><td style='padding:2px 12px 2px 0'><b>Webcast</b></td><td sty
- le='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style='paddin
- g:2px 12px 2px 0'><b>Dial-In</b></td><td style='padding:2px 0'><i>Not yet 
- published</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Investor 
- Relations</b></td><td style='padding:2px 0'><i>Not yet published</i></td><
- /tr><tr><td style='padding:2px 12px 2px 0'><b>Earnings Release</b></td><td
-  style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style='pa
- dding:2px 12px 2px 0'><b>Presentation</b></td><td style='padding:2px 0'><i
- >Not yet published</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>
- Replay</b></td><td style='padding:2px 0'><i>Not yet published</i></td></tr
- ></table><p style='color:#888\;font-size:9pt'>Sources: nasdaq &middot\; La
- st updated 2026-07-30T22:16:07Z (rev 0)</p></body></html>
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-CATEGORIES:Earnings,Biopharma
-LAST-MODIFIED:20260730T221607Z
-CREATED:20260730T221607Z
-X-BIOPHARMA-TICKER:CRIS
-X-BIOPHARMA-CONFIDENCE:unknown
-END:VEVENT
-BEGIN:VEVENT
 UID:RYTM-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:2
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260805
@@ -269,7 +193,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:AKBA-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:2
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
@@ -314,7 +238,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:CHRS-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:2
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
@@ -359,7 +283,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:INVA-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
@@ -404,7 +328,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:VNDA-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:3
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
@@ -449,7 +373,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:ZVRA-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:2
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
@@ -494,7 +418,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:AGEN-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:1
 DTSTART:20260806T120000Z
 DTEND:20260806T130000Z
@@ -544,7 +468,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ARDX-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:2
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
@@ -589,7 +513,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:LNTH-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:2
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
@@ -634,7 +558,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:RGNX-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:3
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
@@ -679,7 +603,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:VSTM-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:2
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
@@ -724,7 +648,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:APVO-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
@@ -762,7 +686,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:ATRA-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
@@ -801,7 +725,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:KPTI-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
@@ -839,8 +763,84 @@ X-BIOPHARMA-TICKER:KPTI
 X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
+UID:BBIO-FY2026Q2@biopharma-earnings.feeds
+DTSTAMP:20260807T134349Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:BBIO Q2 2026 Earnings Call (time TBD)
+DESCRIPTION:BridgeBio Pharma\, Inc.\nTicker: BBIO\nQuarter: Q2 2026\nDate/T
+ ime: 2026-08-11 - time to be announced\nStatus: Expected (date not yet com
+ pany-confirmed)\n\nWebcast: Not yet published\nDial-In: Not yet published\
+ nInvestor Relations: Not yet published\nEarnings Release: Not yet publishe
+ d\nPresentation: Not yet published\nReplay: Not yet published\n\nSources: 
+ nasdaq\nLast updated: 2026-08-07T13:43:49Z  (revision 1)
+X-ALT-DESC;FMTTYPE=text/html:<html><body style="font-family:Segoe UI\,Arial
+ \,sans-serif\;font-size:11pt"><p><b>BridgeBio Pharma\, Inc.</b> (BBIO)<br>
+ Q2 2026 &middot\; 2026-08-11 - time to be announced<br><span style='color:
+ #666'>Expected (date not yet company-confirmed)</span></p><table cellspaci
+ ng='0' cellpadding='0'><tr><td style='padding:2px 12px 2px 0'><b>Webcast</
+ b></td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td
+  style='padding:2px 12px 2px 0'><b>Dial-In</b></td><td style='padding:2px 
+ 0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 2px 0
+ '><b>Investor Relations</b></td><td style='padding:2px 0'><i>Not yet publi
+ shed</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Earnings Relea
+ se</b></td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr
+ ><td style='padding:2px 12px 2px 0'><b>Presentation</b></td><td style='pad
+ ding:2px 0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 1
+ 2px 2px 0'><b>Replay</b></td><td style='padding:2px 0'><i>Not yet publishe
+ d</i></td></tr></table><p style='color:#888\;font-size:9pt'>Sources: nasda
+ q &middot\; Last updated 2026-08-07T13:43:49Z (rev 1)</p></body></html>
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+CATEGORIES:Earnings,Biopharma
+LAST-MODIFIED:20260807T134349Z
+CREATED:20260730T221607Z
+X-BIOPHARMA-TICKER:BBIO
+X-BIOPHARMA-CONFIDENCE:unknown
+END:VEVENT
+BEGIN:VEVENT
+UID:CRIS-FY2026Q2@biopharma-earnings.feeds
+DTSTAMP:20260807T134349Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:CRIS Q2 2026 Earnings Call (time TBD)
+DESCRIPTION:CURIS INC\nTicker: CRIS\nQuarter: Q2 2026\nDate/Time: 2026-08-1
+ 1 - time to be announced\nStatus: Expected (date not yet company-confirmed
+ )\n\nWebcast: Not yet published\nDial-In: Not yet published\nInvestor Rela
+ tions: Not yet published\nEarnings Release: Not yet published\nPresentatio
+ n: Not yet published\nReplay: Not yet published\n\nSources: nasdaq\nLast u
+ pdated: 2026-08-07T13:43:49Z  (revision 1)
+X-ALT-DESC;FMTTYPE=text/html:<html><body style="font-family:Segoe UI\,Arial
+ \,sans-serif\;font-size:11pt"><p><b>CURIS INC</b> (CRIS)<br>Q2 2026 &middo
+ t\; 2026-08-11 - time to be announced<br><span style='color:#666'>Expected
+  (date not yet company-confirmed)</span></p><table cellspacing='0' cellpad
+ ding='0'><tr><td style='padding:2px 12px 2px 0'><b>Webcast</b></td><td sty
+ le='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style='paddin
+ g:2px 12px 2px 0'><b>Dial-In</b></td><td style='padding:2px 0'><i>Not yet 
+ published</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Investor 
+ Relations</b></td><td style='padding:2px 0'><i>Not yet published</i></td><
+ /tr><tr><td style='padding:2px 12px 2px 0'><b>Earnings Release</b></td><td
+  style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style='pa
+ dding:2px 12px 2px 0'><b>Presentation</b></td><td style='padding:2px 0'><i
+ >Not yet published</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>
+ Replay</b></td><td style='padding:2px 0'><i>Not yet published</i></td></tr
+ ></table><p style='color:#888\;font-size:9pt'>Sources: nasdaq &middot\; La
+ st updated 2026-08-07T13:43:49Z (rev 1)</p></body></html>
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+CATEGORIES:Earnings,Biopharma
+LAST-MODIFIED:20260807T134349Z
+CREATED:20260730T221607Z
+X-BIOPHARMA-TICKER:CRIS
+X-BIOPHARMA-CONFIDENCE:unknown
+END:VEVENT
+BEGIN:VEVENT
 UID:TBPH-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
@@ -879,7 +879,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:LQDA-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:0
 DTSTART:20260812T120000Z
 DTEND:20260812T130000Z
@@ -924,7 +924,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:SPRO-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:9
 DTSTART:20260812T203000Z
 DTEND:20260812T213000Z
@@ -969,7 +969,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ADCT-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:2
 DTSTART:20260813T120000Z
 DTEND:20260813T130000Z
@@ -1014,7 +1014,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:NKTR-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:0
 DTSTART:20260813T203000Z
 DTEND:20260813T213000Z
@@ -1059,7 +1059,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ATRA-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
@@ -1098,7 +1098,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:SPRO-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
@@ -1136,7 +1136,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:VNDA-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:0
 DTSTART:20270209T213000Z
 DTEND:20270209T223000Z
@@ -1181,7 +1181,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:KPTI-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:0
 DTSTART:20270210T213000Z
 DTEND:20270210T223000Z
@@ -1226,7 +1226,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:INVA-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20260807T111239Z
+DTSTAMP:20260807T134349Z
 SEQUENCE:0
 DTSTART:20270223T213000Z
 DTEND:20270223T223000Z
