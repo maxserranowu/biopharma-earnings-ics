@@ -1,5 +1,5 @@
 {
- "built_at": "2026-07-30T22:11:55.833987+00:00",
+ "built_at": "2026-08-07T00:27:34.233599+00:00",
  "companies": {
   "AAPG": {
    "cik": "0002023311",
@@ -630,6 +630,16 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "APLM"
+  },
+  "APMD": {
+   "cik": "0001745648",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Apnimed, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "APMD"
   },
   "APRE": {
    "cik": "0001781983",
@@ -1750,16 +1760,6 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "CPIX"
-  },
-  "CPRX": {
-   "cik": "0001369568",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "CATALYST PHARMACEUTICALS, INC.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "CPRX"
   },
   "CRBP": {
    "cik": "0001595097",
@@ -4631,16 +4631,6 @@
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "NUVB"
   },
-  "NUVL": {
-   "cik": "0001861560",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "Nuvalent, Inc.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "NUVL"
-  },
   "NVAX": {
    "cik": "0001000694",
    "exchange": "Nasdaq",
@@ -6596,7 +6586,7 @@
    "exchange": "Nasdaq",
    "ir_url": "",
    "market_cap": null,
-   "name": "Tevogen Bio Holdings Inc.",
+   "name": "Tevogen Inc.",
    "sic": "2836",
    "sic_description": "Biological Products, (No Diagnostic Substances)",
    "ticker": "TVGN"
@@ -7040,16 +7030,6 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "XNCR"
-  },
-  "XOMA": {
-   "cik": "0000791908",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "XOMA Royalty Corp",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "XOMA"
   },
   "XRTX": {
    "cik": "0001729214",
