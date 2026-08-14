@@ -1,5 +1,5 @@
 {
- "built_at": "2026-08-07T00:27:34.233599+00:00",
+ "built_at": "2026-08-14T02:57:25.011920+00:00",
  "companies": {
   "AAPG": {
    "cik": "0002023311",
@@ -851,6 +851,16 @@
    "sic_description": "Biological Products, (No Diagnostic Substances)",
    "ticker": "ATRA"
   },
+  "ATTO": {
+   "cik": "0002058707",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Attovia Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "ATTO"
+  },
   "ATYR": {
    "cik": "0001339970",
    "exchange": "Nasdaq",
@@ -1320,6 +1330,16 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "BRNS"
+  },
+  "BRVE": {
+   "cik": "0002131524",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Braveheart Bio, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BRVE"
   },
   "BTAI": {
    "cik": "0001720893",
@@ -4701,6 +4721,16 @@
    "sic_description": "Services-Commercial Physical & Biological Research",
    "ticker": "OABI"
   },
+  "OBX": {
+   "cik": "0002130606",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Obsidian Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "OBX"
+  },
   "OCGN": {
    "cik": "0001372299",
    "exchange": "Nasdaq",
@@ -6946,7 +6976,7 @@
    "exchange": "Nasdaq",
    "ir_url": "",
    "market_cap": null,
-   "name": "Wave Life Sciences Ltd.",
+   "name": "Wave Life Sciences, Inc.",
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "WVE"
