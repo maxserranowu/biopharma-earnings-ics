@@ -1,7 +1,7 @@
 {
  "total_events": 1197,
  "new": 0,
- "updated": 0,
+ "updated": 1,
  "universe_size": 719,
  "feed_all-1": 393,
  "feed_all-2": 410,
@@ -13,7 +13,7 @@
    "name": "all-1",
    "file": "biopharma-earnings-1.ics",
    "events": 393,
-   "bytes": 274546
+   "bytes": 274598
   },
   {
    "name": "all-2",
