@@ -1,5 +1,5 @@
 {
- "built_at": "2026-08-14T02:57:25.011920+00:00",
+ "built_at": "2026-08-21T03:27:50.487517+00:00",
  "companies": {
   "AAPG": {
    "cik": "0002023311",
@@ -1221,6 +1221,16 @@
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "BLRX"
   },
+  "BLSM": {
+   "cik": "0001839970",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BlossomHill Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "BLSM"
+  },
   "BLTE": {
    "cik": "0001889109",
    "exchange": "Nasdaq",
@@ -1340,6 +1350,16 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "BRVE"
+  },
+  "BSEM": {
+   "cik": "0001658678",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "BioStem Technologies, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "BSEM"
   },
   "BTAI": {
    "cik": "0001720893",
@@ -3001,6 +3021,16 @@
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "HYPD"
   },
+  "IBAC": {
+   "cik": "0001998781",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "IB Acquisition Corp.",
+   "sic": "8731",
+   "sic_description": "Services-Commercial Physical & Biological Research",
+   "ticker": "IBAC"
+  },
   "IBIO": {
    "cik": "0001420720",
    "exchange": "Nasdaq",
@@ -3960,6 +3990,16 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "LSTA"
+  },
+  "LTGO": {
+   "cik": "0002056611",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Latigo Biotherapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "LTGO"
   },
   "LTRN": {
    "cik": "0001763950",
@@ -6841,6 +6881,16 @@
    "sic_description": "In Vitro & In Vivo Diagnostic Substances",
    "ticker": "VNRX"
   },
+  "VOGX": {
+   "cik": "0001903784",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Vogenx, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "VOGX"
+  },
   "VOR": {
    "cik": "0001817229",
    "exchange": "Nasdaq",
@@ -6896,7 +6946,7 @@
    "exchange": "Nasdaq",
    "ir_url": "",
    "market_cap": null,
-   "name": "Veraxa Biotech Holding AG",
+   "name": "Veraxa Biotech AG - Post de-SPAC",
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "VRXA"
@@ -6950,16 +7000,6 @@
    "sic": "2836",
    "sic_description": "Biological Products, (No Diagnostic Substances)",
    "ticker": "VYGR"
-  },
-  "VYNE": {
-   "cik": "0001566044",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "Yarrow Bioscience, Inc.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "VYNE"
   },
   "WHWK": {
    "cik": "0001422142",
@@ -7080,6 +7120,16 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "XTLB"
+  },
+  "YARW": {
+   "cik": "0001566044",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Yarrow Bioscience, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "YARW"
   },
   "ZBIO": {
    "cik": "0001953926",
