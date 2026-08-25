@@ -1609,6 +1609,11 @@
   "source": "none",
   "url": ""
  },
+ "IPHA": {
+  "checked_at": "2026-08-25T13:16:46+00:00",
+  "source": "none",
+  "url": ""
+ },
  "IPSC": {
   "checked_at": "2026-08-13T23:07:46+00:00",
   "source": "none",
@@ -1636,6 +1641,11 @@
  },
  "ISPC": {
   "checked_at": "2026-08-13T23:07:46+00:00",
+  "source": "none",
+  "url": ""
+ },
+ "IVA": {
+  "checked_at": "2026-08-25T13:16:46+00:00",
   "source": "none",
   "url": ""
  },
@@ -1695,7 +1705,7 @@
   "url": ""
  },
  "KARD": {
-  "checked_at": "2026-08-11T11:10:03+00:00",
+  "checked_at": "2026-08-25T13:16:46+00:00",
   "source": "none",
   "url": ""
  },
