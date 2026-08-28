@@ -1,5 +1,5 @@
 {
- "built_at": "2026-08-21T03:27:50.487517+00:00",
+ "built_at": "2026-08-28T06:18:58.831173+00:00",
  "companies": {
   "AAPG": {
    "cik": "0002023311",
@@ -566,7 +566,7 @@
    "exchange": "Nasdaq",
    "ir_url": "",
    "market_cap": null,
-   "name": "Adlai Nortye Ltd.",
+   "name": "Adlai Nortye Group Ltd.",
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "ANL"
@@ -2590,6 +2590,16 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "FHTX"
+  },
+  "FIXX": {
+   "cik": "0001661998",
+   "exchange": "CBOE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Q32 Bio Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "FIXX"
   },
   "FLNA": {
    "cik": "0001069530",
@@ -5511,16 +5521,6 @@
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "QNTM"
   },
-  "QTTB": {
-   "cik": "0001661998",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "Q32 Bio Inc.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "QTTB"
-  },
   "QUCY": {
    "cik": "0001874252",
    "exchange": "Nasdaq",
@@ -5940,16 +5940,6 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "SCYX"
-  },
-  "SDEV": {
-   "cik": "0001389545",
-   "exchange": "NYSE",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "Stablecoin Development Corp",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "SDEV"
   },
   "SDGR": {
    "cik": "0001490978",
