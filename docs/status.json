@@ -1,31 +1,31 @@
 {
- "total_events": 1380,
- "new": 0,
- "updated": 8,
+ "total_events": 1382,
+ "new": 2,
+ "updated": 0,
  "universe_size": 723,
  "feed_all-1": 436,
- "feed_all-2": 454,
- "feed_all-3": 423,
+ "feed_all-2": 455,
+ "feed_all-3": 424,
  "feed_hcrx": 46,
- "feed_majors": 27,
+ "feed_majors": 28,
  "feeds": [
   {
    "name": "all-1",
    "file": "biopharma-earnings-1.ics",
    "events": 436,
-   "bytes": 299437
+   "bytes": 299464
   },
   {
    "name": "all-2",
    "file": "biopharma-earnings-2.ics",
-   "events": 454,
-   "bytes": 310196
+   "events": 455,
+   "bytes": 310784
   },
   {
    "name": "all-3",
    "file": "biopharma-earnings-3.ics",
-   "events": 423,
-   "bytes": 292711
+   "events": 424,
+   "bytes": 293301
   },
   {
    "name": "hcrx",
@@ -36,8 +36,8 @@
   {
    "name": "majors",
    "file": "biopharma-earnings-majors.ics",
-   "events": 27,
-   "bytes": 62480
+   "events": 28,
+   "bytes": 64554
   }
  ]
 }
