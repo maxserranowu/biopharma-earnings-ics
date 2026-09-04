@@ -12,190 +12,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT120M
 X-PUBLISHED-TTL:PT120M
 COLOR:seagreen
 BEGIN:VEVENT
-UID:AMGN-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20260804
-DTEND;VALUE=DATE:20260805
-SUMMARY:AMGN Q2 2026 Earnings Call (time TBD)
-DESCRIPTION:AMGEN INC\nTicker: AMGN\nQuarter: Q2 2026\nDate/Time: 2026-08-0
- 4 - time to be announced\nStatus: Expected (date not yet company-confirmed
- )\n\nWebcast: Not yet published\nDial-In: Not yet published\nInvestor Rela
- tions: Not yet published\nEarnings Release: https://www.sec.gov/Archives/e
- dgar/data/318154/000031815426000124/amgn-20260804.htm\nPresentation: Not y
- et published\nReplay: Not yet published\n\nSources: nasdaq\nLast updated: 
- 2026-08-26T02:03:23Z  (revision 3)
-X-ALT-DESC;FMTTYPE=text/html:<html><body style="font-family:Segoe UI\,Arial
- \,sans-serif\;font-size:11pt"><p><b>AMGEN INC</b> (AMGN)<br>Q2 2026 &middo
- t\; 2026-08-04 - time to be announced<br><span style='color:#666'>Expected
-  (date not yet company-confirmed)</span></p><table cellspacing='0' cellpad
- ding='0'><tr><td style='padding:2px 12px 2px 0'><b>Webcast</b></td><td sty
- le='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style='paddin
- g:2px 12px 2px 0'><b>Dial-In</b></td><td style='padding:2px 0'><i>Not yet 
- published</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Investor 
- Relations</b></td><td style='padding:2px 0'><i>Not yet published</i></td><
- /tr><tr><td style='padding:2px 12px 2px 0'><b>Earnings Release</b></td><td
-  style='padding:2px 0'><a href="https://www.sec.gov/Archives/edgar/data/31
- 8154/000031815426000124/amgn-20260804.htm">https://www.sec.gov/Archives/ed
- gar/data/318154/000031815426000124/amgn&hellip\;</a></td></tr><tr><td styl
- e='padding:2px 12px 2px 0'><b>Presentation</b></td><td style='padding:2px 
- 0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 2px 0
- '><b>Replay</b></td><td style='padding:2px 0'><i>Not yet published</i></td
- ></tr></table><p style='color:#888\;font-size:9pt'>Sources: nasdaq &middot
- \; Last updated 2026-08-26T02:03:23Z (rev 3)</p></body></html>
-URL;VALUE=URI:https://www.sec.gov/Archives/edgar/data/318154/00003181542600
- 0124/amgn-20260804.htm
-LOCATION:https://www.sec.gov/Archives/edgar/data/318154/000031815426000124/
- amgn-20260804.htm
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-CATEGORIES:Earnings,Biopharma
-LAST-MODIFIED:20260826T020323Z
-CREATED:20260730T221607Z
-X-BIOPHARMA-TICKER:AMGN
-X-BIOPHARMA-CONFIDENCE:unknown
-END:VEVENT
-BEGIN:VEVENT
-UID:GILD-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20260804
-DTEND;VALUE=DATE:20260805
-SUMMARY:GILD Q2 2026 Earnings Call (time TBD)
-DESCRIPTION:GILEAD SCIENCES\, INC.\nTicker: GILD\nQuarter: Q2 2026\nDate/Ti
- me: 2026-08-04 - time to be announced\nStatus: Expected (date not yet comp
- any-confirmed)\n\nWebcast: Not yet published\nDial-In: Not yet published\n
- Investor Relations: Not yet published\nEarnings Release: https://www.sec.g
- ov/Archives/edgar/data/882095/000088209526000028/gild-20260804.htm\nPresen
- tation: Not yet published\nReplay: Not yet published\n\nSources: nasdaq\nL
- ast updated: 2026-08-26T02:03:23Z  (revision 3)
-X-ALT-DESC;FMTTYPE=text/html:<html><body style="font-family:Segoe UI\,Arial
- \,sans-serif\;font-size:11pt"><p><b>GILEAD SCIENCES\, INC.</b> (GILD)<br>Q
- 2 2026 &middot\; 2026-08-04 - time to be announced<br><span style='color:#
- 666'>Expected (date not yet company-confirmed)</span></p><table cellspacin
- g='0' cellpadding='0'><tr><td style='padding:2px 12px 2px 0'><b>Webcast</b
- ></td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td 
- style='padding:2px 12px 2px 0'><b>Dial-In</b></td><td style='padding:2px 0
- '><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 2px 0'
- ><b>Investor Relations</b></td><td style='padding:2px 0'><i>Not yet publis
- hed</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Earnings Releas
- e</b></td><td style='padding:2px 0'><a href="https://www.sec.gov/Archives/
- edgar/data/882095/000088209526000028/gild-20260804.htm">https://www.sec.go
- v/Archives/edgar/data/882095/000088209526000028/gild&hellip\;</a></td></tr
- ><tr><td style='padding:2px 12px 2px 0'><b>Presentation</b></td><td style=
- 'padding:2px 0'><i>Not yet published</i></td></tr><tr><td style='padding:2
- px 12px 2px 0'><b>Replay</b></td><td style='padding:2px 0'><i>Not yet publ
- ished</i></td></tr></table><p style='color:#888\;font-size:9pt'>Sources: n
- asdaq &middot\; Last updated 2026-08-26T02:03:23Z (rev 3)</p></body></html
- >
-URL;VALUE=URI:https://www.sec.gov/Archives/edgar/data/882095/00008820952600
- 0028/gild-20260804.htm
-LOCATION:https://www.sec.gov/Archives/edgar/data/882095/000088209526000028/
- gild-20260804.htm
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-CATEGORIES:Earnings,Biopharma
-LAST-MODIFIED:20260826T020323Z
-CREATED:20260730T221607Z
-X-BIOPHARMA-TICKER:GILD
-X-BIOPHARMA-CONFIDENCE:unknown
-END:VEVENT
-BEGIN:VEVENT
-UID:MRK-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20260804
-DTEND;VALUE=DATE:20260805
-SUMMARY:MRK Q2 2026 Earnings Call (time TBD)
-DESCRIPTION:Merck & Co.\, Inc.\nTicker: MRK\nQuarter: Q2 2026\nDate/Time: 2
- 026-08-04 - time to be announced\nStatus: Expected (date not yet company-c
- onfirmed)\n\nWebcast: Not yet published\nDial-In: Not yet published\nInves
- tor Relations: Not yet published\nEarnings Release: https://www.sec.gov/Ar
- chives/edgar/data/310158/000110465926090045/tm2621496d1_8k.htm\nPresentati
- on: Not yet published\nReplay: Not yet published\n\nSources: nasdaq\nLast 
- updated: 2026-08-26T02:03:23Z  (revision 3)
-X-ALT-DESC;FMTTYPE=text/html:<html><body style="font-family:Segoe UI\,Arial
- \,sans-serif\;font-size:11pt"><p><b>Merck &amp\; Co.\, Inc.</b> (MRK)<br>Q
- 2 2026 &middot\; 2026-08-04 - time to be announced<br><span style='color:#
- 666'>Expected (date not yet company-confirmed)</span></p><table cellspacin
- g='0' cellpadding='0'><tr><td style='padding:2px 12px 2px 0'><b>Webcast</b
- ></td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td 
- style='padding:2px 12px 2px 0'><b>Dial-In</b></td><td style='padding:2px 0
- '><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 2px 0'
- ><b>Investor Relations</b></td><td style='padding:2px 0'><i>Not yet publis
- hed</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Earnings Releas
- e</b></td><td style='padding:2px 0'><a href="https://www.sec.gov/Archives/
- edgar/data/310158/000110465926090045/tm2621496d1_8k.htm">https://www.sec.g
- ov/Archives/edgar/data/310158/000110465926090045/tm26&hellip\;</a></td></t
- r><tr><td style='padding:2px 12px 2px 0'><b>Presentation</b></td><td style
- ='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style='padding:
- 2px 12px 2px 0'><b>Replay</b></td><td style='padding:2px 0'><i>Not yet pub
- lished</i></td></tr></table><p style='color:#888\;font-size:9pt'>Sources: 
- nasdaq &middot\; Last updated 2026-08-26T02:03:23Z (rev 3)</p></body></htm
- l>
-URL;VALUE=URI:https://www.sec.gov/Archives/edgar/data/310158/00011046592609
- 0045/tm2621496d1_8k.htm
-LOCATION:https://www.sec.gov/Archives/edgar/data/310158/000110465926090045/
- tm2621496d1_8k.htm
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-CATEGORIES:Earnings,Biopharma
-LAST-MODIFIED:20260826T020323Z
-CREATED:20260730T221607Z
-X-BIOPHARMA-TICKER:MRK
-X-BIOPHARMA-CONFIDENCE:unknown
-END:VEVENT
-BEGIN:VEVENT
-UID:PFE-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20260804
-DTEND;VALUE=DATE:20260805
-SUMMARY:PFE Q2 2026 Earnings Call (time TBD)
-DESCRIPTION:PFIZER INC\nTicker: PFE\nQuarter: Q2 2026\nDate/Time: 2026-08-0
- 4 - time to be announced\nStatus: Expected (date not yet company-confirmed
- )\n\nWebcast: Not yet published\nDial-In: Not yet published\nInvestor Rela
- tions: Not yet published\nEarnings Release: https://www.sec.gov/Archives/e
- dgar/data/78003/000007800326000094/pfe-20260804.htm\nPresentation: Not yet
-  published\nReplay: Not yet published\n\nSources: nasdaq\nLast updated: 20
- 26-08-26T02:03:23Z  (revision 3)
-X-ALT-DESC;FMTTYPE=text/html:<html><body style="font-family:Segoe UI\,Arial
- \,sans-serif\;font-size:11pt"><p><b>PFIZER INC</b> (PFE)<br>Q2 2026 &middo
- t\; 2026-08-04 - time to be announced<br><span style='color:#666'>Expected
-  (date not yet company-confirmed)</span></p><table cellspacing='0' cellpad
- ding='0'><tr><td style='padding:2px 12px 2px 0'><b>Webcast</b></td><td sty
- le='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style='paddin
- g:2px 12px 2px 0'><b>Dial-In</b></td><td style='padding:2px 0'><i>Not yet 
- published</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Investor 
- Relations</b></td><td style='padding:2px 0'><i>Not yet published</i></td><
- /tr><tr><td style='padding:2px 12px 2px 0'><b>Earnings Release</b></td><td
-  style='padding:2px 0'><a href="https://www.sec.gov/Archives/edgar/data/78
- 003/000007800326000094/pfe-20260804.htm">https://www.sec.gov/Archives/edga
- r/data/78003/000007800326000094/pfe-2&hellip\;</a></td></tr><tr><td style=
- 'padding:2px 12px 2px 0'><b>Presentation</b></td><td style='padding:2px 0'
- ><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 2px 0'>
- <b>Replay</b></td><td style='padding:2px 0'><i>Not yet published</i></td><
- /tr></table><p style='color:#888\;font-size:9pt'>Sources: nasdaq &middot\;
-  Last updated 2026-08-26T02:03:23Z (rev 3)</p></body></html>
-URL;VALUE=URI:https://www.sec.gov/Archives/edgar/data/78003/000007800326000
- 094/pfe-20260804.htm
-LOCATION:https://www.sec.gov/Archives/edgar/data/78003/000007800326000094/p
- fe-20260804.htm
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-CLASS:PUBLIC
-CATEGORIES:Earnings,Biopharma
-LAST-MODIFIED:20260826T020323Z
-CREATED:20260730T221607Z
-X-BIOPHARMA-TICKER:PFE
-X-BIOPHARMA-CONFIDENCE:unknown
-END:VEVENT
-BEGIN:VEVENT
 UID:ELAN-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:3
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
@@ -241,7 +59,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:LLY-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:3
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
@@ -286,7 +104,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:UTHR-FY2026Q2@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:3
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
@@ -332,7 +150,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:JNJ-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:1
 DTSTART:20261013T120000Z
 DTEND:20261013T130000Z
@@ -372,7 +190,7 @@ X-BIOPHARMA-CONFIDENCE:estimated
 END:VEVENT
 BEGIN:VEVENT
 UID:SNY-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
@@ -410,7 +228,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:REGN-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
@@ -450,7 +268,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:NVS-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
@@ -488,7 +306,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:UTHR-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:0
 DTSTART:20261027T120000Z
 DTEND:20261027T130000Z
@@ -528,7 +346,7 @@ X-BIOPHARMA-CONFIDENCE:estimated
 END:VEVENT
 BEGIN:VEVENT
 UID:BIIB-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
@@ -566,7 +384,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:GILD-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
@@ -603,8 +421,160 @@ X-BIOPHARMA-TICKER:GILD
 X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
+UID:ABBV-FY2026Q3@biopharma-earnings.feeds
+DTSTAMP:20260904T001138Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:ABBV Q3 2026 Earnings Call (time TBD)
+DESCRIPTION:AbbVie Inc.\nTicker: ABBV\nQuarter: Q3 2026\nDate/Time: 2026-10
+ -29 - time to be announced\nStatus: Expected (date not yet company-confirm
+ ed)\n\nWebcast: Not yet published\nDial-In: Not yet published\nInvestor Re
+ lations: Not yet published\nEarnings Release: Not yet published\nPresentat
+ ion: Not yet published\nReplay: Not yet published\n\nSources: finnhub\nLas
+ t updated: 2026-09-04T00:11:38Z  (revision 0)
+X-ALT-DESC;FMTTYPE=text/html:<html><body style="font-family:Segoe UI\,Arial
+ \,sans-serif\;font-size:11pt"><p><b>AbbVie Inc.</b> (ABBV)<br>Q3 2026 &mid
+ dot\; 2026-10-29 - time to be announced<br><span style='color:#666'>Expect
+ ed (date not yet company-confirmed)</span></p><table cellspacing='0' cellp
+ adding='0'><tr><td style='padding:2px 12px 2px 0'><b>Webcast</b></td><td s
+ tyle='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style='padd
+ ing:2px 12px 2px 0'><b>Dial-In</b></td><td style='padding:2px 0'><i>Not ye
+ t published</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Investo
+ r Relations</b></td><td style='padding:2px 0'><i>Not yet published</i></td
+ ></tr><tr><td style='padding:2px 12px 2px 0'><b>Earnings Release</b></td><
+ td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style='
+ padding:2px 12px 2px 0'><b>Presentation</b></td><td style='padding:2px 0'>
+ <i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 2px 0'><
+ b>Replay</b></td><td style='padding:2px 0'><i>Not yet published</i></td></
+ tr></table><p style='color:#888\;font-size:9pt'>Sources: finnhub &middot\;
+  Last updated 2026-09-04T00:11:38Z (rev 0)</p></body></html>
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+CATEGORIES:Earnings,Biopharma
+LAST-MODIFIED:20260904T001138Z
+CREATED:20260904T001138Z
+X-BIOPHARMA-TICKER:ABBV
+X-BIOPHARMA-CONFIDENCE:unknown
+END:VEVENT
+BEGIN:VEVENT
+UID:BMY-FY2026Q3@biopharma-earnings.feeds
+DTSTAMP:20260904T001138Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:BMY Q3 2026 Earnings Call (time TBD)
+DESCRIPTION:BRISTOL MYERS SQUIBB CO\nTicker: BMY\nQuarter: Q3 2026\nDate/Ti
+ me: 2026-10-29 - time to be announced\nStatus: Expected (date not yet comp
+ any-confirmed)\n\nWebcast: Not yet published\nDial-In: Not yet published\n
+ Investor Relations: Not yet published\nEarnings Release: Not yet published
+ \nPresentation: Not yet published\nReplay: Not yet published\n\nSources: f
+ innhub\nLast updated: 2026-09-04T00:11:38Z  (revision 0)
+X-ALT-DESC;FMTTYPE=text/html:<html><body style="font-family:Segoe UI\,Arial
+ \,sans-serif\;font-size:11pt"><p><b>BRISTOL MYERS SQUIBB CO</b> (BMY)<br>Q
+ 3 2026 &middot\; 2026-10-29 - time to be announced<br><span style='color:#
+ 666'>Expected (date not yet company-confirmed)</span></p><table cellspacin
+ g='0' cellpadding='0'><tr><td style='padding:2px 12px 2px 0'><b>Webcast</b
+ ></td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td 
+ style='padding:2px 12px 2px 0'><b>Dial-In</b></td><td style='padding:2px 0
+ '><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 2px 0'
+ ><b>Investor Relations</b></td><td style='padding:2px 0'><i>Not yet publis
+ hed</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Earnings Releas
+ e</b></td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr>
+ <td style='padding:2px 12px 2px 0'><b>Presentation</b></td><td style='padd
+ ing:2px 0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 12
+ px 2px 0'><b>Replay</b></td><td style='padding:2px 0'><i>Not yet published
+ </i></td></tr></table><p style='color:#888\;font-size:9pt'>Sources: finnhu
+ b &middot\; Last updated 2026-09-04T00:11:38Z (rev 0)</p></body></html>
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+CATEGORIES:Earnings,Biopharma
+LAST-MODIFIED:20260904T001138Z
+CREATED:20260904T001138Z
+X-BIOPHARMA-TICKER:BMY
+X-BIOPHARMA-CONFIDENCE:unknown
+END:VEVENT
+BEGIN:VEVENT
+UID:LLY-FY2026Q3@biopharma-earnings.feeds
+DTSTAMP:20260904T001138Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:LLY Q3 2026 Earnings Call (time TBD)
+DESCRIPTION:ELI LILLY & Co\nTicker: LLY\nQuarter: Q3 2026\nDate/Time: 2026-
+ 10-29 - time to be announced\nStatus: Expected (date not yet company-confi
+ rmed)\n\nWebcast: Not yet published\nDial-In: Not yet published\nInvestor 
+ Relations: Not yet published\nEarnings Release: Not yet published\nPresent
+ ation: Not yet published\nReplay: Not yet published\n\nSources: finnhub\nL
+ ast updated: 2026-09-04T00:11:38Z  (revision 0)
+X-ALT-DESC;FMTTYPE=text/html:<html><body style="font-family:Segoe UI\,Arial
+ \,sans-serif\;font-size:11pt"><p><b>ELI LILLY &amp\; Co</b> (LLY)<br>Q3 20
+ 26 &middot\; 2026-10-29 - time to be announced<br><span style='color:#666'
+ >Expected (date not yet company-confirmed)</span></p><table cellspacing='0
+ ' cellpadding='0'><tr><td style='padding:2px 12px 2px 0'><b>Webcast</b></t
+ d><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td styl
+ e='padding:2px 12px 2px 0'><b>Dial-In</b></td><td style='padding:2px 0'><i
+ >Not yet published</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>
+ Investor Relations</b></td><td style='padding:2px 0'><i>Not yet published<
+ /i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Earnings Release</b
+ ></td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td 
+ style='padding:2px 12px 2px 0'><b>Presentation</b></td><td style='padding:
+ 2px 0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 2
+ px 0'><b>Replay</b></td><td style='padding:2px 0'><i>Not yet published</i>
+ </td></tr></table><p style='color:#888\;font-size:9pt'>Sources: finnhub &m
+ iddot\; Last updated 2026-09-04T00:11:38Z (rev 0)</p></body></html>
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+CATEGORIES:Earnings,Biopharma
+LAST-MODIFIED:20260904T001138Z
+CREATED:20260904T001138Z
+X-BIOPHARMA-TICKER:LLY
+X-BIOPHARMA-CONFIDENCE:unknown
+END:VEVENT
+BEGIN:VEVENT
+UID:MRK-FY2026Q3@biopharma-earnings.feeds
+DTSTAMP:20260904T001138Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:MRK Q3 2026 Earnings Call (time TBD)
+DESCRIPTION:Merck & Co.\, Inc.\nTicker: MRK\nQuarter: Q3 2026\nDate/Time: 2
+ 026-10-29 - time to be announced\nStatus: Expected (date not yet company-c
+ onfirmed)\n\nWebcast: Not yet published\nDial-In: Not yet published\nInves
+ tor Relations: Not yet published\nEarnings Release: Not yet published\nPre
+ sentation: Not yet published\nReplay: Not yet published\n\nSources: finnhu
+ b\nLast updated: 2026-09-04T00:11:38Z  (revision 0)
+X-ALT-DESC;FMTTYPE=text/html:<html><body style="font-family:Segoe UI\,Arial
+ \,sans-serif\;font-size:11pt"><p><b>Merck &amp\; Co.\, Inc.</b> (MRK)<br>Q
+ 3 2026 &middot\; 2026-10-29 - time to be announced<br><span style='color:#
+ 666'>Expected (date not yet company-confirmed)</span></p><table cellspacin
+ g='0' cellpadding='0'><tr><td style='padding:2px 12px 2px 0'><b>Webcast</b
+ ></td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td 
+ style='padding:2px 12px 2px 0'><b>Dial-In</b></td><td style='padding:2px 0
+ '><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 2px 0'
+ ><b>Investor Relations</b></td><td style='padding:2px 0'><i>Not yet publis
+ hed</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Earnings Releas
+ e</b></td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr>
+ <td style='padding:2px 12px 2px 0'><b>Presentation</b></td><td style='padd
+ ing:2px 0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 12
+ px 2px 0'><b>Replay</b></td><td style='padding:2px 0'><i>Not yet published
+ </i></td></tr></table><p style='color:#888\;font-size:9pt'>Sources: finnhu
+ b &middot\; Last updated 2026-09-04T00:11:38Z (rev 0)</p></body></html>
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+CLASS:PUBLIC
+CATEGORIES:Earnings,Biopharma
+LAST-MODIFIED:20260904T001138Z
+CREATED:20260904T001138Z
+X-BIOPHARMA-TICKER:MRK
+X-BIOPHARMA-CONFIDENCE:unknown
+END:VEVENT
+BEGIN:VEVENT
 UID:JNJ-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:0
 DTSTART:20270119T213000Z
 DTEND:20270119T223000Z
@@ -643,7 +613,7 @@ X-BIOPHARMA-CONFIDENCE:estimated
 END:VEVENT
 BEGIN:VEVENT
 UID:REGN-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:1
 DTSTART:20270128T213000Z
 DTEND:20270128T223000Z
@@ -684,7 +654,7 @@ X-BIOPHARMA-CONFIDENCE:estimated
 END:VEVENT
 BEGIN:VEVENT
 UID:AMGN-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:1
 DTSTART:20270201T213000Z
 DTEND:20270201T223000Z
@@ -724,7 +694,7 @@ X-BIOPHARMA-CONFIDENCE:estimated
 END:VEVENT
 BEGIN:VEVENT
 UID:PFE-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:1
 DTSTART:20270201T213000Z
 DTEND:20270201T223000Z
@@ -764,7 +734,7 @@ X-BIOPHARMA-CONFIDENCE:estimated
 END:VEVENT
 BEGIN:VEVENT
 UID:ABBV-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:1
 DTSTART:20270202T213000Z
 DTEND:20270202T223000Z
@@ -804,7 +774,7 @@ X-BIOPHARMA-CONFIDENCE:estimated
 END:VEVENT
 BEGIN:VEVENT
 UID:LLY-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:1
 DTSTART:20270202T130000Z
 DTEND:20270202T140000Z
@@ -844,7 +814,7 @@ X-BIOPHARMA-CONFIDENCE:estimated
 END:VEVENT
 BEGIN:VEVENT
 UID:MRK-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:1
 DTSTART:20270202T213000Z
 DTEND:20270202T223000Z
@@ -884,7 +854,7 @@ X-BIOPHARMA-CONFIDENCE:estimated
 END:VEVENT
 BEGIN:VEVENT
 UID:BMY-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:1
 DTSTART:20270203T213000Z
 DTEND:20270203T223000Z
@@ -925,7 +895,7 @@ X-BIOPHARMA-CONFIDENCE:estimated
 END:VEVENT
 BEGIN:VEVENT
 UID:BIIB-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:1
 DTSTART:20270204T213000Z
 DTEND:20270204T223000Z
@@ -965,7 +935,7 @@ X-BIOPHARMA-CONFIDENCE:estimated
 END:VEVENT
 BEGIN:VEVENT
 UID:GILD-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:1
 DTSTART:20270208T213000Z
 DTEND:20270208T223000Z
@@ -1005,7 +975,7 @@ X-BIOPHARMA-CONFIDENCE:estimated
 END:VEVENT
 BEGIN:VEVENT
 UID:VRTX-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:1
 DTSTART:20270210T213000Z
 DTEND:20270210T223000Z
@@ -1046,7 +1016,7 @@ X-BIOPHARMA-CONFIDENCE:estimated
 END:VEVENT
 BEGIN:VEVENT
 UID:ELAN-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:1
 DTSTART:20270222T213000Z
 DTEND:20270222T223000Z
@@ -1087,7 +1057,7 @@ X-BIOPHARMA-CONFIDENCE:estimated
 END:VEVENT
 BEGIN:VEVENT
 UID:JAZZ-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:1
 DTSTART:20270222T213000Z
 DTEND:20270222T223000Z
@@ -1128,7 +1098,7 @@ X-BIOPHARMA-CONFIDENCE:estimated
 END:VEVENT
 BEGIN:VEVENT
 UID:UTHR-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20260903T210701Z
+DTSTAMP:20260904T001138Z
 SEQUENCE:1
 DTSTART:20270223T213000Z
 DTEND:20270223T223000Z
