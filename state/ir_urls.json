@@ -489,6 +489,11 @@
   "source": "none",
   "url": ""
  },
+ "BCTX": {
+  "checked_at": "2026-09-06T04:43:20+00:00",
+  "source": "none",
+  "url": ""
+ },
  "BCYC": {
   "checked_at": "2026-08-28T06:23:12+00:00",
   "source": "none",
@@ -2970,7 +2975,7 @@
   "url": ""
  },
  "SXTC": {
-  "checked_at": "2026-08-23T02:04:43+00:00",
+  "checked_at": "2026-09-06T04:43:20+00:00",
   "source": "none",
   "url": ""
  },
