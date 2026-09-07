@@ -1,7 +1,7 @@
 {
  "total_events": 1463,
- "new": 2,
- "updated": 2,
+ "new": 0,
+ "updated": 15,
  "universe_size": 723,
  "feed_all-1": 390,
  "feed_all-2": 403,
@@ -13,19 +13,19 @@
    "name": "all-1",
    "file": "biopharma-earnings-1.ics",
    "events": 390,
-   "bytes": 254867
+   "bytes": 255075
   },
   {
    "name": "all-2",
    "file": "biopharma-earnings-2.ics",
    "events": 403,
-   "bytes": 263178
+   "bytes": 263389
   },
   {
    "name": "all-3",
    "file": "biopharma-earnings-3.ics",
    "events": 372,
-   "bytes": 243514
+   "bytes": 243880
   },
   {
    "name": "hcrx",
