@@ -1,5 +1,5 @@
 {
- "built_at": "2026-09-04T11:29:19.271510+00:00",
+ "built_at": "2026-09-11T16:40:07.497453+00:00",
  "companies": {
   "AAPG": {
    "cik": "0002023311",
@@ -1011,16 +1011,6 @@
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "BBOT"
   },
-  "BCAB": {
-   "cik": "0001826892",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "BioAtla, Inc.",
-   "sic": "2836",
-   "sic_description": "Biological Products, (No Diagnostic Substances)",
-   "ticker": "BCAB"
-  },
   "BCAX": {
    "cik": "0002023658",
    "exchange": "Nasdaq",
@@ -2016,7 +2006,7 @@
    "exchange": "Nasdaq",
    "ir_url": "",
    "market_cap": null,
-   "name": "Cyclerion Therapeutics, Inc.",
+   "name": "Korsana Biosciences, Inc.",
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "CYCN"
@@ -2550,16 +2540,6 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "FBLG"
-  },
-  "FBRX": {
-   "cik": "0001419041",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "Forte Biosciences, Inc.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "FBRX"
   },
   "FDMT": {
    "cik": "0001650648",
@@ -5181,16 +5161,6 @@
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "PHAT"
   },
-  "PHGE": {
-   "cik": "0001739174",
-   "exchange": "NYSE",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "BiomX Inc.",
-   "sic": "2836",
-   "sic_description": "Biological Products, (No Diagnostic Substances)",
-   "ticker": "PHGE"
-  },
   "PHIO": {
    "cik": "0001533040",
    "exchange": "Nasdaq",
@@ -5506,7 +5476,7 @@
    "exchange": "Nasdaq",
    "ir_url": "",
    "market_cap": null,
-   "name": "Quoin Pharmaceuticals, Ltd.",
+   "name": "Quoin Pharmaceuticals Ltd.",
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "QNRX"
@@ -5540,6 +5510,16 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "QURE"
+  },
+  "RACC": {
+   "cik": "0002118032",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Research Alliance Corp III",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RACC"
   },
   "RADX": {
    "cik": "0001949257",
