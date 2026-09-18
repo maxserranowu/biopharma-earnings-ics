@@ -1,5 +1,5 @@
 {
- "built_at": "2026-09-11T16:40:07.497453+00:00",
+ "built_at": "2026-09-18T17:52:50.296196+00:00",
  "companies": {
   "AAPG": {
    "cik": "0002023311",
@@ -306,7 +306,7 @@
    "exchange": "Nasdaq",
    "ir_url": "",
    "market_cap": null,
-   "name": "Agomab Therapeutics NV",
+   "name": "AgomAb Therapeutics NV",
    "sic": "2836",
    "sic_description": "Biological Products, (No Diagnostic Substances)",
    "ticker": "AGMB"
@@ -611,16 +611,6 @@
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "ANVS"
   },
-  "APGE": {
-   "cik": "0001974640",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "Apogee Therapeutics, Inc.",
-   "sic": "2836",
-   "sic_description": "Biological Products, (No Diagnostic Substances)",
-   "ticker": "APGE"
-  },
   "APLM": {
    "cik": "0001944885",
    "exchange": "Nasdaq",
@@ -800,16 +790,6 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "ASND"
-  },
-  "ATAI": {
-   "cik": "0002081043",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "AtaiBeckley Inc.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "ATAI"
   },
   "ATHE": {
    "cik": "0001131343",
@@ -1351,16 +1331,6 @@
    "sic_description": "Biological Products, (No Diagnostic Substances)",
    "ticker": "BSEM"
   },
-  "BTAI": {
-   "cik": "0001720893",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "BioXcel Therapeutics, Inc.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "BTAI"
-  },
   "BTMD": {
    "cik": "0001819253",
    "exchange": "Nasdaq",
@@ -1860,16 +1830,6 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "CRMD"
-  },
-  "CRNX": {
-   "cik": "0001658247",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "Crinetics Pharmaceuticals, Inc.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "CRNX"
   },
   "CRON": {
    "cik": "0001656472",
@@ -2381,6 +2341,16 @@
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "ENVB"
   },
+  "EOCN": {
+   "cik": "0001595353",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Galmed Pharmaceuticals Ltd.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "EOCN"
+  },
   "EOLS": {
    "cik": "0001570562",
    "exchange": "Nasdaq",
@@ -2450,6 +2420,16 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "ETON"
+  },
+  "ETRA": {
+   "cik": "0002088082",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Electra Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "ETRA"
   },
   "EVAX": {
    "cik": "0001828253",
@@ -2570,16 +2550,6 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "FHTX"
-  },
-  "FIXX": {
-   "cik": "0001661998",
-   "exchange": "CBOE",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "Q32 Bio Inc.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "FIXX"
   },
   "FLNA": {
    "cik": "0001069530",
@@ -2710,16 +2680,6 @@
    "sic": "2833",
    "sic_description": "Medicinal Chemicals & Botanical Products",
    "ticker": "GLAS"
-  },
-  "GLMD": {
-   "cik": "0001595353",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "Galmed Pharmaceuticals Ltd.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "GLMD"
   },
   "GLSI": {
    "cik": "0001799788",
@@ -5491,6 +5451,16 @@
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "QNTM"
   },
+  "QTTB": {
+   "cik": "0001661998",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Q32 Bio Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "QTTB"
+  },
   "QUCY": {
    "cik": "0001874252",
    "exchange": "Nasdaq",
@@ -5770,16 +5740,6 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "RNTX"
-  },
-  "RNXT": {
-   "cik": "0001574094",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "RenovoRx, Inc.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "RNXT"
   },
   "ROIV": {
    "cik": "0001635088",
