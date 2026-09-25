@@ -1,5 +1,5 @@
 {
- "built_at": "2026-09-18T17:52:50.296196+00:00",
+ "built_at": "2026-09-25T18:48:11.707861+00:00",
  "companies": {
   "AAPG": {
    "cik": "0002023311",
@@ -1301,16 +1301,6 @@
    "sic_description": "Medicinal Chemicals & Botanical Products",
    "ticker": "BON"
   },
-  "BRNS": {
-   "cik": "0001828185",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "Barinthus Biotherapeutics plc.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "BRNS"
-  },
   "BRVE": {
    "cik": "0002131524",
    "exchange": "Nasdaq",
@@ -1960,16 +1950,6 @@
    "sic": "2836",
    "sic_description": "Biological Products, (No Diagnostic Substances)",
    "ticker": "CVM"
-  },
-  "CYCN": {
-   "cik": "0001755237",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "Korsana Biosciences, Inc.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "CYCN"
   },
   "CYPH": {
    "cik": "0001509745",
@@ -3650,6 +3630,16 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "KRRO"
+  },
+  "KRSA": {
+   "cik": "0001755237",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Korsana Biosciences, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "KRSA"
   },
   "KRYS": {
    "cik": "0001711279",
