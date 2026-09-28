@@ -13,19 +13,19 @@
    "name": "all-1",
    "file": "biopharma-earnings-1.ics",
    "events": 416,
-   "bytes": 249492
+   "bytes": 249483
   },
   {
    "name": "all-2",
    "file": "biopharma-earnings-2.ics",
    "events": 445,
-   "bytes": 266487
+   "bytes": 266503
   },
   {
    "name": "all-3",
    "file": "biopharma-earnings-3.ics",
    "events": 414,
-   "bytes": 246764
+   "bytes": 246779
   },
   {
    "name": "hcrx",
@@ -37,7 +37,7 @@
    "name": "majors",
    "file": "biopharma-earnings-majors.ics",
    "events": 34,
-   "bytes": 72177
+   "bytes": 72217
   }
  ]
 }
