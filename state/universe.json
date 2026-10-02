@@ -1,5 +1,5 @@
 {
- "built_at": "2026-09-25T18:48:11.707861+00:00",
+ "built_at": "2026-10-02T19:29:36.964856+00:00",
  "companies": {
   "AAPG": {
    "cik": "0002023311",
@@ -260,6 +260,16 @@
    "sic": "2836",
    "sic_description": "Biological Products, (No Diagnostic Substances)",
    "ticker": "ADPT"
+  },
+  "ADRX": {
+   "cik": "0001802369",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "ADARx Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ADRX"
   },
   "ADXN": {
    "cik": "0001574232",
@@ -766,7 +776,7 @@
    "exchange": "Nasdaq",
    "ir_url": "",
    "market_cap": null,
-   "name": "Aspire Biopharma Holdings, Inc.",
+   "name": "Aspire-Lakewood Holdings, Inc.",
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "ASBP"
@@ -2856,7 +2866,7 @@
    "exchange": "Nasdaq",
    "ir_url": "",
    "market_cap": null,
-   "name": "CYBIN INC.",
+   "name": "Helus Pharma Inc.",
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "HELP"
@@ -2940,16 +2950,6 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "HYFT"
-  },
-  "HYPD": {
-   "cik": "0001682639",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "HYPERION DEFI, INC.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "HYPD"
   },
   "IBAC": {
    "cik": "0001998781",
@@ -6080,16 +6080,6 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "SNY"
-  },
-  "SNYR": {
-   "cik": "0001562733",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "Synergy CHC Corp.",
-   "sic": "2833",
-   "sic_description": "Medicinal Chemicals & Botanical Products",
-   "ticker": "SNYR"
   },
   "SPRB": {
    "cik": "0001683553",
