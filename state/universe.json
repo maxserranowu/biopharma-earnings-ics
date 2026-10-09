@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-02T19:29:36.964856+00:00",
+ "built_at": "2026-10-09T22:49:45.279602+00:00",
  "companies": {
   "AAPG": {
    "cik": "0002023311",
@@ -6280,16 +6280,6 @@
    "sic": "2836",
    "sic_description": "Biological Products, (No Diagnostic Substances)",
    "ticker": "TARS"
-  },
-  "TBPH": {
-   "cik": "0001583107",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "Theravance Biopharma, Inc.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "TBPH"
   },
   "TCRT": {
    "cik": "0001107421",
