@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-09T22:49:45.279602+00:00",
+ "built_at": "2026-10-17T00:40:34.547961+00:00",
  "companies": {
   "AAPG": {
    "cik": "0002023311",
@@ -2951,6 +2951,16 @@
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "HYFT"
   },
+  "IAM": {
+   "cik": "0001997038",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Iambic Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "IAM"
+  },
   "IBAC": {
    "cik": "0001998781",
    "exchange": "Nasdaq",
@@ -3380,6 +3390,16 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "IRD"
+  },
+  "IRLA": {
+   "cik": "0001662774",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "IRulya Therapeutics Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "IRLA"
   },
   "IRON": {
    "cik": "0001816736",
@@ -5411,16 +5431,6 @@
    "sic_description": "Biological Products, (No Diagnostic Substances)",
    "ticker": "QGEN"
   },
-  "QNCX": {
-   "cik": "0001662774",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "Quince Therapeutics, Inc.",
-   "sic": "2836",
-   "sic_description": "Biological Products, (No Diagnostic Substances)",
-   "ticker": "QNCX"
-  },
   "QNRX": {
    "cik": "0001671502",
    "exchange": "Nasdaq",
@@ -5750,6 +5760,16 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "RPRX"
+  },
+  "RTSN": {
+   "cik": "0002002988",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Retension Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "RTSN"
   },
   "RVMD": {
    "cik": "0001628171",
@@ -6530,6 +6550,16 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "TRVI"
+  },
+  "TRXB": {
+   "cik": "0002139097",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "TRex Bio, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "TRXB"
   },
   "TSHA": {
    "cik": "0001806310",
