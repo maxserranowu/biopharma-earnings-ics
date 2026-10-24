@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-17T00:40:34.547961+00:00",
+ "built_at": "2026-10-24T04:47:12.224890+00:00",
  "companies": {
   "AAPG": {
    "cik": "0002023311",
@@ -330,16 +330,6 @@
    "sic": "2836",
    "sic_description": "Biological Products, (No Diagnostic Substances)",
    "ticker": "AIM"
-  },
-  "AKAN": {
-   "cik": "0001888014",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "AKANDA CORP.",
-   "sic": "2833",
-   "sic_description": "Medicinal Chemicals & Botanical Products",
-   "ticker": "AKAN"
   },
   "AKBA": {
    "cik": "0001517022",
@@ -1921,6 +1911,16 @@
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "CTXR"
   },
+  "CTY": {
+   "cik": "0002143850",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CITY THERAPEUTICS, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CTY"
+  },
   "CUE": {
    "cik": "0001645460",
    "exchange": "Nasdaq",
@@ -2280,16 +2280,6 @@
    "sic": "2836",
    "sic_description": "Biological Products, (No Diagnostic Substances)",
    "ticker": "ENGN"
-  },
-  "ENLV": {
-   "cik": "0001596812",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "Enlivex Ltd.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "ENLV"
   },
   "ENSC": {
    "cik": "0001716947",
@@ -3990,6 +3980,16 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "LXRX"
+  },
+  "LYCA": {
+   "cik": "0001806540",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Lycia Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "LYCA"
   },
   "LYEL": {
    "cik": "0001806952",
