@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-24T04:47:12.224890+00:00",
+ "built_at": "2026-10-31T05:51:09.066160+00:00",
  "companies": {
   "AAPG": {
    "cik": "0002023311",
@@ -3840,16 +3840,6 @@
    "sic": "2836",
    "sic_description": "Biological Products, (No Diagnostic Substances)",
    "ticker": "LIMN"
-  },
-  "LITS": {
-   "cik": "0001262104",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "Lite Strategy, Inc.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "LITS"
   },
   "LKFT": {
    "cik": "0001421876",
