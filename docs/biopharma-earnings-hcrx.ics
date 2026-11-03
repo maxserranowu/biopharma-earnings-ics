@@ -13,7 +13,7 @@ X-PUBLISHED-TTL:PT120M
 COLOR:seagreen
 BEGIN:VEVENT
 UID:ADCT-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:2
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
@@ -58,7 +58,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:VSTM-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:2
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
@@ -103,7 +103,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:VNDA-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:5
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
@@ -148,7 +148,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:BBIO-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:5
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
@@ -193,7 +193,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:KPTI-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
@@ -232,7 +232,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:LQDA-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
@@ -270,39 +270,46 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:ARDX-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
-SEQUENCE:2
+DTSTAMP:20261103T215248Z
+SEQUENCE:3
 DTSTART:20261103T213000Z
 DTEND:20261103T223000Z
 SUMMARY:ARDX Q3 2026 Earnings Call (est. time)
 DESCRIPTION:ARDELYX\, INC.\nTicker: ARDX\nQuarter: Q3 2026\nDate/Time: Tues
- day\, November 3\, 2026 at 4:30 PM ET  (estimated)\nStatus: Expected (date
-  not yet company-confirmed)\n\nWebcast: Not yet published\nDial-In: Not ye
- t published\nInvestor Relations: Not yet published\nEarnings Release: Not 
- yet published\nPresentation: Not yet published\nReplay: Not yet published\
- n\nSources: nasdaq\nLast updated: 2026-10-21T13:52:48Z  (revision 2)
+ day\, November 3\, 2026 at 4:30 PM ET  (estimated)\nStatus: Confirmed by c
+ ompany\n\nWebcast: Not yet published\nDial-In: Not yet published\nInvestor
+  Relations: Not yet published\nEarnings Release: https://www.sec.gov/Archi
+ ves/edgar/data/1437402/000143740226000058/ardx-20261103.htm\nPresentation:
+  Not yet published\nReplay: Not yet published\n\nSources: nasdaq\, sec_8k\
+ nLast updated: 2026-11-03T21:52:48Z  (revision 3)
 X-ALT-DESC;FMTTYPE=text/html:<html><body style="font-family:Segoe UI\,Arial
  \,sans-serif\;font-size:11pt"><p><b>ARDELYX\, INC.</b> (ARDX)<br>Q3 2026 &
  middot\; Tuesday\, November 3\, 2026 at 4:30 PM ET  (estimated)<br><span s
- tyle='color:#666'>Expected (date not yet company-confirmed)</span></p><tab
- le cellspacing='0' cellpadding='0'><tr><td style='padding:2px 12px 2px 0'>
- <b>Webcast</b></td><td style='padding:2px 0'><i>Not yet published</i></td>
- </tr><tr><td style='padding:2px 12px 2px 0'><b>Dial-In</b></td><td style='
- padding:2px 0'><i>Not yet published</i></td></tr><tr><td style='padding:2p
- x 12px 2px 0'><b>Investor Relations</b></td><td style='padding:2px 0'><i>N
- ot yet published</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Ea
- rnings Release</b></td><td style='padding:2px 0'><i>Not yet published</i><
- /td></tr><tr><td style='padding:2px 12px 2px 0'><b>Presentation</b></td><t
+ tyle='color:#666'>Confirmed by company</span></p><table cellspacing='0' ce
+ llpadding='0'><tr><td style='padding:2px 12px 2px 0'><b>Webcast</b></td><t
  d style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style='p
- adding:2px 12px 2px 0'><b>Replay</b></td><td style='padding:2px 0'><i>Not 
- yet published</i></td></tr></table><p style='color:#888\;font-size:9pt'>So
- urces: nasdaq &middot\; Last updated 2026-10-21T13:52:48Z (rev 2)</p></bod
- y></html>
-STATUS:TENTATIVE
+ adding:2px 12px 2px 0'><b>Dial-In</b></td><td style='padding:2px 0'><i>Not
+  yet published</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Inve
+ stor Relations</b></td><td style='padding:2px 0'><i>Not yet published</i><
+ /td></tr><tr><td style='padding:2px 12px 2px 0'><b>Earnings Release</b></t
+ d><td style='padding:2px 0'><a href="https://www.sec.gov/Archives/edgar/da
+ ta/1437402/000143740226000058/ardx-20261103.htm">https://www.sec.gov/Archi
+ ves/edgar/data/1437402/000143740226000058/ard&hellip\;</a></td></tr><tr><t
+ d style='padding:2px 12px 2px 0'><b>Presentation</b></td><td style='paddin
+ g:2px 0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px
+  2px 0'><b>Replay</b></td><td style='padding:2px 0'><i>Not yet published</
+ i></td></tr></table><p style='color:#888\;font-size:9pt'>Sources: nasdaq\,
+  sec_8k &middot\; Last updated 2026-11-03T21:52:48Z (rev 3)</p></body></ht
+ ml>
+URL;VALUE=URI:https://www.sec.gov/Archives/edgar/data/1437402/0001437402260
+ 00058/ardx-20261103.htm
+LOCATION:https://www.sec.gov/Archives/edgar/data/1437402/000143740226000058
+ /ardx-20261103.htm
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 CATEGORIES:Earnings,Biopharma
-LAST-MODIFIED:20261021T135248Z
+LAST-MODIFIED:20261103T215248Z
 CREATED:20260903T002051Z
 X-BIOPHARMA-TICKER:ARDX
 X-BIOPHARMA-CONFIDENCE:estimated
@@ -314,7 +321,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:RYTM-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:3
 DTSTART:20261103T130000Z
 DTEND:20261103T140000Z
@@ -365,40 +372,46 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ZVRA-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
-SEQUENCE:2
+DTSTAMP:20261103T215248Z
+SEQUENCE:3
 DTSTART:20261103T213000Z
 DTEND:20261103T223000Z
 SUMMARY:ZVRA Q3 2026 Earnings Call (est. time)
 DESCRIPTION:ZEVRA THERAPEUTICS\, INC.\nTicker: ZVRA\nQuarter: Q3 2026\nDate
- /Time: Tuesday\, November 3\, 2026 at 4:30 PM ET  (estimated)\nStatus: Exp
- ected (date not yet company-confirmed)\n\nWebcast: Not yet published\nDial
- -In: Not yet published\nInvestor Relations: Not yet published\nEarnings Re
- lease: Not yet published\nPresentation: Not yet published\nReplay: Not yet
-  published\n\nSources: nasdaq\nLast updated: 2026-10-21T13:52:48Z  (revisi
- on 2)
+ /Time: Tuesday\, November 3\, 2026 at 4:30 PM ET  (estimated)\nStatus: Con
+ firmed by company\n\nWebcast: Not yet published\nDial-In: Not yet publishe
+ d\nInvestor Relations: Not yet published\nEarnings Release: https://www.se
+ c.gov/Archives/edgar/data/1434647/000143464726000085/zvra-20261103.htm\nPr
+ esentation: Not yet published\nReplay: Not yet published\n\nSources: nasda
+ q\, sec_8k\nLast updated: 2026-11-03T21:52:48Z  (revision 3)
 X-ALT-DESC;FMTTYPE=text/html:<html><body style="font-family:Segoe UI\,Arial
  \,sans-serif\;font-size:11pt"><p><b>ZEVRA THERAPEUTICS\, INC.</b> (ZVRA)<b
  r>Q3 2026 &middot\; Tuesday\, November 3\, 2026 at 4:30 PM ET  (estimated)
- <br><span style='color:#666'>Expected (date not yet company-confirmed)</sp
- an></p><table cellspacing='0' cellpadding='0'><tr><td style='padding:2px 1
- 2px 2px 0'><b>Webcast</b></td><td style='padding:2px 0'><i>Not yet publish
- ed</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Dial-In</b></td>
- <td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style=
- 'padding:2px 12px 2px 0'><b>Investor Relations</b></td><td style='padding:
- 2px 0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 2
- px 0'><b>Earnings Release</b></td><td style='padding:2px 0'><i>Not yet pub
- lished</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Presentation
+ <br><span style='color:#666'>Confirmed by company</span></p><table cellspa
+ cing='0' cellpadding='0'><tr><td style='padding:2px 12px 2px 0'><b>Webcast
  </b></td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><
- td style='padding:2px 12px 2px 0'><b>Replay</b></td><td style='padding:2px
-  0'><i>Not yet published</i></td></tr></table><p style='color:#888\;font-s
- ize:9pt'>Sources: nasdaq &middot\; Last updated 2026-10-21T13:52:48Z (rev 
- 2)</p></body></html>
-STATUS:TENTATIVE
+ td style='padding:2px 12px 2px 0'><b>Dial-In</b></td><td style='padding:2p
+ x 0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 2px
+  0'><b>Investor Relations</b></td><td style='padding:2px 0'><i>Not yet pub
+ lished</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Earnings Rel
+ ease</b></td><td style='padding:2px 0'><a href="https://www.sec.gov/Archiv
+ es/edgar/data/1434647/000143464726000085/zvra-20261103.htm">https://www.se
+ c.gov/Archives/edgar/data/1434647/000143464726000085/zvr&hellip\;</a></td>
+ </tr><tr><td style='padding:2px 12px 2px 0'><b>Presentation</b></td><td st
+ yle='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style='paddi
+ ng:2px 12px 2px 0'><b>Replay</b></td><td style='padding:2px 0'><i>Not yet 
+ published</i></td></tr></table><p style='color:#888\;font-size:9pt'>Source
+ s: nasdaq\, sec_8k &middot\; Last updated 2026-11-03T21:52:48Z (rev 3)</p>
+ </body></html>
+URL;VALUE=URI:https://www.sec.gov/Archives/edgar/data/1434647/0001434647260
+ 00085/zvra-20261103.htm
+LOCATION:https://www.sec.gov/Archives/edgar/data/1434647/000143464726000085
+ /zvra-20261103.htm
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 CATEGORIES:Earnings,Biopharma
-LAST-MODIFIED:20261021T135248Z
+LAST-MODIFIED:20261103T215248Z
 CREATED:20260909T001942Z
 X-BIOPHARMA-TICKER:ZVRA
 X-BIOPHARMA-CONFIDENCE:estimated
@@ -410,7 +423,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:OPK-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:16
 DTSTART:20261104T213000Z
 DTEND:20261104T223000Z
@@ -454,7 +467,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:QURE-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:4
 DTSTART:20261104T130000Z
 DTEND:20261104T140000Z
@@ -498,7 +511,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:AGEN-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:1
 DTSTART:20261105T130000Z
 DTEND:20261105T140000Z
@@ -542,7 +555,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:AKBA-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:1
 DTSTART:20261105T130000Z
 DTEND:20261105T140000Z
@@ -587,7 +600,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:APVO-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:3
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
@@ -625,7 +638,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:CRIS-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
@@ -663,7 +676,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:LNTH-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
@@ -701,7 +714,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:RGNX-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:8
 DTSTART:20261105T130000Z
 DTEND:20261105T140000Z
@@ -745,7 +758,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:CHRS-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:2
 DTSTART:20261109T213000Z
 DTEND:20261109T223000Z
@@ -790,7 +803,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:TBPH-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:3
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
@@ -830,7 +843,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:TGTX-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:1
 DTSTART:20261109T130000Z
 DTEND:20261109T140000Z
@@ -875,7 +888,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ATRA-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:9
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
@@ -914,7 +927,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:INVA-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:6
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
@@ -952,7 +965,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:NKTR-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:2
 DTSTART:20261112T213000Z
 DTEND:20261112T223000Z
@@ -997,7 +1010,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:SPRO-FY2026Q3@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:7
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
@@ -1036,7 +1049,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:APMD-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
@@ -1074,7 +1087,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:TGTX-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:1
 DTSTART:20270111T213000Z
 DTEND:20270111T223000Z
@@ -1114,7 +1127,7 @@ X-BIOPHARMA-CONFIDENCE:estimated
 END:VEVENT
 BEGIN:VEVENT
 UID:VNDA-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:3
 DTSTART:20270209T213000Z
 DTEND:20270209T223000Z
@@ -1155,7 +1168,7 @@ X-BIOPHARMA-CONFIDENCE:estimated
 END:VEVENT
 BEGIN:VEVENT
 UID:KPTI-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:3
 DTSTART:20270210T213000Z
 DTEND:20270210T223000Z
@@ -1196,7 +1209,7 @@ X-BIOPHARMA-CONFIDENCE:estimated
 END:VEVENT
 BEGIN:VEVENT
 UID:INVA-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:3
 DTSTART:20270223T213000Z
 DTEND:20270223T223000Z
@@ -1236,7 +1249,7 @@ X-BIOPHARMA-CONFIDENCE:estimated
 END:VEVENT
 BEGIN:VEVENT
 UID:AKBA-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:2
 DTSTART:20270224T213000Z
 DTEND:20270224T223000Z
@@ -1281,97 +1294,88 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:LNTH-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
-SEQUENCE:2
+DTSTAMP:20261103T215248Z
+SEQUENCE:3
 DTSTART:20270224T213000Z
 DTEND:20270224T223000Z
-SUMMARY:LNTH Q4 2026 Earnings Call (est. time)
+SUMMARY:CANCELLED: LNTH Q4 2026 Earnings Call
 DESCRIPTION:Lantheus Holdings\, Inc.\nTicker: LNTH\nQuarter: Q4 2026\nDate/
- Time: Wednesday\, February 24\, 2027 at 4:30 PM ET  (estimated)\nStatus: E
- xpected (date not yet company-confirmed)\n\nWebcast: Not yet published\nDi
- al-In: Not yet published\nInvestor Relations: Not yet published\nEarnings 
- Release: Not yet published\nPresentation: Not yet published\nReplay: Not y
- et published\n\nSources: finnhub\nLast updated: 2026-10-06T01:23:41Z  (rev
- ision 2)
+ Time: Wednesday\, February 24\, 2027 at 4:30 PM ET  (estimated)\nStatus: C
+ ancelled / withdrawn\n\nWebcast: Not yet published\nDial-In: Not yet publi
+ shed\nInvestor Relations: Not yet published\nEarnings Release: Not yet pub
+ lished\nPresentation: Not yet published\nReplay: Not yet published\n\nNo l
+ onger appears in any source\; treated as cancelled or withdrawn.\n\nSource
+ s: finnhub\nLast updated: 2026-11-03T21:52:48Z  (revision 3)
 X-ALT-DESC;FMTTYPE=text/html:<html><body style="font-family:Segoe UI\,Arial
  \,sans-serif\;font-size:11pt"><p><b>Lantheus Holdings\, Inc.</b> (LNTH)<br
  >Q4 2026 &middot\; Wednesday\, February 24\, 2027 at 4:30 PM ET  (estimate
- d)<br><span style='color:#666'>Expected (date not yet company-confirmed)</
- span></p><table cellspacing='0' cellpadding='0'><tr><td style='padding:2px
-  12px 2px 0'><b>Webcast</b></td><td style='padding:2px 0'><i>Not yet publi
- shed</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Dial-In</b></t
- d><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td styl
- e='padding:2px 12px 2px 0'><b>Investor Relations</b></td><td style='paddin
- g:2px 0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px
-  2px 0'><b>Earnings Release</b></td><td style='padding:2px 0'><i>Not yet p
- ublished</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Presentati
- on</b></td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr
- ><td style='padding:2px 12px 2px 0'><b>Replay</b></td><td style='padding:2
- px 0'><i>Not yet published</i></td></tr></table><p style='color:#888\;font
- -size:9pt'>Sources: finnhub &middot\; Last updated 2026-10-06T01:23:41Z (r
- ev 2)</p></body></html>
-STATUS:TENTATIVE
+ d)<br><span style='color:#666'>Cancelled / withdrawn</span></p><table cell
+ spacing='0' cellpadding='0'><tr><td style='padding:2px 12px 2px 0'><b>Webc
+ ast</b></td><td style='padding:2px 0'><i>Not yet published</i></td></tr><t
+ r><td style='padding:2px 12px 2px 0'><b>Dial-In</b></td><td style='padding
+ :2px 0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 
+ 2px 0'><b>Investor Relations</b></td><td style='padding:2px 0'><i>Not yet 
+ published</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Earnings 
+ Release</b></td><td style='padding:2px 0'><i>Not yet published</i></td></t
+ r><tr><td style='padding:2px 12px 2px 0'><b>Presentation</b></td><td style
+ ='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style='padding:
+ 2px 12px 2px 0'><b>Replay</b></td><td style='padding:2px 0'><i>Not yet pub
+ lished</i></td></tr></table><p>No longer appears in any source\; treated a
+ s cancelled or withdrawn.</p><p style='color:#888\;font-size:9pt'>Sources:
+  finnhub &middot\; Last updated 2026-11-03T21:52:48Z (rev 3)</p></body></h
+ tml>
+STATUS:CANCELLED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 CATEGORIES:Earnings,Biopharma
-LAST-MODIFIED:20261006T012341Z
+LAST-MODIFIED:20261103T215248Z
 CREATED:20260808T022640Z
 X-BIOPHARMA-TICKER:LNTH
 X-BIOPHARMA-CONFIDENCE:estimated
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:LNTH Q4 2026 Earnings Call (est. time)
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:OPK-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
-SEQUENCE:2
+DTSTAMP:20261103T215248Z
+SEQUENCE:3
 DTSTART:20270224T213000Z
 DTEND:20270224T223000Z
-SUMMARY:OPK Q4 2026 Earnings Call (est. time)
+SUMMARY:CANCELLED: OPK Q4 2026 Earnings Call
 DESCRIPTION:OPKO HEALTH\, INC.\nTicker: OPK\nQuarter: Q4 2026\nDate/Time: W
- ednesday\, February 24\, 2027 at 4:30 PM ET  (estimated)\nStatus: Expected
-  (date not yet company-confirmed)\n\nWebcast: Not yet published\nDial-In: 
- Not yet published\nInvestor Relations: Not yet published\nEarnings Release
- : Not yet published\nPresentation: Not yet published\nReplay: Not yet publ
- ished\n\nSources: finnhub\nLast updated: 2026-10-06T01:23:41Z  (revision 2
- )
+ ednesday\, February 24\, 2027 at 4:30 PM ET  (estimated)\nStatus: Cancelle
+ d / withdrawn\n\nWebcast: Not yet published\nDial-In: Not yet published\nI
+ nvestor Relations: Not yet published\nEarnings Release: Not yet published\
+ nPresentation: Not yet published\nReplay: Not yet published\n\nNo longer a
+ ppears in any source\; treated as cancelled or withdrawn.\n\nSources: finn
+ hub\nLast updated: 2026-11-03T21:52:48Z  (revision 3)
 X-ALT-DESC;FMTTYPE=text/html:<html><body style="font-family:Segoe UI\,Arial
  \,sans-serif\;font-size:11pt"><p><b>OPKO HEALTH\, INC.</b> (OPK)<br>Q4 202
  6 &middot\; Wednesday\, February 24\, 2027 at 4:30 PM ET  (estimated)<br><
- span style='color:#666'>Expected (date not yet company-confirmed)</span></
- p><table cellspacing='0' cellpadding='0'><tr><td style='padding:2px 12px 2
- px 0'><b>Webcast</b></td><td style='padding:2px 0'><i>Not yet published</i
- ></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Dial-In</b></td><td s
- tyle='padding:2px 0'><i>Not yet published</i></td></tr><tr><td style='padd
- ing:2px 12px 2px 0'><b>Investor Relations</b></td><td style='padding:2px 0
- '><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 2px 0'
- ><b>Earnings Release</b></td><td style='padding:2px 0'><i>Not yet publishe
- d</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Presentation</b><
- /td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td st
- yle='padding:2px 12px 2px 0'><b>Replay</b></td><td style='padding:2px 0'><
- i>Not yet published</i></td></tr></table><p style='color:#888\;font-size:9
- pt'>Sources: finnhub &middot\; Last updated 2026-10-06T01:23:41Z (rev 2)</
- p></body></html>
-STATUS:TENTATIVE
+ span style='color:#666'>Cancelled / withdrawn</span></p><table cellspacing
+ ='0' cellpadding='0'><tr><td style='padding:2px 12px 2px 0'><b>Webcast</b>
+ </td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><td s
+ tyle='padding:2px 12px 2px 0'><b>Dial-In</b></td><td style='padding:2px 0'
+ ><i>Not yet published</i></td></tr><tr><td style='padding:2px 12px 2px 0'>
+ <b>Investor Relations</b></td><td style='padding:2px 0'><i>Not yet publish
+ ed</i></td></tr><tr><td style='padding:2px 12px 2px 0'><b>Earnings Release
+ </b></td><td style='padding:2px 0'><i>Not yet published</i></td></tr><tr><
+ td style='padding:2px 12px 2px 0'><b>Presentation</b></td><td style='paddi
+ ng:2px 0'><i>Not yet published</i></td></tr><tr><td style='padding:2px 12p
+ x 2px 0'><b>Replay</b></td><td style='padding:2px 0'><i>Not yet published<
+ /i></td></tr></table><p>No longer appears in any source\; treated as cance
+ lled or withdrawn.</p><p style='color:#888\;font-size:9pt'>Sources: finnhu
+ b &middot\; Last updated 2026-11-03T21:52:48Z (rev 3)</p></body></html>
+STATUS:CANCELLED
 TRANSP:TRANSPARENT
 CLASS:PUBLIC
 CATEGORIES:Earnings,Biopharma
-LAST-MODIFIED:20261006T012341Z
+LAST-MODIFIED:20261103T215248Z
 CREATED:20260808T022640Z
 X-BIOPHARMA-TICKER:OPK
 X-BIOPHARMA-CONFIDENCE:estimated
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:OPK Q4 2026 Earnings Call (est. time)
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:RYTM-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:3
 DTSTART:20270224T213000Z
 DTEND:20270224T223000Z
@@ -1412,7 +1416,7 @@ X-BIOPHARMA-CONFIDENCE:estimated
 END:VEVENT
 BEGIN:VEVENT
 UID:VSTM-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:2
 DTSTART:20270302T213000Z
 DTEND:20270302T223000Z
@@ -1456,7 +1460,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:LQDA-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:2
 DTSTART:20270303T213000Z
 DTEND:20270303T223000Z
@@ -1500,7 +1504,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:RGNX-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:2
 DTSTART:20270303T213000Z
 DTEND:20270303T223000Z
@@ -1544,7 +1548,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:CHRS-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:2
 DTSTART:20270308T213000Z
 DTEND:20270308T223000Z
@@ -1588,7 +1592,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ZVRA-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:2
 DTSTART:20270308T213000Z
 DTEND:20270308T223000Z
@@ -1633,7 +1637,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:NKTR-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:2
 DTSTART:20270310T213000Z
 DTEND:20270310T223000Z
@@ -1677,7 +1681,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:AGEN-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:2
 DTSTART:20270315T203000Z
 DTEND:20270315T213000Z
@@ -1721,7 +1725,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ATRA-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:2
 DTSTART:20270315T203000Z
 DTEND:20270315T213000Z
@@ -1766,7 +1770,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:CRIS-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:2
 DTSTART:20270317T203000Z
 DTEND:20270317T213000Z
@@ -1810,7 +1814,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:TBPH-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:1
 DTSTART:20270317T203000Z
 DTEND:20270317T213000Z
@@ -1851,7 +1855,7 @@ X-BIOPHARMA-CONFIDENCE:estimated
 END:VEVENT
 BEGIN:VEVENT
 UID:APVO-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:2
 DTSTART:20270324T203000Z
 DTEND:20270324T213000Z
@@ -1896,7 +1900,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:SPRO-FY2026Q4@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:2
 DTSTART:20270324T203000Z
 DTEND:20270324T213000Z
@@ -1941,7 +1945,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:OPK-FY2027Q1@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270427
@@ -1981,7 +1985,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:LNTH-FY2027Q1@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270504
@@ -2021,7 +2025,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:RYTM-FY2027Q1@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270504
@@ -2061,7 +2065,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:INVA-FY2027Q1@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
@@ -2101,7 +2105,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:TGTX-FY2027Q1@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
@@ -2141,7 +2145,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:VNDA-FY2027Q1@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
@@ -2181,7 +2185,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:ZVRA-FY2027Q1@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
@@ -2221,7 +2225,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:AKBA-FY2027Q1@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
@@ -2260,7 +2264,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:NKTR-FY2027Q1@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
@@ -2300,7 +2304,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:VSTM-FY2027Q1@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:1
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
@@ -2340,7 +2344,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:AGEN-FY2027Q1@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270511
@@ -2378,7 +2382,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:ATRA-FY2027Q1@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270511
@@ -2417,7 +2421,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:CHRS-FY2027Q1@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270511
@@ -2455,7 +2459,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:CRIS-FY2027Q1@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270511
@@ -2493,7 +2497,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:LQDA-FY2027Q1@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270511
@@ -2531,7 +2535,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:APVO-FY2027Q1@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
@@ -2569,7 +2573,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:SPRO-FY2027Q1@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
@@ -2607,7 +2611,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:KPTI-FY2027Q1@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
@@ -2646,7 +2650,7 @@ X-BIOPHARMA-CONFIDENCE:unknown
 END:VEVENT
 BEGIN:VEVENT
 UID:RGNX-FY2027Q1@biopharma-earnings.feeds
-DTSTAMP:20261103T161922Z
+DTSTAMP:20261103T215248Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
