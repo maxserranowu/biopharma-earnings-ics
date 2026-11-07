@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-31T05:51:09.066160+00:00",
+ "built_at": "2026-11-07T08:58:20.651816+00:00",
  "companies": {
   "AAPG": {
    "cik": "0002023311",
@@ -230,16 +230,6 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "ADCT"
-  },
-  "ADIL": {
-   "cik": "0001513525",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "ADIAL PHARMACEUTICALS, INC.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "ADIL"
   },
   "ADMA": {
    "cik": "0001368514",
@@ -541,6 +531,16 @@
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "ANAB"
   },
+  "ANEB": {
+   "cik": "0001815974",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Anebulo Pharmaceuticals, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ANEB"
+  },
   "ANIP": {
    "cik": "0001023024",
    "exchange": "Nasdaq",
@@ -791,6 +791,16 @@
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "ASND"
   },
+  "ASPE": {
+   "cik": "0002124080",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Aspen Neuroscience, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ASPE"
+  },
   "ATHE": {
    "cik": "0001131343",
    "exchange": "Nasdaq",
@@ -961,6 +971,16 @@
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "AZN"
   },
+  "AZR": {
+   "cik": "0001513525",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Azora Therapeutics, Inc. (DE)",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AZR"
+  },
   "AZTR": {
    "cik": "0001701478",
    "exchange": "NYSE",
@@ -990,6 +1010,16 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "BBOT"
+  },
+  "BBTX": {
+   "cik": "0002044950",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Bambusa Therapeutics, Inc.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "BBTX"
   },
   "BCAX": {
    "cik": "0002023658",
@@ -3246,7 +3276,7 @@
    "exchange": "Nasdaq",
    "ir_url": "",
    "market_cap": null,
-   "name": "Indivior Pharmaceuticals, Inc.",
+   "name": "Supernus, Inc.",
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "INDV"
@@ -6200,16 +6230,6 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "STTK"
-  },
-  "SUPN": {
-   "cik": "0001356576",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "SUPERNUS PHARMACEUTICALS, INC.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "SUPN"
   },
   "SVA": {
    "cik": "0001084201",
