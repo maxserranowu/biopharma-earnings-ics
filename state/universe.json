@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-07T08:58:20.651816+00:00",
+ "built_at": "2026-11-14T15:15:37.286682+00:00",
  "companies": {
   "AAPG": {
    "cik": "0002023311",
@@ -270,6 +270,16 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "ADXN"
+  },
+  "AEMD": {
+   "cik": "0000882291",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "AETHLON MEDICAL INC",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "AEMD"
   },
   "AEON": {
    "cik": "0001837607",
@@ -1681,6 +1691,16 @@
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "CNSP"
   },
+  "CNSY": {
+   "cik": "0001095981",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "CERENOME, INC.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "CNSY"
+  },
   "CNTB": {
    "cik": "0001835268",
    "exchange": "Nasdaq",
@@ -2356,7 +2376,7 @@
    "exchange": "Nasdaq",
    "ir_url": "",
    "market_cap": null,
-   "name": "Galmed Pharmaceuticals Ltd.",
+   "name": "EoCene Ltd.",
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "EOCN"
@@ -3891,16 +3911,6 @@
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "LLY"
   },
-  "LNAI": {
-   "cik": "0001527728",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "Lunai Bioworks Inc.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "LNAI"
-  },
   "LNTH": {
    "cik": "0001521036",
    "exchange": "Nasdaq",
@@ -4846,7 +4856,7 @@
    "exchange": "Nasdaq",
    "ir_url": "",
    "market_cap": null,
-   "name": "Olema Pharmaceuticals, Inc.",
+   "name": "Olema Oncology, Inc.",
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "OLMA"
@@ -6960,6 +6970,16 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "WVE"
+  },
+  "WWB": {
+   "cik": "0002145089",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "WINDWARD BIO GROUP AG",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "WWB"
   },
   "XBIO": {
    "cik": "0001534525",

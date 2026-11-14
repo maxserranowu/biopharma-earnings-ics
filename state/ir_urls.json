@@ -134,6 +134,11 @@
   "source": "none",
   "url": ""
  },
+ "AEMD": {
+  "checked_at": "2026-11-14T15:20:02+00:00",
+  "source": "none",
+  "url": ""
+ },
  "AEON": {
   "checked_at": "2026-11-06T21:34:20+00:00",
   "source": "none",
@@ -816,6 +821,11 @@
  },
  "CNSP": {
   "checked_at": "2026-11-06T21:34:20+00:00",
+  "source": "none",
+  "url": ""
+ },
+ "CNSY": {
+  "checked_at": "2026-11-14T15:20:02+00:00",
   "source": "none",
   "url": ""
  },
