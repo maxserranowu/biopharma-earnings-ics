@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-14T15:15:37.286682+00:00",
+ "built_at": "2026-11-21T20:42:45.306842+00:00",
  "companies": {
   "AAPG": {
    "cik": "0002023311",
@@ -540,16 +540,6 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "ANAB"
-  },
-  "ANEB": {
-   "cik": "0001815974",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "Anebulo Pharmaceuticals, Inc.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "ANEB"
   },
   "ANIP": {
    "cik": "0001023024",
@@ -1216,7 +1206,7 @@
    "exchange": "Nasdaq",
    "ir_url": "",
    "market_cap": null,
-   "name": "Black Hawk Acquisition Corp",
+   "name": "Vesicor Therapeutics Holdings, Inc.",
    "sic": "2836",
    "sic_description": "Biological Products, (No Diagnostic Substances)",
    "ticker": "BKHA"
@@ -2011,16 +2001,6 @@
    "sic_description": "Biological Products, (No Diagnostic Substances)",
    "ticker": "CVM"
   },
-  "CYPH": {
-   "cik": "0001509745",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "CYPHERPUNK TECHNOLOGIES INC.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "CYPH"
-  },
   "CYRX": {
    "cik": "0001124524",
    "exchange": "Nasdaq",
@@ -2761,16 +2741,6 @@
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "GNPX"
   },
-  "GNTA": {
-   "cik": "0001838716",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "Genenta Science S.p.A.",
-   "sic": "2836",
-   "sic_description": "Biological Products, (No Diagnostic Substances)",
-   "ticker": "GNTA"
-  },
   "GOSS": {
    "cik": "0001728117",
    "exchange": "Nasdaq",
@@ -3291,16 +3261,6 @@
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "INDP"
   },
-  "INDV": {
-   "cik": "0001625297",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "Supernus, Inc.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "INDV"
-  },
   "INKT": {
    "cik": "0001840229",
    "exchange": "Nasdaq",
@@ -3311,22 +3271,12 @@
    "sic_description": "Biological Products, (No Diagnostic Substances)",
    "ticker": "INKT"
   },
-  "INM": {
-   "cik": "0001728328",
-   "exchange": "Nasdaq",
-   "ir_url": "",
-   "market_cap": null,
-   "name": "InMed Pharmaceuticals Inc.",
-   "sic": "2834",
-   "sic_description": "Pharmaceutical Preparations",
-   "ticker": "INM"
-  },
   "INMB": {
    "cik": "0001711754",
    "exchange": "Nasdaq",
    "ir_url": "",
    "market_cap": null,
-   "name": "Inmune Bio, Inc.",
+   "name": "Inmune Bio Inc.",
    "sic": "2836",
    "sic_description": "Biological Products, (No Diagnostic Substances)",
    "ticker": "INMB"
@@ -4370,6 +4320,16 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "MTNB"
+  },
+  "MTRI": {
+   "cik": "0001728328",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Mentari Therapeutics, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "MTRI"
   },
   "MTVA": {
    "cik": "0001638287",
@@ -5851,6 +5811,16 @@
    "sic_description": "Biological Products, (No Diagnostic Substances)",
    "ticker": "SABS"
   },
+  "SAEN": {
+   "cik": "0001838716",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Genenta Science S.p.A.",
+   "sic": "2836",
+   "sic_description": "Biological Products, (No Diagnostic Substances)",
+   "ticker": "SAEN"
+  },
   "SANA": {
    "cik": "0001770121",
    "exchange": "Nasdaq",
@@ -6240,6 +6210,16 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "STTK"
+  },
+  "SUPN": {
+   "cik": "0001625297",
+   "exchange": "Nasdaq",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Supernus, Inc.",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "SUPN"
   },
   "SVA": {
    "cik": "0001084201",
@@ -7120,6 +7100,16 @@
    "sic": "2834",
    "sic_description": "Pharmaceutical Preparations",
    "ticker": "ZNTL"
+  },
+  "ZOAR": {
+   "cik": "0002078148",
+   "exchange": "NYSE",
+   "ir_url": "",
+   "market_cap": null,
+   "name": "Zoar Ltd",
+   "sic": "2834",
+   "sic_description": "Pharmaceutical Preparations",
+   "ticker": "ZOAR"
   },
   "ZTS": {
    "cik": "0001555280",
